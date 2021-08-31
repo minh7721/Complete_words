@@ -1,0 +1,3290 @@
+A. GIỚI THIỆU CHUNG
+I. MỤC ĐÍCH ĐẶT BẢO VỆ
+Trong hệ thống điện, máy biến áp là một trong những phần tử quan trọng nhất
+liên kết hệ thống sản xuất, truyền tải và phân phối. Vì vậy, việc nghiên cứu các tình
+trạng làm việc không bình thường, sự cố... xảy ra với MBA là rất cần thiết.
+Để bảo vệ cho MBA làm việc an toàn cần phải tính đầy đủ các hư hỏng bên
+trong MBA và các yếu tố bên ngoài ảnh hưởng đến sự làm việc bình thường của máy
+biến áp. Từ đó đề ra các phương án bảo vệ tốt nhất, loại trừ các hư hỏng và ngăn
+ngừa các yếu tố bên ngoài ảnh hưởng đến sự làm việc của MBA.
+
+II. CÁC HƯ HỎNG VÀ TÌNH TRẠNG LÀM VIỆC
+KHÔNG BÌNH THƯỜNG XẢY RA VỚI MBA
+II.1. Sự cố bên trong MBA:
+Sự cố bên trong được chia làm hai nhóm sự cố trực tiếp và sự cố gián tiếp.
+1. Sự cố trực tiếp là ngắn mạch các cuộn dây, hư hỏng cách điện làm thay đổi
+đột ngột các thông số điện.
+2. Sự cố gián tiếp diễn ra từ từ nhưng sẽ trở thành sự cố trực tiếp nếu không
+phát hiện và xử lý kịp thời (như quá nhiệt bên trong MBA, áp suất dầu tăng cao...).
+Vì vậy yêu cầu bảo vệ sự cố trực
+A B C
+A
+C
+tiếp phải nhanh chóng cách ly MBA bị sự A B C
+cố ra khỏi hệ thống điện để giảm ảnh
+hưởng đến hệ thống. Sự cố gián tiếp
+không đòi hỏi phải cách ly MBA nhưng
+phải được phát hiện, có tín hiệu báo cho
+nhân viên vận hành biết để xử lý. Sau đây
+phân tích một số sự cố bên trong thường
+gặp.
+II.1.1. Ngắn mạch giữa các pha
+trong MBA ba pha:
+Dạng ngắn mạch này (hình 2.1) rất
+hiếm khi xảy ra, nhưng nếu xảy ra dòng
+ngắn mạch sẽ rất lớn so với dòng một pha.
+
+53
+
+a/
+
+b/
+
+c/
+
+Hnh 2.1: Ngaĩn mách nhieău pha
+trong cuoôn dađy MBA
+
+II.1.2. Ngắn mạch một pha:
+% cụa dong I1xmax
+
+100
+80
+
+Dong chám
+
+I
+
+60
+
+IS
+
+Z
+
+Ix
+
+IS
+
+40
+
+Dong s caâp
+
+20
+0
+
+Hnh 2.2: Ngaĩn mách moôt pha chám aât
+
+Khoạng cach
+t trung tnh
+eân ieơm
+chám (%
+cuoôn dađy)
+
+20
+
+40
+
+60
+
+80
+
+100
+
+Hnh 2.3: Dong ieôn chám aât moôt pha
+cụa MBA noâi aât qua toơng tr
+
+Có thể là chạm vỏ hoặc chạm lõi thép MBA. Dòng ngắn mạch một pha lớn
+hay nhỏ phụ thuộc chế độ làm việc của điểm trung tính MBA đối với đất và tỷ lệ vào
+khoảng cách từ điểm chạm đất đến điểm trung tính.
+Dưới đây là đồ thị quan hệ dòng điện sự cố theo vị trí điểm ngắn mạch (hình
+2.3). Từ đồ thị ta thấy khi điểm sự cố dịch chuyển xa điểm trung tính tới đầu cực
+MBA, dòng điện sự cố càng tăng.
+II.1.3. Ngắn mạch giữa các vòng dây của cùng một pha:
+Khoảng (70÷80)% hư hỏng MBA là từ
+chạm chập giữa các vòng dây cùng 1 pha bên
+trong MBA (hình 2.4).
+Trường hợp này dòng điện tại chổ
+ngắn mạch rất lớn vì một số vòng dây bị nối
+ngắn mạch, dòng điện này phát nóng đốt cháy
+cách điện cuộn dây và dầu biến áp, nhưng
+dòng điện từ nguồn tới máy biến áp IS có thể
+Hnh 2.4: Ngaĩn mách gia cac vong
+vẫn nhỏ (vì tỷ số MBA rất lớn so với số ít
+dađy trong cung moôt pha
+vòng dây bị ngắn mạch) không đủ cho bảo vệ
+rơle tác động.
+Ngoài ra còn có các sự cố như hư thùng dầu, hư sứ dẫn, hư bộ phận điều chỉnh
+đầu phân áp ...
+
+II.2. Dòng điện từ hoá tăng vọt khi đóng MBA không tải:
+Hiện tượng dòng điện từ hoá tăng vọt có thể xuất hiện vào thời điểm đóng
+MBA không tải. Dòng điện này chỉ xuất hiện trong cuộn sơ cấp MBA. Nhưng đây
+không phải là dòng điện ngắn mạch do đó yêu cầu bảo vệ không được tác động.
+
+II.3. Sự cố bên ngoài ảnh hưởng đến tình trạng làm việc của MBA:
+3. Dòng điện tăng cao do ngắn mạch ngoài và quá tải.
+4. Mức dầu bị hạ thấp do nhiệt độ không khí xung quanh MBA giảm đột ngột.
+5. Quá điện áp khi ngắn mạch một pha trong hệ thống điện...
+
+54
+
+B. CÁC LOẠI BẢO VỆ THƯỜNG SỬ DỤNG
+ĐỂ BẢO VỆ MBA
+I. BẢO VỆ CHỐNG SỰ CỐ TRỰC TIẾP BÊN TRONG
+MBA
+I.1. Bảo vệ quá dòng điện:
+I.1.1. Cầu chì:
+Với MBA phân phối nhỏ thường được bảo vệ chỉ bằng cầu
+chì (hình2.5). Trong trường hợp máy cắt không được dùng thì cầu
+chì làm nhiệm vụ cắt sự cố tự động, cầu chì là phần tử bảo vệ quá
+dòng điện và chịu được dòng điện làm việc cực đại của MBA. Cầu
+chì không được đứt trong thời gian quá tải ngắn như động cơ khởi
+động, dòng từ hoá nhảy vọt khi đóng MBA không tải...
+
+CC
+
+I.1.2. Rơle quá dòng điện:
+Máy biến áp lớn với công suất (1000-1600)KVA hai dây
+quấn, điện áp đến 35KV, có trang bị máy cắt, bảo vệ quá dòng điện
+được dùng làm bảo vệ chính, MBA có công suất lớn hơn bảo vệ Hnh 2.5
+quá dòng được dùng làm bảo vệ dự trữ. Để nâng cao độ nhạy cho
+bảo vệ người ta dùng bảo vệ quá dòng có kiểm tra áp (BVQIKU). Đôi khi bảo vệ cắt
+nhanh có thể được thêm vào và tạo thành bảo vệ quá dòng có hai cấp (hình 2.6). Với
+MBA 2 cuộn dây dùng một bộ bảo vệ đặt phía nguồn cung cấp. Với MBA nhiều
+cuộn dây thường mỗi phía đặt một bộ.
+IS
+eân rle tha
+hanh chung
+
++
+
++
+RI
+
+RI
+
+RT
+-
+
+Hình 2.6: Sơ đồ nguyên lý bảo vệ quá dòng cắt nhanh và có thời gian
+
+I.2. Bảo vệ so lệch dọc:
+Đối với MBA công suất lớn làm
+việc ở lưới cao áp, bảo vệ so lệch (87T)
+được dùng làm bảo vệ chính. Nhiệm vụ
+87T
+chống ngắn mạch trong các cuộn dây và
+ở đầu ra của MBA.
+Bảo vệ làm việc dựa trên nguyên tắc so sánh trực tiếp dòng điện ở hai đầu
+phần tử được bảo vệ. Bảo vệ sẽ tác động đưa tín hiệu đi cắt máy cắt khi sự cố xảy ra
+trong vùng bảo vệ (vùng bảo vệ là vùng giới hạn giữa các BI mắc vào mạch so lệch).
+
+55
+
++
+
+Th
++
+RI
+
+RI
+
+RI
+
+Rth
+
+eân rle tha
+hanh chung
+
+Hnh 2.7: S oă nguyeđn l bạo veô so leôch MBA 2 cuoôn
+dađy
+
+Khác với bảo vệ so lệch các phần tử khác (như máy phát...), dòng điện sơ cấp
+ở hai (hoặc nhiều) phía của MBA thường khác nhau về trị số (theo tỷ số biến áp) và
+về góc pha (theo tổ đấu dây). Vì vậy tỷ số, sơ đồ BI được chọn phải thích hợp để cân
+bằng dòng thứ cấp và bù sự lệch pha giữa các dòng điện ở các phía MBA.
+Dòng không cân bằng chạy trong bảo vệ so lệch MBA khi xảy ra ngắn mạch
+ngoài lớn hơn nhiều lần đối với bảo vệ so lệch các phần tử khác.
+Các yếu tố ảnh hưởng nhiều đến dòng không cân bằng trong bảo vệ so lệch
+MBA khi ngắn mạch ngoài là:
+6. Do sự thay đổi đầu phân áp MBA.
+7. Sự khác nhau giữa tỷ số MBA, tỷ số BI, nấc chỉnh rơle.
+8. Sai số khác nhau giữa các BI ở
+các pha MBA.
+Vì vậy, bảo vệ so lệch MBA thường
+RI
+dùng rơle thông qua máy biến dòng bão
+hoà trung gian (loại rơle điện cơ điển hình I
+IIT W’N
+WN
+như rơle PHT của Liên Xô) hoặc rơle so IS
+WlvT
+W
+lvS
+lệch tác động có hãm (như loại ÔZT của
+WcbI
+Liên Xô).
+WcbII
+Hình 2.8 cho sơ đồ nguyên lý một
+pha của bảo vệ so lệch có dùng máy biến
+dòng bão hòa trung gian. Trong đó máy
+biến dòng bão hòa trung gian có hai nhiệm I
+IIS
+IIIT
+vụ chính:
+9. Cân bằng các sức từ động do
+dòng điện trong các nhánh gây nên ở tình
+trạng bình thường và ngắn mạch ngoài
+Hnh 2.8: S oă nguyeđn li bạo veô so leôch
+theo phương trình:
+co dung may bieân dong bao hoa trung gian
+IIT(WcbI + WlvS) + IIIT(WcbII + WlvS) = 0
+
+10. Nhờ hiện tượng bão hòa của
+mạch từ làm giảm ảnh hưởng của dòng điện không cân bằng Ikcb (có chứa phần lớn
+dòng không chu kỳ).
+
+56
+
+I.3. Bảo vệ MBA ba cuộn dây dùng rơle so lệch có hãm:
+Nếu MBA ba cuộn dây chỉ được cung cấp nguồn từ một phía, hai phía kia nối
+với tải có các cấp điện áp khác nhau, rơle so lệch được dùng như bảo vệ MBA hai
+cuộn dây (hình 2.9a). Tổng dòng điện thứ cấp hai BI phía tải sẽ cân bằng với dòng
+điện thứ cấp BI phía nguồn trong điều kiện làm việc bình thường. Khi MBA có hơn
+một nguồn cung cấp, rơle so lệch dùng hai cuộn hãm riêng biệt bố trí như hình 2.9b.
+Nguoăn
+co theơ co
+nguoăn
+
+Nguoăn
+tại
+a/
+
+c ham
+
+c ham
+
+87
+
+c lvieôc
+
+b/
+
+87
+
+c lvieôc
+
+Hinh 2.9: S oă bạo veô so leôch co ham
+MBA ba cuoôn dađy
+I.4. Bảo vệ chống chạm đất cuộn dây MBA:
+Đối với MBA có trung tính nối đất, để bảo vệ chống chạm đất một điểm trong
+cuộn dây MBA có thể được thực hiện bởi rơle quá dòng điện hay so lệch thứ tự
+không. Phương án được chọn tuỳ thuộc vào loại, cỡ, tổ đấu dây MBA.
+Khi dùng bảo vệ quá dòng thứ tự không bảo vệ nối vào BI đặt ở trung tính
+MBA, hoặc bộ lọc dòng thứ tự không gồm ba BI đặt ở phía điện áp có trung tính nối
+đất trực tiếp (hình 2.10). Đối với trường hợp trung tính cuộn dây nối sao nối qua tổng
+trở nối đất bảo vệ quá dòng điện thường không đủ độ nhạy, khi đó người ta dùng rơle
+so lệch như hình 2.12a. Bảo vệ này so sánh dòng chạy ở dây nối đất IN và tổng dòng
+điện 3 pha (IO). Chọn IN là thành phần làm việc và nó xuất hiện khi có chạm đất trong
+vùng bảo vệ. Khi chạm đất ngoài vùng bảo vệ dòng thứ tự không (IO tổng dòng các
+pha) có trị số bằng nhưng ngược pha với dòng qua dây trung tính IN.
++
+RI
++
+
++
+RT
+
+RI
+IN
+
+Hình 2.10: Sơ đồ nguyên lý bảo vệ chống chạm đất MBA
+bằng bảo vệ quá dòng điện
+
+57
+
+Câc đại lượng lăm việc vă hêm như sau:
+I lv = &I N
+(2-1)
+I& h1 = I& N + I& o ; I& h2 = I& N − I& o
+(2-2)
+Câc dng điện hêm được phối hợp với nhau về độ lớn để tạo nín tâc dụng hêm
+theo quan hệ:
+I h = k( &I N − &I 0 − &I N + &I 0 )
+(2-3)
+Với &I N : dòng dây nối đất; &I o ≈ &I A + &I B + &I C; k: hằng số tỷ lệ.
+Khảo sát cách làm việc của rơle so lệch thứ tự không:
+ Khi chạm đất bên ngoài:
+&I o ngược pha với &I N và bằng nhau về
+trị số: &I o = −&I N .
+Giả thiết chọn k=1, lúc đó
+&I
+h2
+I lv = I& N , I h = I& N + I& N − I& N − I& N = 2 I& N ,
+∆I
+I& o
+H2
+I h = 2I lv .
+&I
+h1
+ Khi chạm đất bên trong, chỉ
+&I N
+có thành phần qua trung tính: I& 0 = 0 ;
+H1
+&I lv = I& N ;
+Cuoôn lvieôc &I
+lv
+I h = I& N − 0 − I& N + 0 = 0.
+Hnh 2.11: S oă nguyeđn ly bạo veô so leôchth t
+khođng co ham
+Qua phân tích trên ta thấy, khi
+chạm đất bên trong thành phần hãm
+không xuất hiện. Như thế chỉ cần
+dòng
+chạm đất nhỏ xuất hiện khi chạm đất trong vùng bảo vệ (vùng giới hạn giữa các BI),
+bảo vệ sẽ cho tín hiệu tác động. Ngược lại khi chạm đất bên ngoài tác động hãm rất
+mạnh.
+Nếu cuộn sao MBA nối đất qua tổng trở cao, rơle so lệch 87N có thể không đủ
+độ nhạy tác động, người ta có thể thay bằng rơle so lệch chống chạm đất tổng trở cao
+64N (hình 2.12b). Rơle so lệch tổng trở cao được mắc song song với điện trở R có trị
+số khá lớn.
+Trong chế độ làm việc bình thường hay ngắn mạch ngoài vùng bảo vệ (vùng
+giới hạn giữa các BI), ta có:
+∆&I o = &I o − &I N
+(2-4)
+Nếu bỏ qua sai số của BI, ta có dòng điện thứ cấp chạy qua điện trở R bằng
+không và điện áp đặt lên rơle cũng bằng không, rơle sẽ không tác động.
+Khi chạm đất trong vùng bảo vệ, lúc đó I0 = 0 nên ∆I0 = IN toàn bộ dòng chạm
+đất sẽ chạy qua điện trở R tạo nên điện áp rất lớn đặt trên rơle, rơle sẽ tác động.
+IA
+IB
+IC
+IN
+
+IO
+Rle so leôch
+th t khođng
+
+64N
+
+IO
+R
+
+IN
+
+87N
+
+Z
+
+Z
+a/
+
+b/
+
+Hnh 2.12: S oă nguyeđn ly bạo veô so leôch th t khođng
+
+58
+
+RL
+
+I.5. Bảo vệ MBA tự ngẫu:
+Bảo vệ chính MBA tự ngẫu cũng là bảo vệ so lệch. Bảo vệ dựa trên cơ sở định
+luật Kirchoff, đó là tổng vectơ dòng điện vào ra các nhánh của đối tượng bảo vệ
+bằng không (ngoại trừ trường hợp sự số).
+A
+B
+C
+
+a/
+87
+
+87
+
+b/
+
+87
+
+87
+
+a
+b
+T
+c
+
+Hnh 2.13: Bạo veô so leôch MBA t ngaêu
+
+Bảo vệ so sánh dòng điện thuộc hai nhóm: nhóm BI nối vào đầu cực MBA và
+nhóm BI nối vào trung tính MBA. Nếu bảo vệ chỉ dùng một biến dòng đặt ở trung
+tính MBA, các BI đặt ở đầu cực MBA được nối thành bộ lọc thứ tự không và nối đến
+một rơle, khi đó tạo thành bảo vệ so lệch chống chạm đất bên trong MBA tự ngẫu
+(hình 2.13a).
+Trong trường hợp cuộn thứ ba (cuộn tam
+giác) không nối với tải, máy biến áp tự ngẫu
+dùng để liên kết hệ thống siêu cao áp và cao áp.
+Sơ đồ bảo vệ có thể thực hiện như hình 13b, các
+BI được phối hợp trên mỗi pha gần trung tính
+(điểm cuối của cuộn dây MBA) và dùng 3 rơle,
+lúc đó bảo vệ đáp ứng chống ngắn mạch nhiều
+87T
+pha và một pha bên trong cuộn dây chính MBA
+tự ngẫu. Sơ đồ này không đáp ứng khi sự cố
+cuộn dây thứ ba, để bảo vệ cho cuộn dây thứ ba
+Hnh 2.14: S oă nguyeđn ly bạo
+trong trường hợp này người ta thường dùng bảo
+veô so leôch MBA t ngaêu
+vệ quá dòng điện.
+Bảo vệ tất cả các cuộn dây MBA tự ngẫu
+tương tự như bảo vệ cho MBA ba cuộn dây (hình
+2.14).
+
+II. BẢO VỆ CHỐNG SỰ CỐ GIÁN TIẾP BÊN TRONG
+MBA
+Có các loại bảo vệ sau:
+Rơle khí (BUCHHOLZ).
+ Bảo vệ quá nhiệt.
+ Rơle phát hiện tốc độ tăng, giảm áp suất dầu.
+ Bảo vệ dòng dầu bộ điều áp.
+Sử dụng loại nào là tuỳ quan điểm của nhà sản xuất và tuỳ từng cỡ máy.
+Thường được dùng phổ biến là rơle khí (hình 2.15).
+
+
+59
+
+II.1. Rơle khí Buchholz (96B):
+Rơle hoạt động dựa vào sự bốc hơi của dầu máy biến áp khi bị sự cố và mức
+độ hạ thấp dầu quá mức cho phép.
+
+Bình dầu phụ
+Phao 1
+
+96B
+Từ thùng dầu
+MBA
+
+Phao 2
+
+Đến bình
+dầu phụ
+
+Thùng
+MBA
+
+b)
+
+a)
+
+Hình 2.15: Nguyên lý cấu tạo (a) và vị trí bố trí trên MBA của rơle hơi
+
+Rơle khí được đặt trên đoạn ống nối từ thùng dầu đến bình dãn dầu của
+MBA. Rơle có hai cấp tác động gồm có hai phao bằng kim loại mang bầu thuỷ tinh
+có tiếp điểm thuỷ ngân hay tiếp điểm từ. Ở chế độ làm việc bình thường trong bình
+đầy dầu, các phao nổi lơ lửng trong dầu, tiếp điểm rơle ở trạng thái hở. Khi khí bốc
+ra yếu (ví dụ vì dầu nóng do quá tải), khí tập trung lên phía trên của bình rơle đẩy
+phao số 1 xuống, rơle gởi tín hiệu cấp 1 cảnh báo. Nếu khí bốc ra mạnh (chẳng hạn
+do ngắn mạch cuộn dây MBA đặt trong thùng dầu) luồng khí di chuyển từ thùng dầu
+lên bình dãn dầu đẩy phao số 2 xuống gởi tín hiệu đi cắt máy cắt của MBA.
+Một van thử được lắp trên rơle: Khi thử nghiệm rơle, lắp máy bơm không khí
+nén vào đầu van thử. Mở khóa van, không khí nén bên trong rơle cho đến khi phao
+hạ xuống đóng tiếp điểm.
+Một nút nhấn thử để kiểm tra sự làm việc của 2 phao. Khi nhấn nút thử đến
+nửa hành trình, sẽ tác động cơ khí cho phao trên hạ xuống (lúc này cả 2 phao đang
+nâng lên vì rơle chứa đầy dầu) đóng tiếp điểm báo hiệu (cấp 1) của phao trên. Tiếp
+tục nhấn nút thử đến cuối hành trình, sẽ tác động cơ khí cho phao dưới cũng bị hạ
+xuống (do phao trên đã hạ xuống rồi) đóng tiếp điểm mở máy cắt (cấp 2) của phao
+dưới.
+Dựa vào thành phần và khối lượng hơi sinh ra người ta có thể xác định được
+tính chất và mức độ sự cố. Do đó trên rơle hơi còn có thêm van để lấy hỗn hợp khí
+sinh ra nhằm phục vụ cho việc phân tích sự cố. Rơle hơi tác động chậm thời gian làm
+việc tối thiểu là 0,1s; trung bình là 0,2s.
+
+II.2. Rơle bảo vệ quá nhiệt cuộn dây MBA (26W):
+Nhiệt độ định mức máy biến áp phụ thuộc chủ yếu vào dòng điện tải chạy qua
+cuộn dây MBA và nhiệt độ của môi trường xung quanh. Tuỳ theo từng loại cũng như
+công suất định mức của MBA mà dải nhiệtođộ cho phép của chúng có thể thay đổi,
+thông thường nhiệt độ của cuộn dây dưới 95 C được xem là bình thường.
+Thiết bị chỉ thị nhiệt độ cuộn dây được trình bày như hình 2.39 (tương tự thiết
+bị chỉ thị nhiệt độ dầu).
+
+60
+
+Để đo nhiệt độ cuộn dây MBA người ta thường dùng thiết bị loại AKM 35,
+đây là thiết bị sử dụng điện trở nhiệt có phần tử đốt nóng được cấp điện từ biến dòng
+phía cao và hạ máy biến áp. Rơle nhiệt độ cuộn dây gồm bốn bộ tiếp điểm (mỗi bộ có
+một tiếp điểm thường mở, một tiếp điểm thường đóng với cực chung) lắp bên trong
+một nhiệt kế có kim chỉ thị.
+Thiết bị chỉ thị nhiệt
+độ cuộn dây
+
+Hình 2.40: Thiết bị chỉ thị nhiệt độ cuộn dây
+
+Cơ cấu rơle gồm: chỉ thị quay để ghi số đo, một bộ phận cảm biến nhiệt, một
+ống mao dẫn nối bộ phận cảm biến nhiệt với cơ cấu chỉ thị. Bên trong ống mao dẫn
+là chất lỏng được nén lại. Sự co giãn của chất lỏng trong ống mao dẫn thay đổi theo
+nhiệt độ mà bộ cảm biến nhận được, tác động lên cơ cấu chỉ thị và bốn bộ tiếp điểm.
+Đồng thời, tác động lên cơ cấu chỉ thị và các tiếp điểm, còn có một điện trở đốt nóng.
+Cuộn dây thứ cấp của một máy biến dòng điện đặt tại chân sứ máy biến áp được nối
+với điện trở đốt nóng. Để chỉnh định cho phần tử đốt nóng, người ta sử dụng một
+biến trở đặt ở tủ điều khiển cạnh máy biến áp. Tác dụng của điện trở đốt nóng (tùy
+theo dòng điện qua cuộn dây máy biến áp) và bộ cảm biến nhiệt lên cơ cấu đo cùng
+các bộ tiếp điểm sẽ tương ứng với nhiệt độ điểm nóng, nhiệt độ của cuộn đây.
+Có 4 vít điều chỉnh nhiệt độ để đặt trị số tác động cho 4 bộ tiếp điểm. Tùy
+theo thiết kế, các tiếp điểm rơle nhiệt độ có thể được nối vào các mạch, báo hiệu sự
+cố “nhiệt độ cuộn dây cao”, mạch tự động mở máy cắt để cô lập máy biến áp, mạch
+tự động khởi động và ngừng các quạt làm mát máy biến áp.
+Rơle nhiệt độ cuộn dây hoạt động ở 2 cấp:
+ Cấp 1: Khi nhiệt độ cuộn dây MBA ở 115oC sẽ báo động bằng tín hiệu đèn
+còi.
+ Cấp 2: Khi nhiệt độ cuộn dây MBA là 120oC thì báo động bằng tín hiệu đèn
+còi và tác động đi cắt máy cắt cô lập máy biến áp ra khỏi lưới.
+Ngoài ra, rơle nhiệt độ cuộn dây MBA còn có tác dụng đưa các tín hiệu đi
+điều khiển hệ thống làm mát cho MBA. Ví dụ đối với MBA làm mát bằng quạt thổi
+thì hệ thống quạt mát sẽ làm việc khi nhiệt độ cuộn dây MBA đạt đến một trong các
+nhiệt độ dầu. Hệ thống này
+giá trị 750C ở cuộn cao, 800C ở cuộn hạ và 600C đối với
+sẽ dừng khi nhiệt độ cuộn dây và dầu MBA giảm 100C dưới các giá trị khởi động
+trên.
+
+II.3. Rơle nhiệt độ dầu (26Q):
+Để đo nhiệt độ lớp dầu trên sử dụng hai đồng hồ. Một đồng hồ nhiệt độ dầu
+báo tín hiệu ở 800C và một đồng hồ nhiệt độ dầu tác động cắt máy cắt ở 900C. Các
+đồng hồ này sử dụng nguyên lý cảm ứng nhiệt độ. Phần tử cảm ứng nhiệt được bỏ
+trong hộp nhỏ và được đặt gần đỉnh của thùng dầu của máy biến áp.
+
+61
+
+Dòng
+tải
+
+Tín hiệu ra
+
+Đỉnh máy biến áp
+
+Phần tử cảm ứng nhiệt
+
+Phần tử sinh nhiệt
+
+Hình 2.38: Cách lắp rơle nhiệt độ trong máy biến áp
+
+Rơle nhiệt độ dầu gồm có cơ cấu chỉ thị quay để ghi số đo, một bộ phận cảm
+biến nhiệt, một ống mao dẫn nối bộ phận cảm biến nhiệt với cơ cấu chỉ thị. Bên trong
+ống mao dẫn là chất lỏng (dung dịch hữu cơ) được nén lại. Sự co giãn của chất lỏng
+(trong ống mao dẫn) thay đổi theo nhiệt độ mà bộ phận cảm biến nhiệt nhận được, sẽ
+tác động cơ cấu chỉ thị và các tiếp điểm. Các tiếp điểm sẽ đổi trạng thái ‘’mở‘’ thành
+‘’đóng’’, ‘’đóng’’ thành ‘’mở ‘’ khi nhiệt độ cao hơn trị số đặt trước. Bộ phận cảm
+biến nhiệt được lắp trong lỗ trụ bọc kín, ở phía trên nắp máy biến áp, bao quanh lỗ
+trụ là dầu, để đo nhiệt độ lớp dầu trên cùng của máy biến áp. Thường dùng nhiệt kế
+có 2 (hoặc 4) vít điều chỉnh nhiệt độ để có thể đặt sẵn 2 (hoặc 4) trị số tác động cho 2
+(hoặc 4) bộ tiếp điểm riêng rẽ lắp trong nhiệt kế. Khi nhiệt độ cao hơn trị số lắp đặt
+cấp 1, rơle sẽ đóng tiếp điểm cấp 1 để báo tín hiệu sự cố ‘’nhiệt độ dầu cao‘’ của máy
+biến áp. Khi nhiệt độ tiếp tục cao hơn trị số cấp 2, rơle sẽ đóng thêm tiếp điểm cấp 2
+để tự động cắt máy cắt, cắt điện máy biến áp, đồng thời cũng có mạch đi báo hiệu sự
+cố ‘’cắt do nhiệt độ dầu cao‘’ (Bộ phận chỉ thị nhiệt độ như hình 2.39).
+Trong đó:
+ 1. Bộ phận cảm biến nhiệt.
+ 2. Ông mao dẫn (capillary tubo).
+ 3. Kim chỉ thị nhiệt độ .
+ 4. Hai vít điều chỉnh nhiệt độ hai bộ tiếp điểm .
+ 5. Hai bộ tiếp điểm rơle nhiệt độ dầu .
+ Nhiệt độ môi trường sử dụng : -100C đến 700 C.
+ Thang đo
+: -200C → 0 → +1300C.
+ Thang điều chỉnh
+: -200C0 → 0 → +1300C.
+ Sai số của trị số đo được
+: + 3 C.
+ Khoảng sai biệt tác động của tiếp điểm : 10-14.
+
+II.4. Cấu tạo rơle mức dầu tại máy biến áp (33):
+Thiết bị chỉ thị
+mức dầu bộ
+đổi nấc
+
+Thiết bị chỉ thị
+mức dầu thân
+máy
+dầu
+
+Ông dầu nối
+đến bộ đổi nấc
+
+Ông dầu nối đến thân
+máy
+Ông thở có bình
+silicagel
+
+Hình 2.41: Vị trí lắp rơle mức dầu tại máy biến áp
+
+62
+
+Rơle mức dầu gồm hai bộ tiếp điểm lắp bên trong thiết bị chỉ thị mức dầu, ở
+máy biến áp có bộ đổi nấc điện áp có tải (bộ điều áp dưới tải) thì thùng giãn nở dầu
+được chia làm hai ngăn (hình 2.41). Ngăn có thể tích chiếm phần lớn thùng giãn nở,
+được nối ống liên thông dầu qua rơle hơi đến thùng chính máy biến áp (để có thể tích
+giãn nở dầu cho máy biến áp). Ngăn có thể tích chiếm phần nhỏ hơn nhiều của thùng
+giãn nở, sẽ được nối ống liên dầu đến thùng chứa bộ điều áp dưới tải. Thùng chính
+máy biến áp và thùng bộ đổi nấc được thiết kế riêng rẽ, không có liên thông dầu với
+nhau. Vì vậy, có hai thiết bị chỉ mức dầu lắp tại hai đầu thùng giản nở để đo mức
+dầu của hai ngăn thiết bị chỉ thị mức dầu máy biến áp và thiết bị chỉ thị mức dầu bộ
+điều áp dưới tải.
+1
+2
+4
+
+6
+
+9
+8
+5
+3
+7
+
+Hình 2.42: Cấu tạo của thiết bị chỉ thị mức dầu
+1. Vỏ máy.
+6. Kim chỉ thị.
+2. Vòng đệm .
+7. Mặt chỉ thị.
+3. Phao.
+8. Thanh quay.
+4. Nam châm vĩnh cửu.
+9. Trục quay.
+5. Nam châm vĩnh cửu.
+
+Cơ cấu của thiết bị chỉ thị mức dầu gồm hai bộ phận (hình 2.42): Bộ phận điều
+khiển và bộ phận chỉ thị. Bộ phận điều khiển có một phao (3), thanh quay (8) trục
+quay (9) có lắp nam châm vĩnh cửu (4). Bộ phận điều khiển lắp trên vỏ máy (đầu
+thùng giãn nở) có vòng đệm. Bộ phận chỉ thị gồm kim chỉ (6) lắp trên trục mang một
+nam châm vĩnh cửu (5). Bộ phận chỉ thị được làm bằng nhôm để tránh bị ảnh hưởng
+từ trường nam châm và chống ảnh hưởng của nước.
+Khi mức dầu nâng hạ thì phao (3) nâng hạ theo. Chuyển động nâng hạ của
+phao được chuyển thành chuyển động quay của trục (9) nhờ thanh quay (8). Khi
+quay từ trường do nam châm (4) sẽ điều khiển cho nam châm (5) quay sao cho hai
+cực khác tên (N và S) của hai nam châm đối diện nhau (hai cực cùng tên có lực đẩy,
+hai cực khác tên có lực hút nhau). Do vậy kim chỉ thị quay theo nam châm (5), ghi
+được mức dầu trên mặt chỉ thị. Bộ phận chỉ thị cũng tác động đóng mở các tiếp điểm
+rơle mức dầu để đưa tín hiệu vào mạch báo động hoặc mạch cắt tùy theo từng thiết
+kế.
+
+II.5. Bảo vệ áp suất tăng cao trong máy biến áp (63):
+Rơle bảo vệ dự phòng cho máy biến thế lực, chỉ danh vận hành là R.63. Khi
+có sự cố trong máy biến áp, hồ quang điện làm dầu sôi và bốc hơi ngay, tạo nên áp
+suất rất lớn trong máy biến áp. Thiết bị an toàn áp suất lắp trên nắp thùng chính máy
+biến áp sẽ mở rất nhanh (mở hết van khoảng 2ms) để thoát khí dầu từ thùng chính
+MBA ra môi trường ngoài, áp suất trong thùng chính sẽ giảm. Trong thiết bị an toàn
+áp suất có gắn rơle áp suất.
+
+63
+
+∗ Sơ đồ khối của bảo vệ R.63 tại trạm:
+Tín hiệu từ BI
+
+Cắt máy cắt
+
+Hình 2.43: Sơ đồ khối bảo vệ R.63
+
+Ở tình trạng làm việc bình thường, van đĩa bị nén bởi lò xo nên làm kín thùng
+chính máy biến áp. Khi có sự cố bên trong thùng chính máy biến áp thì áp suất trong
+thùng chính tăng cao sẽ lớn hơn áp lực nén của lò xo, van đĩa sẽ chuyển động thẳng
+lên, làm hở thành khe hở xung quanh chu vi van đĩa. Khí sẽ thoát ra tại khe hở vòng
+đệm, làm giảm áp suất trong thùng. Khi van đĩa di chuyển lên thì cũng tác động lên
+cái chỉ thị cơ khí bung lên, đồng thời tác động tiếp điểm rơle áp suất gởi tín hiệu tới
+mạch báo động và tự động cắt máy cắt cô lập máy biến áp ra khỏi lưới điện. Khi áp
+suất trở lại bình thường, muốn tái lập lại MBA thì phải nhấn cái chỉ thị cơ khí (đã bị
+bung lên) về vị trí cũ, đồng thời đặt lại rơle áp suất bằng nút nhấn.
+
+II.6. Bảo vệ áp suất tăng cao trong bộ đổi nấc máy biến áp (R.63
+OLTC):
+Rơle bảo vệ tác động theo áp suất thùng điều áp dưới tải máy biến áp lực, là
+bảo vệ dự phòng cho máy biến áp. Chỉ danh vận hành trên sơ đồ bảo vệ là R.63
+OLTC (On Load Tap Changer).
+Cấu tạo và nguyên lý vận hành của rơle tương tự như R.63 đã nói ở trên. Khi
+có sự cố bên trong thùng đổi nấc máy biến áp thì rơle sẽ tác động và tự động cắt máy
+cắt cô lập MBA ra khỏi lưới điện.
+Sơ đồ khối của bảo vệ R.63 OLTC tại trạm:
+Tín hiệu từ BI
+
+Cắt máy cắt
+
+R.63
+Hình 2.44: Sơ đồ khối bảo vệ R63 OLTC
+
+R86.
+
+Muốn tái lập lại MBA sau khi rơle tác động phải đặt lại Rơle khóa trung gian
+
+II.7. Rơle khóa trung gian (86):
+Rơle khóa trung gian R.86 thường được dùng là loại kiểu MVAJ-21 nhà chế
+tạo GEC ALSTOM.
+Đặc điểm và ứng dụng của rơle như sau:
+ Thiết bị này dùng để ngắt mạch điện với độ an toàn cao, đặc biệt chúng có
+thể dùng để ngắt mạch điện hoặc điều khiển các hoạt động đóng ngắt do tín hiệu
+được gởi tới từ các rơle khác. Rơle này có thể hoạt động ở hai chế độ tức thời hoặc
+có thời gian trì hoãn.
+ Rơle MVAJ có khả năng dập tắt được sự phóng điện do điện dung.
+ Rơle MVAJ là loại thiết bị bảo vệ dùng để giám sát sự hoạt động của các
+loại rơle bảo vệ khác.
+∗ Nguyên tắc hoạt động:
+
+Rơle MVAJ-21 chỉ hoạt động khi các rơle khác (có liên quan) đã làm việc.
+Khi rơle bảo vệ chính của thiết bị hoạt động thì cũng đồng thời tác động rơle R.86
+
+64
+
+làm việc. R.86 hoạt động sẽ cô lập nguồn điều khiển của các rơle điều khiển khác.
+Muốn tái lập lại sự làm việc bình thường của mạch điều khiển các thiết bị thì phải đặt
+lại R.86.
+
+Nguoăn
+
++
+
+Th
+
++
+RI
+
+RT
+
+-
+
+Hnh 2.17: S oă nguyeđn
+ly bạo veô qua tại
+
+III. BẢO VỆ CHốNG NGẮN MẠCH NGOÀI VÀ QUÁ
+TẢI
+III.1. Bảo vệ quá tải (BVQT):
+Có chức năng báo tín hiệu quá tải MBA. Dùng bảo vệ quá dòng điện. Ở MBA
+hai dây quấn bảo vệ được bố trí phía nguồn (hình 2.17), máy biến áp ba dây quấn bảo
+vệ quá tải có thể bố trí ở hai hoặc cả ba dây quấn. Bảo vệ quá tải chỉ bố trí ở một pha
+và đi báo tín hiệu sau một thời gian định trước.
+Tuy nhiên rơle dòng điện không thể phản ánh được chế độ mang tải của
+MBA trước khi xảy ra quá tải. Vì vậy đối với MBA công suất lớn người ta sử dụng
+nguyên lý hình ảnh nhiệt để thực hiện bảo vệ chống quá tải.
+Bảo vệ loại này phản ảnh mức tăng nhiệt độ ở những thời điểm kiểm tra khác
+nhau trong máy biến áp và tuỳ theo mức tăng nhiệt độ mà có nhiều cấp tác động khác
+nhau: cảnh báo, khởi động các mức làm mát bằng tăng tốc độ tuần hoàn của không
+khí hoặc dầu, giảm tải máy biến áp.
+Nếu các cấp tác động này không mang lại hiệu quả và nhiệt độ máy biến áp
+vẫn vượt quá giới hạn cho phép và kéo dài quá thời gian quy định thì máy biến áp sẽ
+được cắt ra khỏi hệ thống.
+
+III.2. Bảo vệ dòng điện tăng cao do ngắn mạch ngoài:
+Thông thường người ta dùng bảo vệ quá dòng điện. Về nguyên tắc với MBA
+ba cuộn dây khi ở cả ba cấp điện áp đều có thể có nguồn cung cấp nên đặt ở mỗi cấp
+điện áp một bộ.
+
+65
+
+Với MBA ba cuộn dây và MBA tự ngẫu một trong các bộ bảo vệ dòng điện
+cực đại thường là bảo vệ có hướng (để đảm bảo tính chọn lọc giữa các bảo vệ). Để
+nâng cao độ nhạy người ta dùng bảo vệ dòng điện thứ tự nghịch (BVI2) kèm theo một
+rơle dòng điện có kiểm tra áp. Các bảo vệ chống dòng điện tăng cao do ngắn mạch
+ngoài dùng làm bảo
+vệ dự trữ cho bảo vệ
+TA
+CA
+chính của MBA khi
+ngắn mạch nhiều pha
++
+ở MBA, nó còn làm
+RU
+T BU noâi
+bảo vệ dự trữ cho
+vao thanh
+bảo vệ của các phần
++
++
+RT
+gop TA
++
+tử lân cận nếu điều
+kiện độ nhạy cho
++
+RI
+RW
+phép.
+RW
+RI
+Hình 2.18 cho
+sơ đồ nguyên lý bảo
+LI2
+LU2
+vệ chống ngắn mạch
+ngoài cho máy biến
+áp tự ngẫu. Trong đó
++
+rơle định hướng
+T
+BU
+noâi
+vao
+công suất (RW) chỉ
++
++
+thanh gop CA
+tác động khi hướng
+RT
+công suất ngắn mạch
+RI
+RI
+RU
+truyền từ máy biến
+áp đến thanh góp cao
+LI2
+áp, còn theo chiều
+ngược lại thì không
+T BU noâi vao
+thanh gop TA
+tác động.
+HA
+Hnh 2.18: S oă nguyeđn ly bạo veô choâng ngaĩn mách ngoai
+
+C. TÍNH TOÁN BẢO VỆ RƠLE CHO MBA
+Cơ sở tính chọn bảo vệ rơle cho MBA:
+ Cần phải biết các thông số của MBA do nhà chế tạo cung cấp trên nhãn
+máy hoặc trong các catalogue:
+Ví dụ với MBA ba pha hai cuộn dây:
+Loại
+MBA
+
+
+
+
+
+
+
+
+Có điều
+chỉnh
+điện áp
+
+SBđm
+
+Thông số sản xuất
+Uđm cuộn Un(%) ∆Pn ∆Po
+dây
+Uc Uh
+
+Io(%)
+
+Dòng ngắn mạch lớn nhất, nhỏ nhất xuất hiện trong các dạng ngắn mạch.
+Các thông số, đặc tính của máy biến dòng điện, biến điện áp.
+Các yêu cầu bảo vệ rơle của MBA.
+
+66
+
+U1
+
+51
+
+SHT
+
+50
+N2
+
+U2
+
+N1
+
+I. BẢO VỆ QUÁ DÒNG ĐIỆN
+I.1. Cầu chì:
+Cầu chì được chọn theo điều kiện sau:
+Icc ≥ Kat.Iđm
+
+(2-5)
+
+Với Iđm: dòng làm việc định mức phía đặt cầu chì; Kat hệ số an toàn lấy bằng 1,2.
+
+Số liệu tham khảo đặt cầu chì cho MBA ở cấp điện áp 11 Kv
+Công suất MBA
+Cầu chì
+S (KVA)
+I (A)
+Imđ
+tcắt (s)
+100
+5,25
+16
+3
+200
+10,5
+25
+3
+300
+15,8
+36
+10
+500
+26,2
+50
+20
+1000
+52,5
+90
+30
+
+I.2. Bảo vệ quá dòng điện:
+Chọn máy biến dòng điện cho bảo vệ.
+Định mức thứ cấp của BI được tiêu chuẩn hoá là 5A hoặc 1A.
+ BI được chọn có dòng định mức sơ cấp bằng hay lớn hơn dòng định mức
+cuộn dây MBA mà nó được đặt. Đối với MBA hai cuộn dây dòng định mức sơ cấp
+và thứ cấp MBA phụ thuộc công suất định mức của MBA và tỷ lệ nghịch với điện áp.
+Đối với MBA ba cuộn dây dòng định mức phụ thuộc vào cuộn dây tương ứng.
+SBñm
+I lv ñm =
+(2-6)
+3U Bñm
+
+
+Với SBđm: công suất định mức của máy biến áp.
+UBđm: điện áp định mức của MBA.
+
+67
+
+I.2.1. Bảo vệ cắt nhanh:
+ Xác định dòng ngắn mạch sơ cấp cực đại chạy qua chổ đặt bảo vệ khi ngắn
+mạch ngoài (INngmax) tại điểm N1 trong hình.
+U1
+I Nngmax = I (3)
+(2-7)
+xht
+N1 =
+3(x B + x ht )
+Trong đó:
+
+xB: điện kháng của MBA, x B =
+
+U N %.U2Bñm
+100.SBñm
+
+xht: điện kháng của hệ thống.
+
+
+
+xB
+N1
+
+Dòng điện khởi động bảo vệ:
+I kñ = K at .I Nngmax
+
+(3)
+
+(2-8)
+
+với Kat là hệ số an toàn, Kat = (1,3-1,4)
+
+
+
+Dòng khởi động thứ cấp của rơle :
+I kâR =
+
+(3)
+K at .K sâ
+.I Nngmax
+
+(2-9)
+
+nI
+
+K (3)
+sñ : hệ số kể đến sơ đồ nối dây của BI.
+ Kiểm tra độ nhạy của bảo vệ ứng với tình trạng ngắn mạch hai pha trên cực
+MBA ở phía nối với nguồn trong chế độ làm việc cực tiểu của hệ thống (điểmN2).
+I
+(2-10)
+K n = Nmin ≥ 2
+I Kñ
+ Thời gian bảo vệ: t = 0sec.
+I.2.2. Bảo vệ quá dòng có thời gian:
+ Xác định dòng khởi động của bảo vệ:
+K .K
+(2-11)
+I kñ = at mm .I lv max
+K tv
+Ở đây dòng Ilv max dòng làm việc max qua chổ đặt bảo vệ. Trong trường hợp
+không biết có thể lấy Ilv max = IBđm . Với MBA ba cuộn dây dòng Ilv max lấy tương ứng
+của từng cuộn.
+Kat: hệ số an toàn (1,1 - 1,2).
+Kmm: hệ số mở máy (1,3 - 1,8).
+Ktv: hệ số trở về (0,85 - 0,9).
+
+
+
+Dòng khởi động của rơle:
+
+
+Kiểm tra độ nhạy của bảo vệ:
+
+I kñR =
+
+K (3)
+sñ .I kñ
+
+Kn =
+
+Yêu cầu K n ≥ 1,5 : khi làm bảo vệ chính.
+
+nI
+
+I N1min
+I kñ
+
+(2-12)
+(2-13)
+
+Ở đây IN1min dòng ngắn mạch nhỏ nhất qua bảo vệ khi ngắn mạch trực tiếp
+cuối vùng bảo vệ (điểm N1). Dạng ngắn mạch tinh toán là dạng ngắn mạch hai pha
+nên:
+U1
+I (2)
+N1 =
+3.(x1Σ + x 2Σ )
+
+68
+
+Trong đó:
+
+- x1Σ :điện kháng thứ tự thuận tổng đến điểm ngắn mạch, x1Σ = x1B + x1ht.
+- x2Σ : điện kháng thứ tự nghịch tổng đến điểm ngắn mạch, x2Σ = x2B + x2ht.
+Yêu cầu K n ≥ 1,2: khi làm bảo vệ dự trữ (ngắn mạch ở cuối vùng dự trữ).
+Nếu độ nhạy không đạt yêu cầu, phải dùng bảo vệ quá dòng có kiểm tra áp
+(BVQIKU). Lúc đó dòng khởi động của bảo vệ được tính:
+K
+(2-14)
+I kñ = at .I lv max
+K tv
+Không kể đến Kmm vì sau khi cắt ngắn mạch ngoài các động cơ tự khởi động
+nhưng không làm điện áp giảm nhiều và bảo vệ không thể tác động.
+ Điện áp khởi động của RU< :
+U
+(2-15)
+U kñ = lv min
+K at .K tv
+Kat =1,2, Ktv =1,15, Ulv min: điện áp tại chổ đặt bảo vệ trong điều kiện tự khởi động
+của động cơ sau khi cắt ngắn mạch ngoài. Thông thường có thể lấy (0,7-0,75) Uđm .
+
+ Thời gian làm việc thường được phân thành 2 cấp:
+Cấp thứ nhất cắt máy cắt thứ cấp:
+tc1 = t(2) + ∆t
+với
+- t(2): thời gian tác động lớn nhất của bảo vệ kề nó.
+- ∆t: bậc chọn lọc về thời gian (0,3 - 0,5)sec.
+Cấp thời gian thứ hai cắt tất cả các máy cắt của MBA:
+
+(2-16)
+
+tc2 = tc1 + ∆t
+
+(2-17)
+
+I.3. Bảo vệ dòng thứ tự nghịch:
+Để tăng độ nhạy cho BVQIKU, người ta sử dụng kết hợp với BVI2 (hình 2.19).
+Khi đó, bảo vệ quá dòng chỉ bố trí ở một pha để chống ngắn mạch ba pha và độ nhạy
+được kiểm tra theo dòng ngắn mạch ba pha thứ cấp:
+
+
+
+I (3)
+K n = N1min ≥ 1.5
+I kñ
+Dòng khởi động của BVI2:
+K
+I 2kñ = at .I Bñm . Với Kat = 1,2; Ktv = 0,85
+K tv
+
++
+
++
+
+RI
+
+RU
+
+(2-19)
+
+N1
+
+2MC
+
+1MC
+
+(2-18)
+
+Cắt 1 và 2 MC
+Cắt 2MC
+
++
+
+RI
+
+LI2
+
+RT
+
+-
+
+t BU thanh
+gop
+
+Hnh 2.19: S oă nguyeđn l bạo veô qua dong co kieơm tra ap keât hp
+BVI2 tac oông co thi gian
+69
+
+U1
+
+51N
+
+N 1(n)
+
+U2
+
+Hnh 2.20: S oă nguyeđn ly bạo
+veô choâng chám aât MBA
+baỉng bạo veô qua dong ieôn
+
+II. Bảo vệ quá tải
+
+
+Dòng khởi động của bảo vệ quá tải :
+Dòng khởi động của rơle :
+
+
+
+
+
+K at .I Bñm
+K tv
+K (3)
+.I
+I kñR = sñ kñ
+nI
+
+I kñ =
+
+(2-20)
+(2-21)
+
+Kat = 1,05; Ktv = 0,85
+IBđm: dòng định mức phía đặt bảo vệ tính theo công suất định mức MBA.
+
+Thời gian đặt của bảo vệ:
+t = tbv max + ∆t
+
+(2-22)
+
+tbv max : thời gian lớn nhất của bảo vệ lân cận.
+
+III. BẢO VỆ DÒNG THỨ TỰ KHÔNG (BVI0) CỦA
+MBA TRONG MẠNG CÓ DÒNG CHẠM ĐẤT LỚN
+III.1. Bảo vệ I0 MBA một phía nối đất:
+Dòng khởi động sơ cấp BVIO được chọn theo hai điều kiện :
+¾ Theo điều kiện chỉnh định khỏi dòng không cân bằng khi ngắn mạch
+I kâ > I kcbmax
+(2-23)
+ngoài:
+¾ Theo điều kiện phối hợp về độ nhạy với các bảo vệ đường dây nối vào
+thanh góp của trạm:
+I kñ ≥ K at .3I ott
+(2-24)
+Trong đó :
+K at : hệ số an toàn khi phối hợp có thể chọn Kat = (1,1-1,2).
+I ott : dòng thứ tự không (TTK) tại chổ đặt bảo vệ, ứng với dạng ngắn mạch nào gây
+ra dòng TTK lớn nhất.
+
+Khi chọn I kñ theo điều kiện (2-24) thì điều kiện (2-23) cũng được thoả mãn,
+vì vậy thường chỉ tính theo điều kiện (2-24).
+
+70
+
+Độ nhạy của bảo vệ:
+ Khi làm bảo vệ chính:
+3I
+(2-25)
+K n = 0min ≥ 1,5
+I Kñ
+Lấy (3I0min ) khi ngắn mạch trên thanh góp của trạm.
+Khi làm bảo vệ dự trữ: Kn ≥ 1,2. Lúc đó dòng 3I0min là dòng bé nhất khi ngắn
+mạch cuối vùng dự trữ.
+Điện kháng TTK của MBA
+ Với MBA hai dây quấn điện kháng thứ tự thuận (TTT) bằng điện kháng thứ
+tự nghịch (TTN) bằng điện kháng thứ tự không X1B = X2B = X0B .
+ MBA ba pha ba dây quấn nối ∆/Yo/Y loại này thường được sử dụng với
+cuộn ∆ nối với máy phát điện, cuộn Yo nối với thanh cái cao áp, cuộn Y là trung áp
+35KV thường trung tính không nối đất. Do vậy tổng trở TTK của loại này bằng tổng
+trở TTT của cuộn Yo. Nếu tổ nối dây ∆/Yo/Yo, với cuộn ∆ có tải, điện kháng TTK
+của mỗi cuộn chính bằng TTT,
+ MBA tự ngẫu điện kháng TTK của mỗi cuộn chính bằng điện kháng TTT.
+Up
+I 1(n) =
+(2-26)
+(x1 + z(n)
+)
+∆
+Dạng ngắn mạch
+
+(n)
+
+NM 1 pha(A)
+1
+NM 2 pha chạm đất (B,C) 1,1
+
+Z∆n
+
+I n0
+
+x2 + x0
+x 2 .x 0
+x2 + x0
+
+I1
+− x2
+I1
+x2 + x 0
+
+Trong đó:
+- n: dạng ngắn mạch.
+x1
+x1
+- Io: dòng điện thứ tự không.
+x2
+x2
+x0
+- z(n)
+: Tổng trở sự cố thêm vào.
+∆
+- x1: điện kháng thứ tự thuận tới điểm ngắn mạch. x0
+- x2: điện kháng thứ tự nghịch tới điểm ngắn
+mạch.
+N1(1,1)
+N1(1)
+- x0: điện kháng thứ tự không tới điểm ngắn mạch.
+Ví dụ ta có sơ đồ thay thế tính toán MBA hai cuộn
+dây của hình 2.20.
+Xác định dòng thứ tự không khi ngắn mạch một pha và dòng thứ tự không khi
+ngắn mạch hai pha chạm đất trên thanh góp (điểm N1 khi bảo vệ làm nhiệm vụ bảo
+vệ chính). Chọn giá trị lớn hơn làm giá trị tính toán dòng khởi động, giá trị nhỏ hơn
+dùng để kiểm tra độ nhạy của bảo vệ. Khi bảo vệ làm nhiệm vụ dự trữ dòng 3I0min
+lấy ở cuối vùng bảo vệ (cuối đường dây dài nhất nối đến thanh cái MBA đặt bảo vệ).
+
+III.2. Bảo vệ I0 máy biến áp có hai phía nối đất dùng rơle quá dòng
+điện:
+Ở MBA có hai dây quấn nối đất trực tiếp (hình 2.21), dòng 3I0 đi như hình
+vẽ. Trong đó:
+ IoN2(1-2): dòng 3Io do nguồn I cung cấp khi ngắn mạch chạm đất tại N2.
+ IoN1(2-1): dòng 3Io do nguồn II cung cấp khi ngắn mạch chạm đất tại N1.
+ IoN1(1-1): dòng thứ tự không tổng cung cấp đến điểm ngắn mạch N1.
+ IoN2(2-2): dòng thứ tự không tổng cung cấp đến điểm ngắn mạch N2.
+Vì thế, cần đặt BVI0 có hướng, thường có 2-3 cấp tác động.
+
+71
+
+Cấp I: Là BVI0 cắt nhanh, phối hợp với BVI0 đường dây nối đến thanh cái
+phía đặt bảo vệ:
+(2-27)
+I kñ I = K atK fm I kñ Iñz max
+Trong đó:
+Kat: hệ số an toàn, Kat = 1,1.
+I
+Kfm: hệ số phân mạch I0, K fm = 0 bveä.
+I 0 daây
+I0 bvệ: dòng I0 qua chổ đặt bảo vệ.
+I0 dây: dòng I0 qua đường dây có Ikđ Iđz max.
+IkđIđz max: dòng chỉnh định cấp 1 của BVI0 đường dây có trị số lớn nhất trong tất
+cả các đường dây nối đến thanh cái MBA được bảo vệ.
+Thời gian chỉnh định:
+(2-28)
+tI = tIđzmax+∆t
+tIđzmax: thời gian tác động của bảo vệ đường dây có Ikđ Iđz max.
+Cấp II: Chọn phối hợp với cấp 2 của BVI0 đường dây, tính tương tự như cấp
+I trên, thay ký hiệu I bằng ký hiệu II.
+Độ nhạy cấp I và cấp II:
+N1
+N2
+I
+3I 0min
+II
+(2-29)
+KnI =
+≥ 1,5
+I Kñ I
+I0N1(1-1)
+I0N1(2-1)
+3I 0min
+(2-30)
+K n II =
+≥ 1,5
+I Kñ II
+I0N2(2-2)
+trong đó 3I0min lấy với ngắn mạch ngay trên
+thanh góp của trạm.
+Cấp III: Là bảo vệ quá dòng điện vô
+III
+hướng, tính như BVI0 của MBA có một phía nối
+Hnh 2.21: Dong ngaĩn mách vi aât
+đất.
+MBA co hai dađy quaân noâi aât
+
+IV. TÍNH TOÁN CÁC BẢO VỆ SO LỆCH
+IV.1. Biến dòng cho bảo vệ so lệch:
+Như đã nói ở trên với bảo vệ so lệch MBA sơ đồ đấu dây BI được chọn để có
+thể bù sự lệch pha giữa dòng điện ở các phía MBA do tổ đấu dây MBA gây ra. Ví dụ
+MBA có tổ đấu dây ∆/Y-11 thì dòng thứ cấp lệch 300 so với dòng sơ cấp. Để dòng
+điện thứ cấp MBA không lệch pha nhau, người ta nối mạch thứ cấp của BI ngược lại,
+nghĩa là phía nối sao của MBA người ta nối BI theo kiểu ∆ và ngược lại. Mục đích là
+tránh dòng không cân bằng quá lớn chạy qua bảo vệ so lệch trong trạng thái làm việc
+bình thường cũng như khi ngắn mạch ngoài có thể làm cho bảo vệ tác động nhầm. Sơ
+đồ đấu dây BI theo các cách đấu các cuộn dây MBA khác nhau như hình 2.22.
+* Ví dụ cách chọn máy biến dòng: máy biến áp hai cuộn dây Sđm= 20 MVA,
+Uđm =110 Kv/ 6 Kv, tổ nối dây MBA Y/∆ -11.
++ Chọn máy biến dòng cấp điện áp 110 Kv, mạch thứ cấp BI nối ∆ nên dòng
+điện cuộn dây bằng dòng điện pha. Do vậy dòng điện tính toán để chọn BI phía cao
+áp bằng:
+3.S ñm
+3.20.103
+I sC =
+=
+= 181,8A
+3.U ñm
+3.110
+Chọn loại biến dòng 200/5 A.
+
+72
+
++ Chọn biến dòng phía hạ 6 kV. Mạch thứ cấp BI nối sao. Dòng điện tính toán
+để chọn BI phía hạ áp bằng:
+Sñm
+20.103
+I sH =
+=
+= 1937A
+3.U ñm
+3.6
+Chọn biến dòng loại 2000/5 A.
+Dòng điện thứ cấp BI ở hai phía tương ứng bằng:
+⎡I ⎤
+I tC = ⎢ sC ⎥. 3 = 4,55A
+⎣ nI ⎦
+I sH
+= 4,84A
+nI
+Độ chênh lệch dòng điện thứ cấp hai phía bằng :
+I tC − I tH
+4,55− 4,84
+.100 =
+.100 = 6.4%
+I tC
+4,55
+I tH =
+
+Gần đây, trong rơle so lệch hiện đại người ta đã thực hiện việc cân bằng pha
+và trị số dòng điện thứ cấp ở các phía của MBA ngay trong rơle so lệch.
+Ô/Y-1
+
+A’
+
+B’ C’
+
+∆/Y-11
+
+A
+
+a
+
+A
+
+a
+
+B
+
+b
+
+B
+
+b
+
+C
+
+c
+
+C
+
+c
+
+N
+A
+
+a/
+
+a’ b’ c’
+
+B
+
+C
+
+B’ C’
+
+A
+
+11
+
+b
+
+a
+
+B
+
+b
+
+a’ b’ c’
+
+N
+
+b/
+
+a
+
+c
+
+A’
+
+B
+
+c
+
+C
+
+Y/Ô-11
+Y/Ô-1
+
+B’ C’
+
+a
+
+B
+
+b
+
+B
+
+b
+
+C
+
+c
+
+C
+
+c
+
+A
+
+c
+
+c/
+C
+
+a
+
+A
+
+A’
+A’
+
+A
+
+1
+
+n
+
+a’ b’ c’
+
+n’
+
+B’ C’
+
+d/
+
+A
+
+11
+
+a
+
+a
+B
+
+C
+
+b
+
+73
+
+b
+c
+
+B
+
+a’ b’
+
+c’
+
+Y/Y-6
+
+Y/Y-0
+
+A’
+
+a
+
+B
+
+b
+
+C
+
+c
+
+B’ C’
+
+e/
+
+a
+
+A
+
+C
+
+c
+
+A’
+
+a’ b’ c’
+
+A
+
+C
+
+B’ C’
+
+A
+
+b
+
+f/
+
+a
+b
+
+b
+c
+
+C
+
+B
+
+a’ b’ c’
+c
+B
+
+a
+
+Hnh 2.22: S oă noâi dađy mách th caâp may bieân dong phu hp vi toơ noâi dađy MBA:
+A, B, C: vect dong ieôn s caâp pha A, B, C cụa MBA.
+a, b, c: vect dong ieôn th caâp pha a, b, c cụa MBA.
+
+IV.2. Bảo vệ so lệch dòng điện có sử dụng biến dòng bão hòa trung
+gian:(Loại PHT)
+Trình tự tính toán:
+1. Xác định dòng sơ cấp ở tất cả các phía của MBA hoặc biến áp tự ngẫu được
+bảo vệ. Dòng này được xác định tương ứng công suất định mức (công suất định mức
+của cuộn dây khỏe nhất) còn đối với MBA tự ngẫu thì tương ứng với công suất
+truyền qua của nó.
+Xác định tỷ số biến dòng dựa vào dòng điện sơ cấp vừa tính ở trên. Theo các
+tỷ số biến đổi của tổ máy biến dòng tính các dòng thứ cấp tương ứng trong các nhánh
+của bảo vệ : I IT , I IIT , I IIIT
+Đôi khi người ta chọn tỷ số biến dòng lớn hơn giá trị tính toán của nó để có
+thể chọn số vòng dây của BIG gần với giá trị tính toán của nó hơn, do đó làm tăng độ
+nhạy của bảo vệ.
+Lập bảng giá các trị tính toán trên:
+STT
+1
+2
+3
+4
+
+Giá trị bằng số cho phía
+UC
+UT
+UH
+
+Tên gọi các đại lượng
+Dòng sơ cấp các phía của MBA
+tương ứng với công suất định mức
+Hệ số biến đổi của BI
+Tổ nối dây của BI
+Dòng thứ cấp trong các nhánh của
+bảo vệ tương ứng với công suất định
+mức
+
+Chọn phía có giá trị dòng điện sơ cấp lớn nhất làm phía cơ bản.
+2. Xác định dòng ngắn mạch sơ cấp cực đại chạy qua MBA khi ngắn mạch
+ngoài trong chế độ làm việc cực đại ở tất cả các phía của MBA.
+'
+3. Tính toán dòng điện không cân bằng sơ cấp chưa kể đến thành phần I "kcbtt
+do chọn số vòng dây không chính xác gây ra.
+
+74
+
+Dòng không cân bằng sơ cấp toàn phần tính theo công thức sau:
+'
+'
+I kcbtt = I 'kcbtt + I 'kcbtt
++ I "kcbtt
+
+(2-31)
+
+Với:
+
+- I 'kcbtt : thành phần do sai số của máy biến dòng gây nên:
+I 'kcbtt = K kck .K ñn.fi .I Nng max
+
+(2-32)
+
+Kkck: hệ số kể đến thành phần không chu kỳ trong quá trình quá độ. Đối với
+rơle PHT có máy biến dòng bão hòa với cuộn dây ngắn mạch, hệ số này lấy bằng 1.
+Kđn: hệ số đồng nhất của các máy biến dòng, đối với bảo vệ MBA thường lấy
+bằng 1.
+fI: sai số cực đại cho phép của BI, fI max= 10%.
+I Nngmax : thành phần chu kỳ của dòng ngắn mạch chạy qua MBA khi ngắn
+mạch ba pha trực tiếp ngoài vùng bảo vệ.
+I "kcbtt : thành phần do việc điều chỉnh điện áp của MBA được bảo vệ gây nên.
+'
+I 'kcbtt
+= ∆Uα I αNng max + ∆Uβ I βNng max
+
+(2-33)
+
+Trong o :
+ÔUâ, ÔUđ: sai soâ tng oâi do vieôc ieău chưnh ieôn ap cac pha cụa MBA c
+bạo veô laây baỉng na khoạng ieău chưnh cho tng pha tng ng. oăng thi khi tnh soâ
+vong dađy cụa may bieân dong bao hoa trung gian phại laây gia tr trung bnh cụa ieôn
+ap pha co ieău chưnh.
+I αNng max va IβNng max: thanh phaăn chu ky cụa dong cháy qua pha co ieău
+chưnh ieôn ap cụa MBA khi ngaĩn mách ngoai tnh toan.
+'
+I "kcbtt
+: thanh phaăn do vieôc chón soâ vong dađy cac pha khođng c bạn
+khođng phu hp vi gia tr tnh toan cụa chung gađy neđn:
+W − WI
+W − WII
+'
+(2-34)
+I "kcbtt
+.I INng max + IItt
+= Itt
+.I IINng max
+WItt
+WIItt
+Trong đó:
+
+WItt, WIItt: số vòng tính toán của các cuộn dây máy biến dòng bảo hòa trung
+gian đối với các phía không cơ bản xác định theo yêu cầu cân bằng sức từ động khi
+ngắn mạch ngoài và làm việc bình thường.
+I cbT.Wcb = I IT .WItt = I IIT .WIItt
+(2-35)
+WI ,WII: các số vòng được chấp nhận (số nguyên) của cuộn dây máy biến
+dòng bão hòa trung gian ở các phía không cơ bản tương ứng .
+Biểu thức (2-33) và (2-34) viết cho MBA ba pha và MBA tự ngẫu. Đối với
+MBA hai cuộn dây cần bỏ bớt số hạng thứ hai ở vế phải của các biểu thức này.
+4. Xác định sơ bộ giá trị dòng khởi động của bảo vệ Ikđ chưa kể đến thành
+"'
+phần I kcbtt .
+Theo điều kiện chỉnh định khỏi giá trị tính toán lớn nhất của dòng không cân
+bằng tính toán:
+
+I kñ ≥ K at .I kcbtt
+(2-36)
+Với Kat: hệ số an toàn kể đến sai số của rơle và độ dự trữ, có thể lấy bằng 1,3.
+Theo điều kiện chỉnh định khỏi giá trị nhảy vọt của dòng điện từ hoá khi đóng
+MBA không tải :
+
+75
+
+I kñ ≥ K.I ñmB
+(2-37)
+Trong đó: IđmB là dòng điện định mức tương ứng với công suất định mức của
+MBA (của cuộn dây có công suất lớn nhất) và với công suất mẫu của MBA tự ngẫu
+chưa kể đến hệ số nhiệt đới hoá, lấy theo phía cơ bản.
+K: là hệ số chỉnh định chọn trong khoảng 1,0 - 1,3 khi tính toán bảo vệ máy
+biến dòng bão hòa trung gian.
+Theo hai điều kiện (a) và (b) ta chọn giá trị lớn nhất làm giá trị tính toán.
+5. Sơ bộ kiểm tra độ nhạy để có thể xác định xem có thể dùng rơle PHT được
+hay không hay phải dùng rơle có đặc tính hãm loại ÔZT.
+Để sơ bộ kiểm tra độ nhạy cần xác định dòng ngắn mạch trực tiếp khi hư hỏng
+xảy ra trên các cực MBA trong tình trạng tính toán. Tình trạng tính toán ở đây cần đề
+cập đến cả chế độ làm việc của MBA và cả chế độ làm việc của hệ thống.
+Hệ số độ nhạy của bảo vệ xác định theo công thức:
+I
+(2-38)
+K n = RΣ
+I kñR
+Trong đó IRΣ là dòng trong cuộn dây rơle. Dòng này phụ thuộc vào dòng ngắn
+mạch và sơ đồ nối dây của máy biến dòng. Trên hình 2.23 vẽ sự phân bố dòng điện
+trong mạch bảo vệ so lệch của MBA 3 cuộn dây đối với một số trường hợp ngắn
+mạch khác nhau. Để đơn giản, hệ số độ nhạy được xác định với giả thiết là toàn bộ
+dòng ngắn mạch chỉ chạy từ một phía đến.
+IkđR: dòng khởi động của rơle tương ứng với số vòng ở phía có dòng IR chạy
+qua.
+Nếu hệ số độ nhạy tính được lớn hơn 2 thì sẽ tiếp tục tính toán cho rơle PHT
+theo trình tự tiếp theo dưới đây còn không thì có thể không cần tính thành phần I”kcbtt
+do điều chỉnh điện áp gây nên với giả thiết là khi thay đổi đầu phân áp ta cũng sẽ
+thay đổi đại lượng đặt của bảo vệ.
+Trong những trường hợp khi đã không tính đến thành phần I”kcbtt mà bảo vệ
+vẫn không đảm bảo được độ nhạy cần thiết hoặc là phải bắt buộc kể đến thành phần
+không cân bằng thì nên dùng các bảo vệ có đặc tính hãm loại ÔZT (xem mục 3).
+Đối với những trường hợp đóng thử MBA vào một phía điện áp nào đó hoặc
+khi MBA ba cuộn dây (hay tự ngẫu) làm việc trong tình trạng một máy cắt ở phía nào
+đó đã cắt ra thì có thể cho phép ta hạ thấp yêu cầu về độ nhạy của bảo vệ so lệch.
+Trong những trường hợp này nếu bảo vệ không đủ độ nhạy thì các bảo vệ khác như
+bảo vệ rơle hơi, hay bảo vệ dự trữ của MBA sẽ tác động cắt MBA.
+6. Xác định số vòng cuộn cơ bản của biến dòng bão hòa trung gian, tương ứng
+với dòng khởi động của bảo vệ (phía cơ bản là phía có dòng điện thứ cấp BI lớn
+nhất).
+F
+(2-39)
+Wcbtt = kñR
+I kñRcb
+Trong đó: IkđRcb là dòng khởi động của rơle tính qui đổi về phía cơ bản. Nó bằng tỷ số giữa
+dòng khởi động sơ cấp với hệ số biến đổi của BI ở phía cơ bản có tính đến sơ đồ nối dây,
+IkđRcb = Ksđ.(Ikđ / nI).
+Giá trị nI theo phía cơ bản.
+FkđR: Sức từ động (A-Vòng) khởi động của rơle
+
+Loại PHT-562 FkđR = 60AV
+Loại PHT-565 FkđR = 100AV
+Vì dòng điện ở phía cơ bản là lớn nhất nên số vòng cuộn cơ bản của biến
+dòng bão hòa trung gian là bé nhất.
+Chú thích hình 2.23: Sơ đồ phân bố dòng trong MBA ba cuộn dây và rơle so lệch
+khi:
+a: ngắn mạch 2 pha phía nguồn.
+76
+
+b: ngắn mạch 1 pha phía nguồn.
+c: ngắn mạch 2 pha phía cuộn sao.
+d: ngắn mạch 3 pha cuộn tam giác.
+e: ngắn mạch 2 pha phía cuộn tam giác.
+Nguoăn
+
+nBI
+
+n BI
+
+(2)
+IN
+
+wI
+3w I
+
+(2)
+IN
+
+(2)
+IN
+
+n BI
+
+k=
+
+C
+
+B
+
+A
+
+(2)
+IN
+
+(2)
+IN
+
+n BI
+
+=1
+
+w III
+
+w II
+
+w III
+
+(2)
+IN
+
+(2)
+IN
+
+n BI
+
+n BI
+
+nBII
+
+nBIII
+a
+
+2
+
+b
+
+c
+
+a
+
+b
+
+c
+
+a/
+
+Nguoăn
+
+B
+
+A
+
+C
+
+I (1)
+N
+nBI
+
+I (1)
+N
+
+wI
+wI
+
+= w II
+
+(1)
+IN
+
+w II
+
+nBI
+
+w III = 3w I
+
+w III
+
+nBII
+
+nBIII
+a
+
+b
+
+c
+
+a
+
+b
+
+c
+
+77
+
+b/
+
+Nguoăn
+
+B
+
+A
+
+C
+(2)
+IN
+
+(2)
+IN
+
+n BI
+
+nBI
+
+(2)
+IN
+
+wI
+wI
+
+n BI
+
+= w II
+
+w III =
+
+n BI
+
+(2)
+IN
+
+(2)
+
+IN
+
+w II
+
+3w I
+
+(2)
+IN
+
+2
+
+(2)
+IN
+
+(2)
+IN
+
+n BI
+
+(2)
+IN
+
+n BI
+
+w III
+
+nBII
+
+nBIII
+a
+
+b
+
+c
+
+a
+
+b
+
+c
+
+c/
+
+Nguoăn
+
+n BI
+
+C
+
+B
+
+A
+(3)
+IN
+
+nBI
+
+(3)
+IN
+
+(3)
+IN
+
+nBI
+
+n BI
+(3)
+3I N
+
+wI
+k=
+
+3w I
+
+w III
+
+=1
+
+(3)
+IN
+
+(3)
+IN
+
+3
+
+(3)
+IN
+
+n BI
+
+(3)
+IN
+
+(3)
+3I N
+
+(3)
+IN
+
+(3)
+IN
+
+3
+
+3
+
+w II
+
+n BI
+
+w III
+
+nBII
+
+nBIII
+a
+
+b
+
+c
+
+a
+
+b
+
+c
+
+78
+
+d/
+
+(3)
+3I N
+
+n BI
+
+Nguoăn
+(2)
+
+n BI =
+
+k=
+
+3w I
+
+w III
+
+C
+
+B
+
+A
+
+(2)
+
+IN
+
+2.IN
+
+3
+
+nBI 3
+
+IN
+
+nBI 3
+
+nBI 3
+
+wI
+
+(2)
+IN
+
+2I N
+
+3
+
+(2)
+IN
+
+3
+
+3
+
+=1
+
+(2)
+
+(2)
+IN
+
+(2)
+
+(2)
+IN
+
+2 .I N
+
+(2)
+IN
+
+w II
+
+(2)
+IN
+
+3
+
+3
+
+w III
+
+(2)
+
+3
+
+(2)
+IN
+
+nBII
+
+nBIII = 1
+a
+
+b
+
+c
+
+a
+
+b
+
+c
+
+e/
+
+Hnh 2.23: S oă phađn boâ dong trong MBA va mách th
+caâp BI khi xạy ra ngaĩn mách trong vung bạo veô
+
+7. Số vòng của các cuộn dây ở các phía khác, xác định từ điều kiện cân bằng
+sức từ động trong máy biến dòng bão hòa trung gian khi MBA làm việc bình thường
+và khi có ngắn mạch ngoài theo biểu thức (2-35):
+I cbT .Wcb = I IT .WItt = I IIT .WIItt
+ Số vòng tính toán phía I:
+I
+(2-40)
+WItt = Wcb. cbT
+I IT
+ Số vòng tính toán phía II:
+I
+(2-41)
+WII tt = Wcb. cbT
+I IIT
+Wcb: số vòng cuộn cơ bản của BIG sau khi đã lấy tròn (về phía số nguyên
+gần nhất) tương ứng với số vòng tính toán thực tế có được của BIG.
+Nếu số vòng tính toán WItt , WIItt tính theo (2-40) và (2-41) ra những số lẻ thì
+lấy về số nguyên gần nhất phía lớn hơn hoặc bé hơn, sao cho dòng điện không cân
+'
+(do việc chọn số vòng dây WI và WII không
+bằng tổng Ikcb có kể đến thành phần I "kcb
+phù hợp với giá trị tính toán của chúng gây nên) trong mọi trường hợp ngắn mạch
+ngoài sẽ không làm cho bảo vệ tác động nhầm.
+Cần chú ý rằng đối với loại rơle FkđR= 100A thì sai số do việc lấy tròn số vòng
+'
+) nói chung sẽ bé hơn là đối với loại rơle có FkđR= 60A.
+dây gây nên (thành phần I "kcb
+
+79
+
+Đối với MBA ba cuộn dây khi số vòng chấp nhận của ba phía khác nhau thì
+phía cơ bản sẽ nối vào cuộn dây so lệch của BIG còn các phía kia sẽ nối vào cuộn
+dây cân bằng.
+Đối với MBA ba cuộn dây khi số vòng chấp nhận ở hai phía nào đó giống
+nhau và với MBA hai cuộn dây thì phía cơ bản sẽ nối vào một cuộn dây cân bằng nào
+đó (hoặc một phần của cuộn dây cân bằng và một phần của cuộn dây so lệch) còn
+phía kia sẽ nối vào cuộn dây cân bằng còn lại. Cách nối này cho phép ta chọn số
+vòng dây ở phía cơ bản gần với giá trị tính toán của nó hơn.
+8. Xác định giá trị chính xác của dòng không cân bằng sơ cấp của bảo vệ có
+'
+kể đến thành phần I "kcbtt
+theo công thức (2-31) và (2-34):
+'
+=
+I "kcbtt
+
+W − WII
+WItt − WI
+.I IINng max
+.I INng max + IItt
+WIItt
+WItt
+
+'
+'
+I kcbtt = I 'kcbtt + I 'kcbtt
++ I "kcbtt
+
+Cuoôn cađn baỉng
+I
+21
+1
+28 14 7 0
+0 1234
+0 1234
+
+Cuoôn so leôch
+2
+
+3
+
+3 2 1 0
+8 16 24
+12 20
+
+RI
+
+Cuoôn cađn baỉng
+II
+5
+
+4
+
+11
+
+7
+
+RI
+
+6
+
+12
+
+Hnh 2.24.a: S oă noâi dađy rle PHT – 565 eơ
+thc hieôn bạo veô so leôch MBA
+Cuoôn cađn baỉng
+21
+1
+28 14 7 0
+
+Cuoôn so leôch
+
+01 234
+01234
+3
+
+2
+
+Cuoôn cađn baỉng
+II
+5
+
+RI
+
+4
+
+RI
+
+3 2 1 0
+8 16 24
+12 20
+11
+
+6
+
+12
+
+7
+
+Hnh 2.24.b: S oă noâi dađy rle PHT – 565 eơ
+thc hieôn bạo veô so leôch MBA
+
+9. Xác định giá trị chính xác của dòng khởi động sơ cấp của bảo vệ theo giá trị
+chính xác của dòng không cân bằng, tính theo biểu thức (2-36). Tính đổi dòng khởi
+động này sang phía thứ cấp của BI ở phía cơ bản.
+Nếu như dòng tính đổi này lớn hơn dòng khởi động của rơle tương ứng với số
+vòng đã được chấp nhận ở phía cơ bản thì phải chọn lại số vòng ở phía cơ bản về
+80
+
+phía bé hơn gần nhất. Sau đó lại tính lại số vòng của các cuộn dây của BIG ở các
+phía còn lại tương ứng với số vòng ở phía cơ bản vừa được chấp nhận Wcb theo các
+công thức (2-40), (2-41). Cứ như vậy tính cho đến khi nào dòng khởi động của bảo
+'
+vệ có kể đến thành phần I "kcbtt
+bằng hoặc bé hơn dòng khởi động của bảo vệ đã được
+chấp nhận mới thôi.
+10. Xác định các dòng ngắn mạch sơ cấp và những dòng thứ cấp tương ứng
+của BI, rồi tính hệ số độ nhạy theo công thức (2-38) hoặc công thức sau:
+I .W
+Kn = ∑ R
+(2-42)
+Fkñ R
+IR: dòng thứ cấp ở mỗi phía của bảo vệ có kể đến dấu của nó ở dạng ngắn
+mạch đang khảo sát.
+W: số vòng của cuộn dây BIG ở phía tương ứng.
+Hệ số độ nhạy Kn phải tính cho tất cả các trường hợp làm việc khác nhau của
+MBA được bảo vệ cũng như của hệ thống và mạng điện cung cấp, khi có những dạng
+ngắn mạch khác nhau xảy ra trên cực MBA được bảo vệ.
+Khi dùng công thức (2-42) cần phải tính sự phân bố của dòng sự cố và dòng ở
+các phía của mạch bảo vệ. Khi dùng công thức (2-38) cần xác định dòng trong máy
+biến dòng BIG của rơle với giả thiết là toàn bộ dòng ngắn mạch chỉ chạy ở một phía
+cung cấp dòng sự cố lớn nhất ở dạng ngắn mạch đang khảo sát. Nếu tính toán sơ bộ
+thì dùng công thức (2-38) tiện hơn.
+Nếu như độ nhạy tối thiểu nhận được trong tình trạng tính toán bé hơn giá trị
+cho phép, đồng thời giá trị tính toán của dòng khởi động của bảo vệ lại chọn theo
+điều kiện chỉnh định khỏi dòng không cân bằng khi ngắn mạch ngoài thì phải tính
+toán lại bảo vệ với rơle có đặc tính hãm loại ÔZT.
+Bảng tổng hợp giá trị tính toán:
+
+STT Tên đại lượng tính toán
+1
+
+2
+3
+4
+5
+6
+7
+8
+9
+
+Ký hiệu và công thức tính
+
+Dòng khởi động của rơle ở phía
+I
+I kñRcb = K sñ kñ (Ikđ khi chưa
+cơ bản
+nI
+"'
+kể đến I kcb )
+Số vòng tính toán của cuộn dây
+F
+máy biến dòng bão hòa trung Wcbtt = kñR .
+I kñRcb
+gian ở phía cơ bản
+Số vòng ở phía cơ bản sơ bộ Wcb
+được chấp nhận
+FkñR
+Dòng khởi động của rơle ở phía I
+kñRcb =
+cơ bản tương ứng
+Wcb
+Số vòng tính toán của cuộn dây
+I
+máy biến dòng bão hòa trung WItt = Wcb cbT .
+I IT
+gian ở phía I
+Sơ bộ chọn số vòng phía I
+WI
+Số vòng tính toán của cuộn dây
+I
+máy biến dòng bão hòa trung WIItt = Wcb cbT .
+I IIT
+gian ở phía II
+Sơ bộ chọn số vòng phía II
+WII
+Thành phần dòng không cân
+W − WI
+'
+= Itt
+.I INngmax
+bằng sơ cấp do việc chọn số I "kcbtt
+W
+vòng phía I khác với giá trị tính
+Itt
+toán của nó gây nên trong trường
+81
+
+Giá trị
+bằng số
+
+10
+11
+12
+13
+
+hợp ngắn mạch tính toán
+Dòng không cân bằng tính toán
+ở phía sơ cấp có kể đến thành
+"'
+phần I kcbtt
+Giá trị chính xác dòng khởi
+động của sơ cấp của bảo vệ
+Giá trị chính xác dòng khởi
+động của sơ cấp của rơle ở phía
+cơ bản
+Số vòng của các cuộn dây của
+máy biến dòng bão hòa cuối
+cùng được chấp nhận
+
+IV.3. Bảo vệ so lệch dùng
+BIG có đặc tính hãm ÔZT:
+Chỉ dẫn chung:
+1. Rơle loại ÔZT có một cuộn
+hãm nằm trong máy biến dòng bão
+hoà trung gian cho phép ta hãm các
+bảo vệ bằng dòng điện lấy từ máy
+biến dòng đặt ở phía nào đó. Đặc
+tính khởi động của rơle khi có hãm
+Flv = f(Fh) phụ thuộc vào góc giữa
+dòng làm việc Ilv và dòng hãm Ih.
+Trên (hình 2.25) vẽ đặc tính giới hạn
+tương ứng của các giá trị hãm lớn
+nhất và bé nhất.
+2. Sơ đồ nối các cuộn dây
+trong rơle và sơ đồ bảo vệ máy biến
+áp hai và ba cuộn dây bằng rơle loại
+ÔZT trình bày trên hình 2.26a, 2.26b
+trong đó cuộn hãm được nối tới phía
+có dòng ngắn mạch lớn hơn.
+
+'
+I kcbtt = I 'kcbtt + I 'kcbtt
+'
++ I "kcbtt
+
+I kñRcb ≥ K at .I kcbtt
+I kñ
+nI
+Phía cơ bản Wcb
+Phía I WI
+Phía II WII
+I kñRcb = K sñ
+
+Flv (A-V)
+
+1300
+1100
+900
+
+Vung khi
+oông
+
+800
+600
+400
+
+Vung
+ham
+
+200
+0
+
+200
+
+400
+
+600 800
+
+Fh (A-V)
+
+Hnh 2.25: aịc tnh khi oông cụa rle loái ÔZT
+
+3. Dùng rơle so lệch có cuộn
+hãm cho phép ta không cần chỉnh định dòng khởi động theo dòng không cân bằng
+khi ngắn mạch ngoài. Khi đó sức từ động do cuộn hãm sinh ra sẽ đảm bảo cho bảo vệ
+rơle không tác động. Vì thế bảo vệ dùng rơle có cuộn hãm thường có độ nhạy cao
+hơn so với các bảo vệ không có cuộn hãm (loại PHT).
+Bảo vệ dùng rơle ÔZT -1 thường dùng trong trường hợp sau đây:
+- Máy biến áp hai hoặc ba cuộn dây có máy cắt trong mạch tự dùng.
+- Máy biến áp hai hoặc ba cuộn dây (hay biến áp tự ngẫu), nối vào hệ thống có
+công suất lớn qua hai máy cắt.
+- Máy biến áp ba cuộn dây trong đó một cuộn nối với phía không có nguồn.
+
+82
+
+Cuoôn ham
+2
+
+6
+1 3 5 7 9 11
+
+Cuoôn cađn baỉng
+4I
+0 1 2 3
+
+Cuoôn so leôch
+9
+
+0 1 2 3
+
+1
+
+RI
+
+3210
+8 16 24
+12 20
+
+RI
+
+Cuoôn cađn baỉng
+II
+5
+
+8
+
+11
+
+7
+
+3
+
+12
+
+Cuoôn th caâp
+
+Hnh 2.26a: S oă noâi dađy rle ÔZT - 1
+
+4. Để bảo vệ không tác động khi ngắn mạch ngoài trong trường hợp cuộn hãm
+không làm việc (ví dụ máy cắt nối vào cuộn hãm đã cắt ra) hoặc khi đóng MBA
+không tải, cần phải chọn dòng điện khởi động theo các điều kiện như đối với bảo vệ
+PHT:
+* Theo điều kiện chỉnh định khỏi dòng không cân bằng tính toán lớn nhất khi
+ngắn mạch ngoài:
+I kñ ≥ K at .I kcbtt
+
+(2-43)
+
+trong đó: hệ số an toàn Kat = 1,5.
+
+Dòng không cân bằng tính toán Ikcbtt để chọn dòng khởi động Ikđmin được xác
+định như rơle PHT.
+'
+'
+I kcbtt = I 'kcbtt + I 'kcbtt
++ I "kcbtt
+
+I 'kcbtt = K kck .K ñn.fi .I Nng max
+'
+I 'kcbtt
+= ∆Uα I αNng max + ∆Uβ I βNng max
+
+WItt − WI
+W − WII
+.I INng max + IItt
+.I IINng max
+WItt
+WIItt
+* Theo điều kiện chỉnh định khỏi dòng từ hoá nhảy vọt khi đóng MBA không
+'
+I "kcbtt
+=
+
+tải:
+
+I kñ ≥ K.I ñmT
+
+(2-44)
+
+trong đó: hệ số K = 1,2 -1,5
+
+* Theo điều kiện chỉnh định khỏi dòng ngắn mạch lớn nhất khi ngắn mạch sau
+MBA tự dùng (hoặc kháng điện tự dùng). Nếu trong mạch tự dùng không đặt biến
+dòng cho bảo vệ so lệch. Thông thường điều kiện này không phải là điều kiện tính
+toán.
+
+83
+
+Trong hai điều kiện (a), (b) hệ số an toàn lấy cao hơn đối với loại rơle PHT vì
+trong rơle so lệch loại ÔZT không có cuộn dây ngắn mạch, ảnh hưởng của dòng quá
+độ sẽ lớn hơn.
+5. Số vòng của cuộn dây làm việc của máy biến dòng bão hòa (cuộn cân bằng
+và cuộn so lệch) tương ứng với dòng Ikđmin xác định tương tự như đối với bảo vệ
+dùng rơle PHT. Theo công thức (2-39), (2-40), và (2-41):
+F
+I
+I
+Wcbtt = kñR ; WItt = Wcb . cbT ; WIItt = Wcb . cbT
+I kñRcb
+I IT
+I IIT
+6. Cuộn hãm của rơle ÔZT nên nối vào tổ máy biến dòng nào đảm bảo được
+độ nhạy của bảo vệ nói chung cao nhất. Muốn vậy phải làm sao cho:
+ Dòng khởi động của bảo vệ càng bé càng tốt.
+ Khi ngắn mạch trong vùng bảo vệ (trong những trường hợp kiểm tra độ
+nhạy) tác động hãm càng bé càng tốt.
+ Thực tế để chọn được phía nối với cuộn hãm một cách hợp lý cần phải xem
+xét một cách cụ thể.
+Ví dụ đối với các sơ đồ nối với máy tăng áp (hình 2.27) có thể chọn tổ máy
+biến dòng nối với cuộn hãm như sau:
+II
+
+I
+
+a/
+
+II
+
+I
+
+b/
+
+III
+
+~
+
+F
+
+TD
+
+eân
+cuoô
+n
+ham
+
+III
+
+~
+
+F
+
+II
+
+I
+
+TD
+
+II
+I
+eân
+cuoô
+n
+ham
+
+eân
+cuoô
+n
+ham
+c/
+
+III
+
+eân
+cuoô
+n
+ham
+
+d/
+
+~
+
+F
+
+TD
+
+III
+
+~
+
+F
+
+TD
+
+Hnh 2.27: S oă noâi dađy cac MBA taíng ap 3 cuoôn dađy (t ngaêu)
+dung rle so leôch co cuoôn ham
+
+84
+
+* Đối với máy biến áp tăng áp hai và ba cuộn dây (hoặc MBA tự ngẫu) ở các
+cấp điện áp đều có nguồn, trong mạch tự dùng có đặt máy cắt còn trong mạch máy
+phát không đặt máy cắt thì cuộn hãm của máy biến dòng nên nối vào tổ máy biến
+dòng đặt ở tự dùng (hình 2.27a).
+* Đối với MBA tăng áp ba cuộn dây ở cả ba cấp điện áp đều có nguồn cung
+cấp, trong mạch máy phát và mạch tự dùng đều có đặt máy cắt thì cuộn hãm của rơle
+so lệch nên nối vào tổng dòng điện của hai nhánh máy phát và tự dùng (hai tổ máy
+biến dòng của hai nhánh nối song song) để khỏi phải chỉnh định dòng khởi động tối
+thiểu của bảo vệ theo dòng không cân bằng khi hư hỏng trong máy phát điện (hình
+2.27b).
+* Đối với máy biến áp tăng áp hai hoặc ba cuộn dây nối với hệ thống công
+suất lớn qua hai máy cắt thì cuộn hãm của rơle so lệch nên nối vào tổ máy biến dòng
+đặt trong mạch của một trong hai máy cắt đó ( hình 2.27c).
+* Đối với MBA tăng áp ba cuộn đây làm việc theo sơ đồ bộ, phía điện áp
+trung không có nguồn cung cấp, trong mạch tự dùng và mạch máy phát không đặt
+máy cắt thì cuộn hãm của rơle so lệch nên nối vào tổ máy biến dòng đặt ở phía cấp
+điện áp trung (hình 2.27d).
+Sau đây chúng ta khảo sát một số ví dụ về cách nối cuộn hãm trong bảo vệ của
+máy biến áp giảm áp (hình 2.28):
+II
+
+I
+
+II
+I
+eân
+cuoô
+n
+ham
+
+eân
+cuoô
+n
+ham
+
+b/
+
+a/
+
+III
+
+III
+I
+
+II
+
+II
+
+I
+
+I
+eân
+cuoô
+n
+ham
+
+c/
+
+e/
+
+d/
+
+III
+
+II
+
+III
+
+eân
+cuoô
+n
+ham
+
+Hnh 2.28: S oă noâi dađy cac MBA giạm ap 2, 3 cuoôn dađy (hoaịc t
+ngaêu) dung rle so leôch co cuoôn ham
+
+85
+
+* Đối với các MBA giảm nối với hệ thống có công suất lớn qua hai máy cắt
+thì cuộn hãm của rơle so lệch nên nối vào tổ máy biến dòng đặt trong mạch của một
+trong hai máy cắt đó (hình 2.28a).
+* Đối với các máy biến áp giảm, ba cuộn dây chỉ nối với một nguồn cung cấp
+(hình 2.28b) khi có điều áp dưới tải và dòng khởi động của bảo vệ tính theo điều kiện
+chỉnh định khỏi dòng không cân bằng khi ngắn mạch ngoài (ở cả hai phía không có
+nguồn) lớn hơn dòng khởi động tính theo điều kiện chỉnh định khỏi dòng từ hoá nhảy
+vọt thì cuộn hãm của rơle so lệch nên nối vào tổ máy biến dòng đặt trong mạch nối
+với nguồn.
+Nếu khi ngắn mạch ngoài ở một phía nào đó dòng không cân bằng rất lớn và
+dòng khởi động của bảo vệ tính theo điều kiện chỉnh định khỏi dòng không cân bằng
+ở phía này lớn hơn là dòng khởi động của bảo vệ tính theo điều kiện chỉnh định khỏi
+dòng từ hoá nhảy vọt, còn khi ngắn mạch ở phía kia dòng khởi động của bảo vệ tính
+theo điều kiện chỉnh định khỏi dòng không cân bằng bé hơn dòng khởi động của bảo
+vệ tính theo điều kiện chỉnh định khỏi dòng từ hoá nhảy vọt thì cuộn hãm của rơle so
+lệch nên nối vào tổ máy biến dòng đặt ở phía có dòng không cân bằng lớn hơn. Cách
+nối này cho phép ta chọn dòng khởi động của bảo vệ theo điều kiện chỉnh định khỏi
+dòng từ hoá nhảy vọt.
+* Đối với MBA tự ngẫu giảm áp nối với hai nguồn cung cấp (hình 2.28c) cuộn
+hãm của rơle so lệch nên nối vào tổ máy biến dòng đặt ở một trong hai mạch nối với
+nguồn.
+* Đối với MBA giảm ba cuộn dây có hai nguồn cung cấp (hình 2.28d) khi
+cuộn dây điện áp trung hoặc cuộn dây điện áp thấp có điện trở bằng không (r = 0) thì
+cuộn hãm của rơle so lệch nên nối vào tổ máy biến dòng đặt ở phía có điện trở bằng
+không. Tuy nhiên trong trường hợp khi công suất của nguồn ở phía nào đó bé hơn so
+với phía kia thì nên chọn cách nối cuộn hãm theo những chỉ dẫn ở mục trên.
+* Đối với các MBA giảm hai cuộn dây (hình 2.28e) cuộn hãm của rơle so lệch
+nên nối vào tổ máy biến dòng đặt ở phía không nguồn của MBA. Cách nối này làm
+tăng độ nhạy của bảo vệ khi có ngắn mạch trong MBA vì khi ấy cuộn hãm sẽ không
+làm việc.
+Trong trường hợp chung để có thể chọn cách nối cuộn hãm một cách hợp lý
+có thể làm như sau: Lần lượt đặt cuộn hãm ở tất cả các phía của MBA được bảo vệ
+với giả thiết là máy cắt đặt ở phía này đã cắt ra, xác định dòng không cân bằng tính
+toán cực đại Ikcbttmax khi cuộn hãm không làm việc và dòng khởi động tối thiểu tương
+ứng Ikđmin của bảo vệ đối với tất cả các phương án đặt cuộn hãm khác nhau.
+Phương án nào có dòng khởi động tối thiểu Ikđmin bé nhất sẽ được dùng vì khi
+ấy độ nhạy của bảo vệ sẽ cao nhất. Nếu như hai phương án nào đó cho giá trị Ikđmin
+gần như nhau hoặc hoàn toàn giống nhau (khi điều kiện tính toán là điều kiện chỉnh
+định khỏi dòng từ hoá nhảy vọt) thì nên chọn phương án có tác động hãm ít hơn khi
+ngắn mạch trong vùng bảo vệ để tăng độ nhạy của bảo vệ.
+Cần chú ý rằng có thể có trường hợp nếu nối cuộn hãm với phía mà khi ngắn
+mạch ngoài ở phía đó dòng không cân bằng tính toán không phải là lớn nhất thì phải
+chọn số vòng của cuộn hãm quá lớn và khi ngắn mạch trong vùng bảo vệ độ nhạy của
+bảo vệ quá thấp, trong những trường hợp như vậy phải tính toán lại với phương án
+nối cuộn hãm vào phía khác.
+7. Khi cuộn hãm làm việc nếu có ngắn mạch ngoài bảo vệ sẽ không tác động.
+Để kiểm tra tính không tác động của bảo vệ (có hãm) phải dùng đặc tính khởi động
+tương ứng với tác động hãm bé nhất (đường cong II trên hình 2.25)
+Để tính toán được đơn giản hơn người ta có thể thay thế đường cong bằng tiếp
+tuyến của nó đi qua gốc toạ độ, khi ta thay thế như vậy thì độ dự trữ không tác động
+của bảo vệ khi ngắn mạch ngoài sẽ cao hơn.
+Rõ ràng rằng bảo vệ chắc chắn sẽ không tác động nếu như khi ngắn mạch
+ngoài, điểm biểu diễn quan hệ Flv, Fh nằm thấp hơn đường tiếp tuyến này, nghĩa là:
+I .W
+K at lvT lvtt ≤ tgα
+(2-45)
+I hT .Wh
+
+86
+
+Trong đó:
+
+ IlvT và IhT: dòng làm việc và hãm thứ cấp tính đổi về phía thứ cấp của tổ
+máy biến dòng nối với cuộn hãm của rơle so lệch.
+ Wh: số vòng của cuộn hãm đã được sử dụng.
+ Wlvtt: số vòng tính toán của cuộn làm việc ở phía có nối với cuộn hãm.
+ tgα: tg của góc của đường tiếp tuyến với đặc tính khởi động thấp nhất qua
+rơle (theo số liệu của nhà chế tạo tgα ≈ 0,83)
+ Kat: hệ số an toàn Kat = 1,5.
+Mặt khác ta lại có :
+I lvT I lv
+=
+I hT
+Ih
+Và khi ngắn mạch ngoài I lv = I kcbtt nên từ (45) có thể tìm được số vòng cần
+thiết của cuộn hãm:
+Wh ≥
+
+K at .I kcbtt Wlvtt
+.
+Ih
+tgα
+
+(2-46)
+
+Trong đó: I kcbtt và Ih : dòng không cân bằng sơ cấp tính toán xác định theo (2-31) và
+dòng hãm sơ cấp ở dạng ngắn mạch tính toán để chọn số vòng của cuộn hãm của rơle so
+lệch.
+
+Dòng ngắn mạch tính toán để chọn số vòng cuộn hãm theo biểu thức (2-46) là
+ngắn mạch ba pha xảy ra trong chế độ khi ∆I lớn nhất:
+K .I
+(2-47)
+∆ I = at kcbtt
+Ih
+Để xác định giá trị lớn nhất của ∆I cần phải khảo sát những trường hợp ngắn
+mạch ở phía do tác động của cuộn hãm bảo vệ sẽ không làm việc. Đồng thời trong
+trường hợp chung tiến hành tính toán cho những phương án làm việc khác nhau của
+MBA và của hệ thống điện.
+Khi sức từ động làm việc do dòng không cân bằng gây nên lớn hơn 100A có thể
+dùng biểu thức (2-46) và thay đường đặc tuyến khởi động bằng tiếp tuyến của nó
+(tgα = 0,85). Khi sức từ động bé hơn 100A đặc tuyến khởi động thực tế khác nhiều
+so với đường tiếp tuyến của nó, vì vậy nếu tính theo đường tiếp tuyến thì số vòng
+cuộn hãm nhận được sẽ cao hơn giá trị cần thiết của nó. Mặt khác việc xác định tình
+trạng tính toán để sử dụng đường cong thực tế sẽ gặp khó khăn vì khi tăng tỉ số ∆I
+theo (2-47) đối với đặc tính thực tế thì tgα cũng tăng theo.
+8. Độ nhạy của bảo vệ khi hư hỏng xảy ra trong vùng bảo vệ trong những chế
+độ khi cuộn hãm không làm việc có thể đặc trưng bằng hệ số độ nhạy tính theo các
+công thức:
+IR
+Kn = ∑
+I kñR
+hoặc
+
+Kn =
+
+∑ I R .W
+
+Fkñ R
+Các chế độ làm việc và dạng ngắn mạch tính toán cũng như hệ số độ nhạy tối
+thiểu cho phép cũng chọn tương tự như là đối với các bảo vệ rơle PHT.
+9. Độ nhạy của bảo vệ trong những trường hợp cuộn hãm làm việc (có dòng
+chạy qua cuộn hãm) hệ số độ nhạy trong trường hợp này tính theo công thức:
+Flv
+(2-48)
+Kn =
+Flvkñ.R
+
+87
+
+Trong đó :
+
+ Flv: sức từ động làm việc của rơle khi ngắn mạch trực tiếp.
+ FlvkđR: sức từ động làm việc khởi động của rơle trong điều kiện khi bảo vệ ở
+giới hạn của miền khởi động trong trường hợp ngắn mạch khảo sát, nhưng không
+phải ngắn mạch trực tiếp mà qua điện trở quá độ.
+Sức từ động làm việc của rơle so lệch xác định theo biểu thức :
+(2-49)
+Flv = ∑ I lvT .Wlv
+Trong đó:
+
+ IlvT: dòng thứ cấp ở các phía khác nhau có kể đến dấu của chúng ở dạng
+ngắn mạch trực tiếp khảo sát.
+ Wlv: số vòng của cuộn làm việc ở từng phía tương ứng.
+Khi có một nguồn cung cấp, hoặc để tính toán đơn giản ngay cả khi có nhiều
+nguồn cung cấp có thể xác định sức từ động làm việc theo biểu thức sau:
+Flv = I lvT ∑ .Wlvc
+(2-50)
+Trong đó :
+- IlvT: dòng trong cuộn làm việc của rơle khi ngắn mạch trực tiếp (nếu có
+nhiều nguồn cung cấp thì giả thiết dòng chỉ chạy theo phía cung cấp chủ yếu).
+- Wlvc: số vòng cuộn làm việc của rơle so lệch ở phía có nguồn cung cấp (khi
+có nhiều nguồn cung cấp lấy phía có nguồn cung cấp chủ yếu).
+Các dòng trong các cuộn làm việc IlvT và IlvTΣ trong các biểu thức (249) và (2-50) cần phải xác định có kể đến dạng ngắn mạch và sơ đồ nối máy biến
+dòng của bảo vệ. Sức từ động làm việc khởi động của rơle FlvkR trong biểu thức (248) xác định theo đặc tính khởi động của rơle khi tác động hãm lớn nhất theo trình
+tự sau:
+Xác định sức từ động hãm của rơle so lệch Fh khi ngắn mạch theo biểu thức:
+Fh = I hT .Wh
+(2-51)
+Trong đó:
+
+ IhT: dòng trong cuộn hãm của rơle so lệch ở dạng ngắn mạch đang khảo sát
+có kể đến sơ đồ nối dây của BI.
+ Wh: số vòng dây của cuộn hãm.
+Trên mặt phẳng Flv, Fh vẽ điểm biểu diễn tương ứng với Flv, tính theo (2-49)
+và (2-50) và Fh tính theo (2-51) cho trường hợp ngắn mạch khảo sát.
+Vẽ đường thẳng OA,
+đường thẳng này là quỹ tích
+những điểm tương ứng với dạng
+Flv (A-V)
+1300
+ngắn mạch khảo sát qua các điện
+trở trung gian khác nhau, bởi vì
+1100
+khi ngắn với những điện trở trung
+Vung tac
+gian khác nhau sự phân bố dòng
+oông
+900
+điện và quan hệ giữa các dòng
+làm việc và hãm sẽ không thay
+800
+đổi. Điểm cắt nhau giữa đường
+Flvtt
+thẳng này với đường cong khởi
+600
+động của rơle tương ứng với tác
+A
+động hãm lớn nhất (điểm A trên
+400
+hình 2.29) sẽ là điểm biểu diễn
+Vung
+ham
+giới hạn tác động của rơle, do đó
+200
+sức từ động làm việc tương ứng
+với điểm này sẽ là điểm làm việc
+Flh
+FlvkR
+khởi động FlvkđR ở dạng ngắn
+0
+200 400 600 800 (A-V)
+mạch đang khảo sát có điện trở
+trung gian.
+Hnh 2.29: Xac nh sc t oông lam vieôc khi oông
+cụa rle theo aịc tnh khi oông khi oô ham ln
+nhaât.
+88
+
+Để xác định độ nhạy của bảo vệ cần phải chọn đúng tình trạng làm việc của hệ
+thống, của nhà máy điện hoặc trạm và của bản thân máy biến áp được bảo vệ sao cho
+dòng điện qua cuộn hãm là lớn nhất.
+Hệ số độ nhạy tối thiểu Kn(hãmmin = 2.
+Đối với trường hợp đóng thử MBA hoặc khi MBA ba cuộn dây (hay tự ngẫu)
+làm việc trong tình trạng một máy cắt ở phía nào đó đã cắt ra thì hệ số độ nhạy tối
+thiểu có thể cho phép lấy thấp hơn. Cần chú ý rằng khi xác định độ nhạy của bảo vệ
+nên kể đến sai số của rơle và để bảo vệ có thể tác động chắc chắn điểm làm việc
+tương ứng với dạng ngắn mạch khảo sát phải nằm cao hơn đường đặc tính khởi động
+ít nhất là 10% so với tung độ của nó.
+
+IV.4. Máy biến dòng phụ cho bảo vệ so lệch:
+Ngoài BI chính người ta có thể dùng BI phụ để bù lệch pha, và hiệu chỉnh
+dòng không cân bằng vào rơle do các đầu phân áp do khác tỉ số biến đổi giữa MBA
+và BI chính. Đối với MBA hai cuộn dây máy biến dòng phụ được phối hợp với điều
+kiện dòng phụ tải lớn nhất của MBA (hình 2.30). Với MBA ba cuộn dây, chọn BI
+theo cuộn dây có công suất định mức lớn nhất (hình 2.31).
+Ví dụ: Cho bảng vòng dây theo đầu nối và sơ đồ đấu dây máy biến dòng phụ
+của rơle so lệch MBA của hãng GEC. Hãy chọn tỉ số BI phụ, số vòng dây của cuộn
+BI phụ trong bảo vệ so lệch MBA.
+Máy biến áp 3 pha: S = 30MV, 11/66KV, ∆/Y.
+1-2
+2-3
+3-4
+4-5
+5-6
+x-7
+7-8
+8-9 S1-S2
+Đầu nối
+Số
+Tỉ số biến 5
+5
+5
+5
+125 25
+25
+25
+215
+vòng đổi 1 /1 A
+
+Bieân dong
+phú
+C.ham
+
+87
+87
+C.lam vieôc
+
+Hnh 2.30: Bạo veô so leôch co dung BI phú
+
+89
+
+S caâp BI phú
+P1
+
+P2
+
+3
+
+5
+
+4
+
+Bieân
+dong phú
+
+x
+
+Bieân
+dong phú
+C.ham
+87
+
+Giải:
+S1
+
+C.lam vieôc
+S2
+87 aău ra ti rle
+
+87
+
+Hnh 2.31: Bạo veô so leôch MBA ba cuoôn dađy co dung BI phú
+
+30.103
+= 1574,6A
+Dòng định mức phía 11 KV:
+3.11
+Cuộn dây MBA phía 11KV nối∆, BI nối Y, dòng thứ cấp vào rơle (chọn BI
+chính 1600 /1):
+1574,6.1
+= 0,984A
+I TI =
+1600
+30.103
+= 262,4 A
+3.66
+Cuộn dây MBA phía 66KV nối Y, BI nối Y, dòng thứ cấp đưa vào rơle (chọn
+BI chính 300 /1):
+262,43.1
+I TII =
+= 0,875A
+300
+Để bù lệch pha BU phụ đấu Y/∆.
+Tỉ số (66KV / 11KV) = 0,875 / 0,984 = 0,899.
+Cuộn dây thứ cấp S1-S2 là 215 vòng.
+Số vòng của cuộn sơ cấp BI phụ nI được tính:
+0,984.215
+0,984.215
+0,875.n1 =
+; ⇒ n1 =
+= 139,6 ≈ 140 voøn
+3
+3.0,875
+Chọn hai đầu nối cuộn sơ cấp BI phụ là 2 và 6 (5 + 5 + 5 + 125) = 140 vòng.
+
+Dòng định mức phía 66 KV:
+
+90
+
+Kết hợp bảo vệ so lệch và bảo vệ chạm đất cuộn dây MBA:
+
+Có thể liên kết bảo vệ so lệch thứ
+tự không cuộn dây MBA và bảo vệ so
+lệch dọc MBA. Từ hình 2.32 ta thấy nếu
+trung tính cuộn sao nối đất qua điện trở
+1 đơn vị tương đối, hệ thống bảo vệ so
+lệch dọc có trị số đặt 20% sẽ phát hiện
+chạm chỉ 42% cuộn dây tính từ đầu
+đường dây. Yêu cầu sơ đồ của hai bộ BI
+cho hai hệ thống so lệch khác nhau, BI
+của bảo vệ so lệch TTK nối sao, trong
+khi đó BI của hệ thống bảo vệ so lệch
+dọc thì nối ∆ ở phía cuộn dây nối sao
+MBA, dùng hai bộ BI thì tốn kém, có
+thể dùng một bộ BI cho hai hệ thống so
+lệch theo các cách sau:
+ Dùng máy biến dòng phụ tổng.
+ Dùng máy biến dòng phụ Y/∆.
+Phương pháp sau được dùng rộng
+rãi hơn vì có thể điều chỉnh dòng không
+cân bằng cho bảo vệ so lệch dọc.
+
+(%)
+
+Im
+100
+80
+
+Bạo veô chám aât
+
+60
+40
+% Cuoôn
+dađy c
+bạo veô
+
+B.veô so
+leôch
+
+20
+0
+100
+
+80
+
+60
+
+40
+
+20
+
+0
+
+Hnh 2.32: Vung bạo veô cuoôn dađy
+MBA theo dong khi oông s caâp
+
+a) Sơ đồ BI phụ tổng:
+BI phú toơng co boân cuoôn dađy s caâp gioâng nhau noâi ti cac BI chnh nh
+hnh 2.33. Cac BI noâi ∆ oâi vi heô thoâng so leôch dóc, dong a vao rle so leôch dóc
+la hieôu dong hai pha. oâi vi BI phú toơng dong vao rle vaên la dong tng pha, toơng
+cac dong la 0 khi ieău kieôn cađn baỉng cuoôn th t cụa BI phú la dong t trung tnh
+MBA, rle aịt cuoôn th BI phú se bạo veô chám aât cuoôn dađy noâi sao MBA, nh
+theâ s oă nay bạo veô so leôch dóc va bạo veô so leôch th t khođng lam vieôc theo
+aịc tnh rieđng cụa mnh.
+b) Sơ đồ BI phụ Y/∆:
+Khi BI chính nối Y ở phía cuộn cao MBA thì tổ BI phụ nối Y/∆ để hiệu chỉnh
+góc pha như hình 2.34. Rơle chống chạm đất được nối từ phía sơ BI phụ. Lưu ý trong
+các sơ đồ kết hợp trên để rơle làm việc đúng, khi chọn BI chính phải tính đến tải của
+BI chính, BI phụ và các rơle.
+V. BẢO VỆ SO LỆCH KHI CÓ DÒNG TỪ HOÁ NHẢY VỌT, HIỆN TƯỢNG QUÁ
+KÍCH TỪ MBA
+
+Khi đóng MBA không tải dòng điện từ hoá nhảy vọt phía nguồn, tổng các
+dòng này không phân biệt với dòng ngắn mạch bên trong MBA. Để tránh tác động
+nhầm trong trường hợp này có các phương pháp sau:
+ Tác động chậm: Dòng từ hoá là dòng quá độ, tắt nhanh nên có thể tránh
+bằng cách cho rơle tác động có thời gian.
+Với các bảo vệ hiện đại người ta thực hiệc biện pháp hãm hoạ tần bậc 2. Dòng
+điện từ hoá có thể phân tích ra các thành phần bậc 2, 3, 4, ... nhưng trong đó thành
+phần bậc 2 lớn hơn cả. Hơn nữa trong dòng điện ngắn mạch dòng điện bậc 2 không
+có nên thành phần bậc 2 được sử dụng để ổn định bảo vệ chống lại hiện tượng quá
+xung kích từ hóa khi đóng MBA không tải, khi thành phần bậc 2 lớn hơn giá trị đặt,
+bảo vệ sẽ bị khoá.
+Còn khi xuất hiện quá kích từ MBA, có thành phần sóng hài bậc 5 chiếm phần
+lớn, thành phần bậc 5 này được dùng cho mục đích ổn định bảo vệ. Bảo vệ sẽ bị khoá
+khi thành phần sóng hài bậc 5 lớn hơn giá trị đặt.
+
+91
+
+64
+
+C.ham
+87
+C.lam
+vieôc
+87
+
+Hnh 2.33: S oă so leôch dung BI phú toơng
+VI. MỘT SỐ SƠ ĐỒ BẢO VỆ TIÊU BIỂU CHO MBA
+Các ký hiệu trên sơ đồ:
+50/51: Bảo vệ quá dòng điện 2 cấp
+50/51N: Bảo vệ quá dòng thứ tự không 2 cấp
+51N : Bảo vệ quá dòng thứ tự không
+27 : Bảo vệ điện áp thấp
+81 : Rơle tự động sa thải phụ tải
+96B: Bảo vệ hơi của dòng dầu MBA
+74 : Rơle kiểm tra cuộn cắt máy cắt
+96P : Bảo vệ hơi của dòng dầu của bộ ĐCĐA
+26Q: Bảo vệ nhiệt độ dầu MBA tăng cao 2 cấp 66
+: Bảo vệ áp suất tăng cao trong MBA
+26W : Bảo vệ nhiệt độ cuộn dây MBA - 2 cấp 66 OLTC: Bảo vệ áp suất tăng cao trong bộ ĐA
+33 : Bảo vệ mức dầu MBA giảm thấp - 2
+A, V : Ampemet, Vônmet
+cấp
+Wh : Máy đếm điện năng tác dụng
+W: Oatmet
+Varh : Máy đếm điện năng phản kháng
+Var :Varmet
+
+92
+
+ĐDK 110kV N-01
+TBA 500Kv Đà Nẵng
+
+74
+
+50/51
+
+WH
+
+VARH
+
+A
+87
+
+T1
+
+51N
+
+96B 12
+
+96P
+
+26Q 12
+
+26W 12
+
+1
+2
+
+1
+2
+
+33
+
+1
+
+63
+63 OLTC
+
+A
+VAR
+
+90
+WH
+
+F-24kV
+50A
+
+VARH
+
+V
+
+W
+
+74
+
+81
+
+27
+
+LƯỚI ĐIỆN PHÂN PHỐI 22KV
+
+Hình 2.34: Sơ đồ bảo vệ MBA 2 cuộn dây tiêu biểu
+
+93
+
+

@@ -1,0 +1,16 @@
+{
+    "name": "hiepnguyen/complete_vietnames_words",
+    "description": "Complete vietnamese words was wrong space",
+    "type": "library",
+    "require": {
+        "php": "^7.4",
+        "illuminate/collections": "^8.57"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Nguyễn Văn Hiệp",
+            "email": "nguyenhiepvan.bka@gmail.com"
+        }
+    ]
+}
