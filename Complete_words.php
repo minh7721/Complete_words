@@ -57,13 +57,13 @@ class Complete_words
         foreach ($acceptable as $key => $item) {
             if ($key && mb_strlen($item) === 1) {
                 if (mb_strlen(Arr::get($acceptable, $key + 1, "")) === 1) {
-                    $acceptable[$key + 1] = $item . $acceptable[$key + 1];
+                    $acceptable[$key + 1] = $item . Arr::get($acceptable, $key + 1, "");
                     unset($acceptable[$key]);
                     continue;
                 }
-                if ($this->checkValidWord($new_item = $acceptable[$key - 1] . $item)
-                    || ($this->checkValidWord($new_item = substr($acceptable[$key - 1], 0, -1))
-                        && $this->checkValidWord($new_item1 = substr($acceptable[$key - 1], -1) . $item))) {
+                if ($this->checkValidWord($new_item = Arr::get($acceptable, $key - 1, "") . $item)
+                    || ($this->checkValidWord($new_item = substr(Arr::get($acceptable, $key - 1, ""), 0, -1))
+                        && $this->checkValidWord($new_item1 = substr(Arr::get($acceptable, $key - 1, ""), -1) . $item))) {
                     $acceptable[$key - 1] = $new_item;
                     if (isset($new_item1)) {
                         $acceptable[$key] = $new_item1;
@@ -73,8 +73,7 @@ class Complete_words
                     continue;
                 }
             }
-            if ($this->checkValidWord($new_item = $item . Arr::get($acceptable, $key + 1, "")) &&
-                !$this->checkValidWord(Arr::get($acceptable, $key + 1, ""))) {
+            if ($this->checkValidWord($new_item = $item . Arr::get($acceptable, $key + 1, ""))) {
                 $acceptable[$key + 1] = $new_item;
                 unset($acceptable[$key]);
             }

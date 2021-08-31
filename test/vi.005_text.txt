@@ -1,0 +1,1287 @@
+PowerPoint 2002
+
+Ngày nay, các thiết bị trình chiếu (projector) đã bắt đầu được đưa vào nhà
+trường như một phượng tiện giảng dạy . Giáo viên có điều kiện thay đổi phương
+pháp giảng dạy trên lớp nhờ sử dụng các phần mềm trình diễn giúp thực hiện
+các mô phỏng và cung cấp cho người học các hình ảnh trực quan sống động.
+Microsoft® PowerPoint® 2002 là một chương trình phổ biến và dễ sử dụng , có
+nhiều tính năng để tạo ra các bản trình diễn (presentation) trên máy tính. .
+Mục tiêu của tài liệu này là giúp cho các thấy giáo :
+
+9
+9
+9
+9
+9
+9
+
+Tạo được một bản trình diễn dựa vào các mẫu thiết kế sẵn (design
+template).
+Tìm hiểu về các khung tác vụ (task panes) Slide Design và Slide
+Layout .
+Làm quen với chế độ Outline và Slides views.
+Chèn hình ảnh từ Clip Gallery hoặc từ file.
+Tự tạo chuyển động (Animation) cho các thành phần trình diễn.
+Nhập biểu đồ từ Microsoft Excel.
+
+Tài liệu này không có tham vọng đề cập đến tất cả các chức năng của
+PowerPoint cũng như các thao tác định dạng đầy đủ, nó chỉ có tính giới thiệu
+một số khái niệm và kỹ năng cơ bản. Người học sau đó có thể tự tìm hiểu thêm
+qua các giáo trình khác đầy đủ hơn, hoặc qua kinh nghiệm sử dụng thực hành
+soạn giảng.
+
+Μ
+
+Microsoft PowerPoint 2002
+
+Các điểm mới trong PowerPoint 2002
+PowerPoint 2002 có nhiều tính năng mới so với các phiên bản trước, giúp cho
+người dùng dễ dàng tạo ra các bản trình diễn sinh động.
+•
+
+Chế độ view Outline (Dàn ý) và Slide thumbnail (ảnh thu nhỏ của slide):
+Chế độ xem slide hiển thị các slide dưới dạng thu nhỏ (thumbnail), và
+chế độ xem dàn ý (Outline) cho ta thấy toàn cảnh thông tin trên các
+slide. Trong khi làm việc, bạn có thể thay đổi qua lại giữa 2 chế độ này.
+
+•
+
+Thiết kế đa mẫu (Multiple design templates). Bạn có thể có nhiều hơn
+một bản mẫu áp dụng cho các slide trong một thời điểm. Bạn có thể tận
+dụng các mẫu powerpoint hay các mẫu Web.
+
+•
+
+Chức năng nén hình và quay hình. Chọn độ phân giải (resolution) cho
+hình ảnh trong presentation, và thêm các tuỳ chọn khác để đạt sự cân
+bằng tốt nhất giữa chất lượng và kích thước của hình..
+
+•
+
+Trục và lưới (Grids and guidelines). Hiển thị các đường lưới và trục để
+canh thẳng hàng các đối tượng.
+
+174
+
+Microsoft PowerPoint 2002
+
+Khám phá PowerPoint
+Trước khi bắt đầu tạo bản trình diễn (presentation), chúng ta làm quen với giao
+diện của Powerpoint và khung tác vụ
+
+Standard
+toolbar
+View
+selection
+tabs
+New
+Presentation
+task pane
+
+Slide
+thumbnails
+
+Status bar
+
+Tạo một bản trình diễn mới
+Sử dụng các mẫu thiết kế sẵn
+Các mẫu có sẵn trong Powerpoint cung cấp cho người sử dụng các định
+dạng và trình bày mỹ thuật đa dạng. Người dùng có thể thay đổi thiết kế nền,
+thay đồi font chữ, kiểu chữ cho phù hợp,...
+
+Tạo bản trình diễn mới dùng các mẫu thiết kế sẵn
+1. Trong menu File , chọn New.
+2. Trong khung tác vụ New Presentation , dưới chữ New, chọn From
+Design Template.
+3. Trong khung tác vụ Slide Design , dưới mục Available For Use, bấm
+chọn Globe design template.
+
+175
+
+Microsoft PowerPoint 2002
+Chú ý: Nếu để con trỏ chuột ở phía trên mẫu , tên của nó sẽ xuất hiện.
+khung tác vụ Slide Design hiển thị các mẫu theo thứ tự ABC.
+4. Trong menu Globe design template ,bấm chọn Apply to All Slides. Về
+sau ta có thể thay đổi mẫu khác
+5. Ta có thể giữ nguyên định dạng của slide thứ nhất, hoặc có thể thay đồi
+nó như sau: trên menu Format, bấm chọn Slide Layout để mở khung tác
+vụ Slide Layout ,sau đó bấm chọn kiểu định dạng .
+6. Trong text box ở trên, gõ tiêu đề của bản trình diễn
+7. Trong text box ở dưới, gõ một tiêu đề phụ
+8. Vào menu File, chọn Save As. Duyệt đến thư mục cần lưu trên my
+computer sau đó bấm Save.
+9. Để chèn vào một slide kế tiếp, bấm chọn biều tượng
+trên
+thanh công cụ.Cứ thế tiếp tục các bước này trong quá trình xây dựng và
+trình diễn.
+Nếu bạn thường
+xuyên trình chiếu
+trong lớp, hãy chú ý
+đến cách chọn màu
+sắc tương phản sao
+cho mọi thành viên
+trong phòng có thể
+cảm nhận được ý đồ
+nhấn mạnh mà
+không phụ thuộc
+hiện tượng mù màu
+tạm thời hay xảy ra
+
+Ta có thể hiệu chỉnh định dạng của các slide bất cứ lúc nào, bằng cách dùng
+mẫu thiết kế sẵn, các sơ đồ màu, các kiểu trình bày,....
+
+Sử dụng khung tác vụ
+Sử dụng khung tác vụ Slide Layout và Slide Design, ta có thể tổ chức các
+kiểu trình bày slide, các mẫu thiết kế, các sơ đồ màu trong một bộ sưu tập
+tất cả các slide. Chọn một mục trong khung tác vụ này sẽ tác dụng ngay trên
+slide đang làm việc
+Thanh tác vụ Slide Layout chứa nhiều kiểu trình bày văn bản và nội dung
+khác nhau. Ví dụ, ta có thể tạo ra một tiêu đề ở phía trên những mục chọn,
+có thể tạo ra một khung chứa hình ảnh, một khung chứa video clip,...
+Có thể dùng sơ đồ màu để sự chọn lựa thêm phong phú. Ngoài ra còn có
+thể sử dụng các sơ đồ hoạt hình.
+
+Cách sử dụng khung tác vụ Slide Design
+1. Mở một bản trình diễn nào đó (*.ppt) .
+2. Trên thanh công cụ Format , chọn Slide Design để mở ra khung tác
+vụ Slide Design.
+Trong khung tác vụ Slide Design, có thể chọn Design Templates,
+Color Schemes, hoặc Animation Schemes. Mặc nhiên là Design
+Templates.
+3. Trong khung tác vụ Slide Design, bấm Color Schemes.
+
+176
+
+Microsoft PowerPoint 2002
+
+4. Bấm chọn sơ đồ màu theo sở thích. Bấm Apply to All Slides.
+
+Sử dụng các kiểu trình bày nội dung (content layouts)
+Kiểu trình bày nội dung là một cách sắp xếp các thành phần trong một slide,
+bao gồm: Tiêu đề, các danh sách, bảng biểu, ảnh, clip art. Khi tạo một slide
+mới, ta có thể chọn một kiểu trình bày cho nó.
+Nếu không thấy kiểu
+trình bày phù hợp,
+bạn có thể chọn
+blank layout và sau
+đó tự định dạng theo
+so83 thích.
+
+Để áp đặt một kiểu trình bày slide
+1. Mở một bản trình diễn (*.ppt.)
+2. Trong menu Format, chọn Slide Layout. Khung tác vụ Slide Layout
+xuất hiện.
+3. Mở tab Slides trong chế độ Normal. Chọn một hoặc nhiều slide
+4. Trong khung tác vụ Slide Layout, chọn kiểu trình bày thích hợp. Kiểu
+trình bày đó sẽ tác động đến các slide được chọn.
+
+177
+
+Microsoft PowerPoint 2002
+
+Ta cũng có thể hiệu chỉnh kiểu trình bày của một hay nhiểu slide vào bất cứ
+lúc nào.
+
+Hiệu chỉnh bản trình diễn
+
+Nếu bản trình diễn
+có nhiều mẫu khác
+nhau, bạn phải cập
+nhật các slide chủ
+đối với từng mẫu.
+
+Với PowerPoint 2002, ta có thể thay đổi định dạng căn bản của nó bằng cách
+hiệu chỉnh slide chủ (slide master), thay đổi sơ đồ màu, hoặc gán những chuyển
+cảnh (transitions),
+
+Thay đổi slide chủ
+Slide chủ là một thành phần trong mẫu thiết kế sẵn, chứa những thông tin
+tương đối ổn định và nhất quán như: Kiểu font, vị trí các text box, hình nền.
+Ta có thể thay đổi slide chủ, khi đó tất cả các slide trong bản trình diễn sẽ
+chịu ảnh hưởng chung.
+
+Có thể dùng thanh
+công cụ Slide Master
+View để chèn thêm
+một slide chủ mới .
+
+Ngoài slide chủ, mẫu thiết kế thường bao gồm một bản tiêu đề chủ (title
+master). Bản tiêu đề chủ chứa các thông tin về định dạng trong phạm vi các
+slide tiêu đề. Thông thường đó là các slide đầu tiên xuất hiện trong khung
+tác vụ Slide Layout.
+Ta có thể dùng slide chủ trong trường hợp đặc biệt muốn đưa hình vào
+nhiểu slide.
+
+Để hiệu chỉnh slide chủ
+1. Mở một bản trình diễn mới (*.ppt.).
+
+178
+
+Microsoft PowerPoint 2002
+2. Trên menu View menu, chọn Master, và bấm chọn Slide Master.
+
+3. Hiệu chỉnh nội dung trong text box của slide chủ
+
+Thay đổi sơ đồ màu (Color Scheme)
+Thay đổi sơ đồ màu trong bản trình diễn là một phương pháp rất đơn giản
+nhưng hiệu quả để thay đổi hiệu quả mỹ thuật. Mẫu thiết kế sẽ xác định các
+sơ đồ màu tương ứng.
+Ta có thể thử nghiệm thay đổi sơ đồ màu bằng cách sử dụng thanh tác vụ
+Slide Design, hoặc có thể tạo ra sơ đồ màu riêng bằng cách dùng các màu
+khác nhau cho các thành phần khác nhau trên slide.
+
+Thêm các màu không nằm trong sơ đồ màu
+1. Trong menu Format, chọn Slide Design.
+2. Trong thanh cộng cụ In the Slide Design pane, chọn Color Schemes.
+3. Chọn nút Edit Color Schemes trên thanh tác vụ Slide Design.
+4. Trong hộp thoại Edit Color Scheme dialog box, Bấm chọn thẻ click
+the Custom. Nếu Background chưa được chọn,hãy bấm chọn và
+đợi.
+5. Chọn Change Color. Trong hộp thoại Background Color, Bấm chọn
+thẻ Custom.
+
+179
+
+Microsoft PowerPoint 2002
+6. Mô hình màu (Color model) phải ở chế độ RGB. Điều chỉnh các
+thông số Red, Green, và Blue cho đến khi đạt được màu cần thiết (
+bằng cách sử dụng các phím mũi tên) sau đó bấm OK.
+7. Chọn Apply để ấn định bóng mới và đóng hội thoại Edit Color
+Scheme.
+8. Slide chủ thể hiện trên thanh công cụ, bấm chọn Close Master View.
+
+Thêm các chuyển cảnh (Transition)
+Các chuyển cảnh cho phép người dùng chuyển từ slide này sang slide khác
+một cách trôi chảy. Ta có thể tạo một kịch bản chuyển cảnh xuyên suốt bản
+trình diễn, hoặc tạo chuyển cảnh cho từng slide. Một vài ví dụ:
+•
+
+Fade Through Black. dạng chuyển cảnh dùng nền đen để làm mờ hình
+
+•
+
+Newsflash. Nhấn mạnh bằng cách chuyển từ màu nền sang màu chữ
+
+•
+
+Box Out. Dạng hộp chữ nhập từ nhỏ đến lớn.
+
+Sau khi thử với một vài dạng chuyển cảnh khác nhau ta có thể dùng chuyển
+cảnh Wipe Right để làm mờ hình trên nền đen tư trái qua phải. Các chuyển
+cảnh giúp cho bản trình diễn có tính chuyên nghiệp hơn và làm cho các slide
+liên kết với nhau một cách tự nhiên khi trình chiếu.
+
+Tạo chuyển cảnh trong bản trình diễn
+1. Trên menu Slide Show, bấm chọn Slide Transition. khi đó thanh tác
+vụ Slide Transition được mỡ ra.
+2. Chọn menu Apply to selected slides, duyệt các chuyển cảnh trong
+danh sách, và bấm chọn Wipe Right.
+3. Trong menu Modify transition menu, chọn chế độ Speed đến
+medium.
+4. Bấm chọn Apply to All Slides để ấn định cho tất cả các slide.
+
+180
+
+Microsoft PowerPoint 2002
+
+Đưa hình ảnh vào bản trình diễn
+Hình ảnh minh họa có thể có tính chất quyết định khi muốn nhấn mạnh và thu
+hút sự quan tâm của người xem. Hình ảnh giúp cho người xem hiểu được các
+thông tin trừu tượng của người báo cáo. Ta có thể sử dụng ảnh chụp, ảnh vẽ,
+biểu đồ, đồ thị để minh họa. Đối với ảnh chụp PowerPoint 2002 có tính năng tự
+động nén ảnh, điều này giúp cho kích thước tập tin trình diễn ở mức tối thiểu tùy
+theo độ phân giải của màn hình. ta có thể lấy ảnh từ trên Web hoặc từ các
+nguồn khác. Ta cũng có thể nén ảnh khi dùng chức năng gửi thư điện tử có đính
+kèm tập tin trình diễn.
+
+Chèn hình ảnh từ bộ sưu tập Media Gallery
+Ta có thể chèn ảnh chụp, hình vẽ, âm thanh, và phim video bằng cách sử
+dụng Microsoft Clip Organizer. Chức năng này cho phép tạo ra các chủ đề
+phân loại, các bộ sưu tập theo các chủ đề khác nhau, quản lý việc thêm bớt
+hình ở vào các bộ sưu tập đó.
+Khi tạo bản trình diễn có thể chèn vào nhiều dạng media khác nhau để làm
+tăng tính hấp dẫn của bản trình diễn. Ví dụ ta có thể đưa vào một đoạn video
+clip minh họa cho chủ đề đang đề cập, kèm theo những hình chụp minh họa
+khác...Hầu hết các định dạng media để có thể đưa vào bản trình diễn
+PowerPoint.
+
+181
+
+Microsoft PowerPoint 2002
+
+Chèn một clip từ Clip Organizer
+1. Mở một bản trình diễn mới (*.ppt).
+2. Trong menu Insert, chọn Picture, và bấm Clip Art.
+
+Nếu không nhớ tên
+tệp chính xác, hãy
+dùng các ký tự đại
+diện * hay ?
+Ví dụ : GD* thay thế
+cho các tệp có tên
+bắt đầu bằng 2 chữ
+GD.
+
+3. Mở thanh tác vụ Insert Clip Art . Trong hộp Search text , gõ một từ
+hoặc nhóm từ có liên quan đến chủ đề, hoặc ta có thể chỉ định bộ
+sưu tập theo các phân loại đã định trước.
+
+4. Bấm chọn nút Search . Để thu hẹp phạm vi tìm kiếm, ta có thể
+chỉ rõ việc tìm kiếm được thực hiện trên bộ sưu tập nào hoặc
+theo định dạng nào.
+5. Trên khung liệt kê các hình ảnh tìm thấy, bấm đúp để đưa anh
+vào slide.
+Đối với các ảnh đã được đưa vào slide, ta có thể thay đổi kích thước
+hoặc di chuyển đến mốt vị trí khác cho phù hợp. Ta cũng có dùng thanh
+công cụ format picture để hiệu chỉnh một số thuộc tính khác của ảnh.
+
+182
+
+Microsoft PowerPoint 2002
+
+Nén ảnh
+Đưa ảnh vào trong bản trình diễn sẽ làm tăng kích thước của tập tin
+PowerPoint. Tinh năng nén ảnh của PowerPoint 2002 sẽ giúp tiết kiệm được
+không gian lưu trữ trên máy tính và làm giảm thời gian download. Bằng cách
+sử dụng tính năng này ta có thể nén kích cỡ ảnh và độ phân giải xuống còn
+96 dpi (dots per inch) cho web và 200 dpi cho trang in, loại bỏ các thông tin
+khác không cần thiết. Chú ý: nén ảnh có thể làm giảm chất lượng , do đó
+nếu chỉ thuần tuý dùng Powerpoint để chế bản in thì không cần nén ảnh.
+
+Giảm bớt kích thước ảnh
+1. Chọn ảnh từ thư mục hoặc từ một web site nào đó,
+2. Trong menu View , chọn Toolbars, chọn tiếp Picture.
+3. Trên thanh công cụ Picture, bấm chọn Compress Picture
+
+4. Chọn các tuỳ chọn khác.
+Delete cropped areas of pictures : nghĩa là xoá luôn các diện tích đã cắt
+bỏ bằng chức năng crop.
+
+183
+
+Microsoft PowerPoint 2002
+
+Quay hình ảnh
+
+Ta có thể quay hình
+0
+mỗi 15 bằng cách
+giữ phím shift khi
+thực hiện quay
+
+Trong PowerPoint 2002, ta có thể dễ dàng quay hình ảnh ở bất cứ góc độ
+nào, điều này giúp cho việc trình bày đạt được những hiệu quả thẩm mỹ cần
+thiết.
+
+Thao tác quay hình
+1.
+
+Nếu không hiển thị công cụ Drawing, vào menu View, chọn
+Toolbars, chọn Drawing.
+
+2. Bấm chọn slide có chứa ảnh trong clip art that you inserted earlier
+in this chapter.
+3. Bấm chọn ảnh. Đưa chuột vào điểm quay, kéo và quay ảnh cho đến
+khi đạt được góc quay cần thiết.
+
+184
+
+Microsoft PowerPoint 2002
+
+Sử dụng trục (Guide) và lưới (grids)
+Trục và lưới là các công cụ trực quan giúp canh thẳng hàng các đối tượng
+trong slide như: văn bản, hình ảnh,... Trục là những đường nằm ngang và
+thẳng đứng giống như một hệ trục toạ độ trong mặt phẳng, còn lưới là tập
+hợp những đường thẳng năm ngang và thẳng đứng cách đều nhau. Cả hai
+công cụ này không hiện ra khi trình chiếu, nó chỉ xuất hiện trong quá trình
+thiết kế slide. Khi sử dụng trục và lưới, ta có thể:
+•
+
+Cho hiển thị, che dấu đi, hoặc xoá các đường trục và lưới.
+
+•
+
+Điều chỉnh vị trí của các đường trục.
+
+•
+
+Xác định khoảng cách giữa các đường lưới theo một độ dài định trước.
+
+Canh thẳng hàng các hình bằng grid
+1.
+
+Mở một bản trình diễn mới với(*.ppt).
+
+2. Trên menu View, chọn Grid and Guides.
+3. Dưới phần Snap to, đánh dấu chọn Snap objects to grid . Các đối
+tượng tự động canh thẳng hàng trên đường lưới. Bấm OK để xác
+nhận
+4. Ở dưới phần Grid settings, đánh dấu chọn Display grid on screen.
+
+5. Bấm Click OK. Các đối tượng vẽ và hình ảnh sẽ được canh thẳng
+hàng trên lưới.
+
+185
+
+Microsoft PowerPoint 2002
+
+Bảng và biểu đồ
+PowerPoint có công cụ để đưa vào những bảng (table) từ đơn giản đến
+phức tạp. Ngoài ra, còn có thể đưa vào từ một chương trình khác ở chế độ
+liên kết ( linked) hay nhúng (embedded) có thể nhúng một bảng của Word,
+một bảng của Excel, hoặc một bảng của Access. Khi ta chèn làm một bảng
+nhúng, các menu và nút công cụ tương ứng của các chương trình góc sẽ
+xuất hiện và tích hợp vào menu của PowerPoint.
+Tương tự ta có thể chèn một biểu đồ vào trong slide hoặc nhập một bảng
+tính hoặc biểu đồ từ excel. Nếu tạo biểu đồ, chương trình Microsoft Graph sẽ
+tích hợp chung với PowerPoint khi cần hiệu chỉnh biểu đồ đó, chẳng hạn:
+thay đổi kiểu biểu đồ, thay đổi màu, kích cỡ,...
+
+Nhập biểu đồ từ bảng tính Excel
+1. Tạo một slide mới trong bản trình diễn. Vào menu Insert, chọn
+Chart. Một biểu đồ mẫu và bảng dự liệu tương ứng hiện ra.
+2. Nếu bảng dữ liệu không hiển thị, trên thanh công cụ, bấm chọn View
+Datasheet. Chọn ô đầu tiên chứa dữ liệu.
+3. Trong menu Edit, chọn Import File.
+4. Trong hộp Look in, Chọn ổ đỉa, thư mục chứa bảng tính Excel cần
+import.
+5. Nhấp đúp chuột váo bảng tính ta cần import.
+6. Trong hộp thoại Import Data Options, Chọn bảng tính (worksheet)
+cần import.
+
+7. Để import tất cả dữ liệu trong bảng tính, trong hộp Import box, bấm
+Entire sheet.
+8. Để import một phần dữ liệu, bấm Range, và nhập vùng dữ liệu cần
+import vào hộp Range. Ta có thể nhập vào điạ chỉ ô hoặc khối ô
+hoặc có thể nhập tên vùng dữ liệu (range name) đó.
+
+186
+
+Microsoft PowerPoint 2002
+9. Nếu chỉ chọn một ô dữ liệu ở bước 3 thì ta bỏ dầu chọn Overwrite
+existing cells.
+10. Bấm OK. Khi đó dữ liệu được Import sẽ thay thề dữ liệu mẫu ban
+đầu và biểu đồ thay đổi để phản ánh bảng dữ liệu mới..
+
+Để thay đổi kiểu biểu
+đồ, bấm menu Chart,
+chọn Chart Type,
+sau đó chọn kiểu
+thích hợp
+
+Chú ý: Có thể mở Excel và sao chép biểu đồ, sau đó paste vào bản trình
+diễn.
+
+187
+
+Microsoft PowerPoint 2002
+
+Tạo một bản trình diễn đa phương tiện
+Tạo chuyển động (animation)
+PowerPoint 2002 là một công cụ rất mạnh để thực hiện các hoạt cảnh trên
+bản trình diễn. Hoạt cảnh là một cách dùng để minh họa khái niệm và ý
+tưởng một cách trực quan dễ hiểu, hoặc dùng để nhấn mạnh thông qua các
+hiệu ứng gây sự chú ý. Ví dụ: có thể tạo một hoạt cảnh để hướng dẫn người
+xem hiểu được từng bước của một tiến trình. Ta cũng có thể nhấn mạnh sự
+xuất hiện hay biến mất của một đối tượng bằng các hiệu ứng gây ấn tượng.
+Một hoạt cảnh có thể đơn giản chỉ là một dãy các text box được chỉ định xuất
+hiện theo một thứ tự theo thời gian của người báo cáo. Ở mức độ phức tạp
+hơn, ta có thể làm cho các ảnh chuyển động để diễn tả bản chất của một
+quá trình.
+
+Các hiệu ứng chuyển động định sẵn
+1. Chọn đối tượng muốn thể hiện chuyển động.
+2. Trong menu Slide Show, chọn Animation Schemes (sơ đồ hoạt
+cảnh).
+Chú ý: Các sơ đồ hoạt cảnh được xếp vào 3 nhóm: Subtle, Moderate,
+và Exciting.
+
+3. Trong khung tác vụ Slide Design, trên menu Apply to selected slides,
+chọn một tên hoạt cảnh nào đó ( hiệu ứng sẽ được thấy ngay trên
+slide).
+
+188
+
+Microsoft PowerPoint 2002
+
+Tạo chữ chuyển động
+Bạn có thể tạo thời
+gian giữa các hoạt
+cảnh bằng cách chỉ
+định số giây trong
+hộp Delay trên thẻ
+Timing.
+
+1. Chọn dòng chữ cần làm chuyển động.
+2. Trong menu Slide Show , bấm Custom Animation, hoặc mở khung
+tác vụ Custom Animation từ menu View.
+3. Bấm chọn Add Effect để hiện danh sách các lựa chọn hoạt hình, sau
+đó chọn kiểu chuyển động tương ứng.
+
+4. Tác động của chuyển động được thể hiện ngay trên slide. Sau đó có
+thể thêm, bớt, sửa, xoá các hiệu ứng chuyển động.
+
+189
+
+Microsoft PowerPoint 2002
+
+Đưa âm thanh vào slide.
+Khả năng đưa âm thanh, âm nhạc vào trong bản trình diễn là không có giới
+hạn. Có thể đưa nhạc và âm thanh tư các nguồn khác nhau: từ các tập tin
+trên đĩa, từ internet, tư bộ sưu tập Clip Organizer hoặc có thể tự ghi âm từ
+đĩa CD nhạc.
+
+Thực hiện đưa âm thanh hoặc phim video vào bản
+trình diễn
+1. Bấm chọn slide muốn thể hiện music hoặc video clip.
+2. Trong menu Insert, chọn Movies and Sounds.
+
+3. Chọn nguồn:
+Movie from clip organizer:
+Movie from file:
+Sound from clip organizer:
+Sound from File:
+play CD audio file:
+record sound:
+4. Duyệt tìm tập tin chọn file trong clip organizer.
+5. Bấm OK. Khi được hỏi, chọn việc phát âm thanh một cách tự động
+hoặc khi bấm chuột.
+
+190
+
+Microsoft PowerPoint 2002
+
+Chia sẻ tài nguyên PowerPoint
+Với PowerPoint 2002, có thể in bản trình diễn cho người khác xem hoặc có thể
+xuất bản trên Internet một cách nhanh chóng dể dàng, dưới dạng trang Web
+hay dưới dạng slide show.
+
+In bản trình diễn
+Trong khi xem trước bản in, bạn có thể :
+•
+
+Chọn phần của bản trình diễn cần in.
+
+•
+
+Thêm các khung bao quanh slide.
+
+•
+
+Thay đổi hướng in (orientation) tạm thời.
+
+•
+
+Thay đổi tiêu đề đầu và cuối trang in.
+
+Ngoài ra, bạn cũng có thể in các slide để dùng như bản tóm tắt tài liệu giáo
+án, có thể thay đổi kích thước để cho vừa các loại giấy in, hoặc cho vừa khít
+với khung chiếu của máy overhead projector.
+Tính năng xem trước khi in giúp cho ta hình dung bản trình diễn chính xác
+trước khi quyết định in ra giấy. (Vào menu File, chọn Print Preview).
+
+191
+
+Microsoft PowerPoint 2002
+
+Xuất bản bản trình diễn trên Web
+Powerpoint 2002 cho phép xuất bản bản trình diễn trên Web để cho mọi
+người có thể xem, với các tính năng bổ sung sau đây:
+
+
+Một khung di chuyển (Navigation pane) ( chứa đề cương của bản trình
+diễn).
+
+
+
+Các tuỳ chọn hiển thị hoặc không hiển thị đề cương hoặc ghi chú
+
+
+
+Tuỳ chọn xem toàn màn hình
+
+Thực hành xuất bản trên Web
+1. Mở một bản trình diễn mới (*.ppt).
+2. Trong menu File, chọn Save as Web Page.
+3. Trong hộp File name, nhập tên trang web cần lưu.
+4. Trong hộp Save as type, chọn web page. Khi đó một thư mục tương
+ứng chứa các file hình ảnh đi kèm được tạo ra.
+hoặc
+Trong hộp Save as type box, chọn Web archive. Khi đó các hình ảnh
+di kèm được tích hợp vào chung một tập tin duy nhất.
+5. Bấm vào Change Title để thay đổi tiêu đề của trang Web.
+6. Bấm Publish để mở hộp thoại Publish as Web Page.
+
+7. Trong phần Publish what? chọn tuỳ chọn thích hợp. Để hiển thị các
+ghi chú của người báo cáo, đánh dấu vào mục Display speaker
+notes.
+
+192
+
+Microsoft PowerPoint 2002
+8. Trong phần Browser support, chọn trình duyệt thích hợp.
+9. Bấm Web Options, xác lập các tuỳ chọn định dạng và hiển thị của
+trang web, sau đó nhấn OK.
+10. Trong danh sách File name, chọn thư mục và nhập tên cho trang
+Web
+11. Bấm Publish.
+Để xem trang web vừa xuất bản như thế nào, chọn mục Open published
+Web page.
+
+Truyền hình trực tuyến (Online Broadcast)
+Truyền hình các bản trình diễn là một cách thức hiện đại và hấp dẫn để chia
+sẻ trên Web. Khi truyền hình toàn bộ bản trình diễn bao gồm các slide, các
+hình ảnh, các video clip đều được đưa lên web. Thông thường việc truyền
+hình trực tiếp đòi hỏi người xem phải lên mạng đúng giờ, do đó ta có thể ghi
+lại phiên truyền hình để có thể phát lại bất cứ lúc nào. Để cài đặt một
+chương trình truyền hình trực tuyến, cần chú ý các điều sau:
+•
+
+Kiểm tra lại các thiết bị cần có để sử dụng công nghệ Microsoft Windows
+Streaming Media.
+
+•
+
+Kiểm tra số người xem để đảm bảo rằng chương tình phát không vượt
+quá tải của hệ thống.
+
+•
+
+Nên làm thử trước khi phát hình.
+
+Để cài đặt một phiên truyền hình trực tuyến (online
+broadcast)
+1. Bấm Online Broadcast từ menu Slide Show , bấm Schedule a Live
+Broadcast.
+
+2. Điền vào đầy đủ các thông tin trên trang đầu tiên. .
+3. Nếu chưa quen với công cụ này , bấm Tips for Broadcast để nhận
+được các chỉ dẫn cần thiết.
+
+193
+
+Microsoft PowerPoint 2002
+
+4. Bấm nút Settings ở phía dưới hộp thoại và chắc chắn rằng bạn đã
+chọn Video và audio.Nếu bạn không có camera hay băng thông
+(bandwidth) thích hợp, bạn có thể chọn Audio only. Bấm Test để
+kiểm tra lại.
+5. Nếu bạn muốn người xem nhìn thấy các ghi chú của phát thanh
+viên, đánh dấu vào mục tương ứng.
+6. Bấm browse để chọn thư mục đích để lưu . Mặc nhiên đó là My
+Broadcasts trong thư mục My Documents .
+
+7. Bấm vào thẻ Advanced và chọn máy mã hoá từ xa (remote encoding
+machine).
+8. Để người xem có thể phản hồi, bạn phải chỉ rõ địa chỉ URL của chat
+room.
+9. Chỉ định Windows Media Server, nếu có, và bấm OK. (Bản trình diễn
+sẽ chỉ giới hạn cho 10 người xem cùng lúc nếu không có Windows
+Media Server.)
+10. Xác định thời gian cho bản trình diễn và bấm nút Send.
+11. Sau một khoảng thời gian ngắn, bạn sẽ nhận được thông báo nêu rõ
+chương trình truyền hình đã cài đặt xong. Bấm OK.
+
+194
+
+Microsoft PowerPoint 2002
+
+Thực hiện truyền hình (online broadcast)
+1. Trước khi bản trình diễn bắt đầu khoảng 10 phút , bấm Online
+Broadcast từ menu Slide Show, sau đó bấm start Live Broadcast
+Now.
+
+2. Tái khẳng định một số tác vụ kỹ thuật liên quan trong các hộp thoại.
+3. Bấm nút Start khi đã sẵn sàng.
+
+Phát lại (replay) các phiên truyền hình trực tuyến
+1. Mở trình duyệt và chỉ tới trang chứa presentation.
+2. Bấm Replay Broadcast .
+
+195
+
+Microsoft PowerPoint 2002
+
+Sử dụng Producer để tạo các bản trình diễn đa
+phương tiện
+Produce là một chương trình bổ sung cho PowerPoint 2002, trong đó ta có
+thể tạo ra các bản trình diễn chứa các slide của Powerpoint, đồng thời chứa
+các tệp âm thanh và video, các trang web. Bản trình diễn của Producer có
+thể được ghi lại trên đĩa hoặc được xuất bản trên web.
+Một số khai niệm của Producer:
+1. Project. Khi làm việc trong Producer, phải tạo ra một dự án, trong đó
+liên kết và sắp xếp các tệp được nhập vào, bao gồm: các slide
+PowerPoint các tệp audio và video và các hình ảnh. Một tập dự án chỉ
+liên kết các nội dung trên mà không thực chứa các tệp dữ liệu. Vì vậy khi
+ta thay đổi hoặc di chuyển các tập tin nguồn, dự án không tự động tìm
+thấy các tập tin tương ứng nữa.
+2. Presentation: Khái niệm bản trình diễn trong Producer khác với khai
+niệm bản trình diễn trong Powerpoint. Bản trình diễn được tạo ra khi ta
+xuất bản một dự án, có thể là một Website hay một đĩa CD.
+3. Templates. Các khuôn mẫu trong Producer chính là các tệp mẫu khuôn
+dạng khi soạn thảo trang Web (cascading style sheets (.css)) và tuân
+theo cú pháp của tổ chức Internet quốc tế. Dựa vào khuôn mẫu, ta có
+thể thay đổi định dạng của bất cứ phần nào trên bản trình diễn hoặc có
+thể đưa các thành phần multimedia vào một cách dễ dàng.
+Hình sau đây minh họa giao diện của Producer.
+
+196
+
+Microsoft PowerPoint 2002
+
+Hình 2: Giao diện của thẻ Media
+Cửa sổ chính được chia thành 3 khung:
+1. Thanh Menu và thanh công cụ. Các thanh này chưá các nút công cụ
+tương tự như trong các chương trình Office, ngoài ra còn chứa các nút đặc
+biệt riêng như Clip và Play, dùng để thực hiện các tác vụ đặc biệt trong
+Producer.
+2. Các thẻ (Tabs). Producer có 3 thẻ chính. Thẻ Media cho hiển thị các tệp
+chứa ảnh, phim, âm thanh, Powerpoint, trang web,...Thẻ mục lục ( Table of
+Contents) cho phép taọ và chỉnh sưả bảng mục lục trình diễn. Thẻ Preview
+cho xem trước bản trình diễn trước khi xuất bản.
+3. Trục thời gian (Timeline). Dùng để sắp xếp các đối tựơng khác nhau váo
+một trục thời gian, nó cho phép hiệu chỉnh thời gian cần thiết để thực hiện
+việc trình chiếu từng phần.
+
+Tạo dự án
+Tạo dự án bằng chức năng New Presentation Wizard
+1. Vào menu Start, chọn Microsoft Producer for PowerPoint.
+2. Trong hộp thoại Microsoft Producer, chọn Use the New Presentation
+Wizard,và bấm OK.
+3. Vào trang Welcome to the New Presentation Wizard, bấm Next để tiếp
+tục.
+
+197
+
+Microsoft PowerPoint 2002
+4. Trong phần Templates, chọn Default template, và bấm Next.
+5. Trên trang Choose a Presentation Scheme, thực hiện các lựa chọn về định
+dạng như sau:
+•
+
+Trong danh sách Font, chọn kiểu chữ của bảng mục lục.
+
+•
+
+Ở phần kích cỡ chữ , chọn kích cỡ cho bảng mục lục.
+
+•
+
+Trong hộp màu chữ , bấm chọn màu chữ thể hiện trong bảng mục
+lục.
+
+•
+
+Trong hộp màu nền, chọn màu nền cho phần diện tích chưá bảng
+mục lục.
+
+•
+
+Trong hộp màu nền của slides, chọn màu nền trong diện tích dành
+cho slide.
+
+6. Bấm Next.
+7. Trong hộp Title, nhập vào tiêu đề của bản trình diễn. Tiêu đề naỳ sẽ được
+hiển thị trên trang giới thiệu.
+8. Trong hộp Presenter (optional), nhập tên của người báo cáo.
+9. Trong hộp Introduction page image (optional), chọn Browse, duyệt tìm
+tập tin ảnh cần đưa vào trang giới thiệu, bấm Open.
+10. Trong hộp Description (optional), gõ một câu mô tả ngắn gọn về nội dung
+của bản trình diễn, bấm Next.
+11. Để chỉ định trình diễn tệp PowerPoint, bấm Browse, rồi chọn đúng tập tin
+(.ppt) cần thiết. Bấm Open. Tệp được chọn sẽ tự động được đưa vào vùng
+Files. Bấm Next.
+12. Để nhập phim video vào dự án, chọn Browse, và duyệt tìm các tệp video
+(.wmv). Bấm Open. Tệp được chọn sẽ tự động được đưa vào vùng Files.
+Bấm Next
+13. Khi nhập bất cứ tổ hợp các slide và hình ảnh tỉnh với video và audio, trang
+Synchronize Presentation sẽ xuất hiện.
+•
+
+Nếu ta muốn bắt đầu đồng bộ hoá các tệp trên bấm Yes.
+
+•
+
+Ngược lại bấm No.
+
+Bấm No.
+14. Bấm Finish để kết thúc New Presentation Wizard .
+
+Sử dụng Capture Wizard
+Sử dụng Capture Wizard, có thể ghi lại audio, video,và các hình ảnh tỉnh từ
+nhiều nguồn khác nhau trên máy tính.
+
+198
+
+Microsoft PowerPoint 2002
+Trang đầu của Capture Wizard mô tả các tuỳ chọn khác nhau dành cho người
+dùng. Khi chọn bất cứ tuỳ chọn nào, ta sẽ thấy câu giải thích chức năng của tuỳ
+chọn đó trên khung dưới.
+CHức năng Capture Wizard có
+thể khởi động bằng cách chạy
+chức năng New Presentation
+Wizard (bấm Capture từ
+trangImport or Capture
+Audio and Video ). Cách
+này cho phép nhập các tệp
+video và audio vào dự án mới
+ngay từ khi tạo bản trình diễn.
+
+Khi sử dụng Capture Wizard, bất cứ nội dung nào chụp được sẽ tự động lưu
+chung với dụ án.
+
+Capture một tệp audio dùng Capture Wizard
+1. Vào menu Tools, chọn Capture.
+2. Để tự động đồng bộ hóa âm thanh với các slide PowerPoint, bấm chọn
+Narrate slides with audio, và bấm Next.
+3. Bấm chọn các xác lập capture như trong hình sau, bấm Next.
+
+4. Bấm chọn thiết bị capture để tạo ra tệp audio, và bấm Next.
+Chú ý: Nếu máy tính chỉ có một thiết bị audio capture, tên của thiết bị đó
+được tự động đưa vào hộp Audio device.
+5. Tiếp tục từng bước theo Capture Wizard để thu lại và đồng bộ hoá âm thanh
+với slides.
+
+199
+
+Microsoft PowerPoint 2002
+
+6. Sau khi hoàn thành việc thu lại audio, bấm Finish.
+
+Hiệu chỉnh bản trình diễn Producer
+Thêm đề mục vào bảng mục lục
+7. Bấm chọn thẻ Table of Contents.
+8. Chọn đề mục ở phiá trên đề mục muôn thêm,bấm Add.
+9. Trong hộp Name, gõ tên đề mục.
+10. Trong danh sách Associate with, chọn đối tựơng liên kết với đề mục mới.
+Chú ý rằng nếu di chuyển đề mục trên trục thời gian thì đề mục trên bảng
+mục lục sẽ di chuyển theo.
+11. Bấm OK để thêm một đề mục vào bảng.
+
+Thay đổi khuôn mẫu (Template)
+1. Chọn thẻ Media .
+2. Trong khung chứa cây thư mục, chọn thư mục Presentation Templates.
+3. Để xoá khuôn mẫu hiện hành, trong trục thời gian, nhấp phải chuột trên
+thanh Template, và chọn Delete.
+4. Để thêm Template mới , bấm chọn khuôn mẫu rổi kéo thả vào trong trục thời
+gian.
+
+Tạo chuyển cảnh
+1. Chọn thẻ Media.
+
+200
+
+Microsoft PowerPoint 2002
+2. Trong cây thư mục, chọn Video Transitions.
+3. Chọn kịch bản chuyển cảnh thích hợp, rồi keó thả vào trục thời gian. Chú ý
+rằng phải định vị kịch bản chuyển cảnh ở giữa 2 khuôn video.
+
+Lưu và xuất bản bản trình diễn
+1. Vào menu File, chọn Pack and Go.
+2. Trong trang đầu, bấm Next.
+3. Trong hộp File name, gõ tên của tệp thực thi dự án. Sau đó trong hộp
+Location, chọn vị trí. Bấm Next.
+Chú ý: Khi đặt tên cho bản thực thi dự án. Một phần mở rộng tập tin
+.msproducerz được tự động thêm vào tên dự án để chỉ rõ đây là
+dạng nén của tập tin Producer.
+4. Trên trang Project Archive Setting, thực hiện một trong các việc sau:
+•
+
+Để lưu bản thực thi dự án vào một tệp duy nhất, bấm One file.
+
+•
+
+Để lưu bản thực thi dự án vào các thiết bị lưu trữ như CD, DVD,
+chọn Multiple files for storage on,sau đó bấm vào tên thiết bị để
+lưu trữ với kích thứơc tệp thích hợp. Mỗi tệp trong dự án sẽ được
+lưu với kích thước đã chỉ định như trên.
+
+Bấm Next.
+5. Sau khi bản thực thi dự án đã được lưu, bấm Done.
+o
+
+Chú ý: Nếu ta lựa chọn xuất bản dự án trên CD hoặc trên máy tính thì có lợi
+điểm là các định dạng Multimedia sẽ được quản lý bởi Windows Media
+server.
+
+o
+
+Xuất bản trên mạng nội bộ: Đây là phương án được sử dụng rộng rãi trong
+các trường học dùng để phân phối bài học cho học viên ở nhiểu vị trí khác
+nhau.
+
+o
+
+Xuất bản trên Web server. Các tập tin được lưu trữ trên Web server được
+truy cập bởi một trình duyệt Web. Thông thường, người xem sẽ phải chờ đợi
+để tải về từng phần của bản trình diễn. Trên các máy trạm cũng phải có cài
+đặt Microsoft Windows Media Player.
+
+201
+
+Microsoft PowerPoint 2002
+
+Câu hỏi trắc nghiệm Powerpoint
+1. Bấm chuột phải tại một đối tượng trong
+PowerPoint có nghĩa là :
+A. Xoá đối tượng.
+B. Mở menu tắt liệt kê các lệnh có thể thực
+hiện.
+C. Chọn đối tượng
+D. Không làm gí cả.
+2. Cách nào sau đây không phải là cách tạo
+ra một bản trình diễn mới (Presentation)?
+A. Tạo một bản trình diễn trắng.
+B. Dùng template
+C. Dùng chức năng Scan-In Slides.
+D. Dùng chức năng AutoContent Wizard.
+3. Chế độ view nào sau đây không phải cuả
+PowerPoint?
+A. Normal View
+B. Presentation View
+C. Slide Show View
+D. Outline View
+4. PowerPoint tự động tạo ra một bản trình
+diễn trắng khi khởi động chương trình
+(Đúng/Sai?)
+5. Kỹ thuật nào sau đây không phải để di
+chuyển xung quanh một bản trình diễn?
+A. Nhấn <Ctrl> + <Home> để di chuyển về
+slide đầu tiên.
+B. Nhấn <Page Down> để di chuyển đến
+slide kế tiếp.
+C. Chọn Edit → Move từ menu và chỉ định
+slide bạn muốn tới.
+D. Dùng thanh cuộn đứng để di chuyển lên
+hoặc xuống.
+6. Để lưu một bản trình diễn: (Có thể chọn
+nhiều câu trả lời.)
+A. Nhấn <Ctrl> +<F5>.
+B. Chọn File → Save từ menu.
+C. Bấm nút Save trên thanh công cụ chuẩn.
+D. Bấm Save trên nút Windows Start .
+7. Khi mở hộp thoại Print (bằng cách chọn
+File → Print từ menu), ta có thể chọn in
+nhiều slide đã chọn. (Đúng/Sai?)
+8. Chế độ view tốt nhất để duyệt qua một bản
+trình diễn?
+A. Normal View
+B. Slide Sorter view
+C. Outline view
+D. Notes view
+9. Câu nào sau đây là không đúng?
+A. Nhấn phím <Tab> trong Outline view sẽ
+giáng cấp các đoạn .
+B. Nhấn <Ctrl> + <Enter> trong Outline view
+sẽ thêm một slide mới cho đoạn.
+C. Nhấn phím <Shift> + <Tab> trong Outline
+view sẽ nâng cấp các đoạn.
+D. Outline view là chế độ xem tốt nhất để
+thêm và làm việc với đồ họa .
+10. Phím nào xoá văn bản trườc con trỏ?
+
+A. <Page Up>
+B. <Page Down>
+C. <Delete>
+D. <Backspace>
+11. Cách nào sau đây không phải để Cut văn
+bản?
+A. Chọn văn bản và nhấn <Alt>+<X>.
+B. Chọn văn bản và bấm nút cut trên thanh
+công cụ.
+C. Chọn văn bản và nhấn phím delete.
+D. Chọn văn bản và chọn Edit → Cut từ menu.
+12. Một khi khối văn bản đã được chọn, bạn có
+thể thay thế một đoạn
+văn bản bằng cách:
+A. Gõ văn bản mới.
+B. Chọn File, sau đó Insert New Text từ menu.
+C. Bạn không thể thay thế văn bản được chọn
+với văn bản mới.
+D. Bấm nút Replace Text trên thanh công cụ
+chuẩn.
+13. Chế độ Notes view hiển thị trang ghi chú cho
+các slide đã chọn, trong đó bạn có thể tạo
+các ghi chú bằng tiếng nói (Đúng/Sai?)
+14. Các lệnh nào sau đây thực hiện các lệnh
+định dạng dùng các nút trên thanh công cụ
+định dạng? (Có thể chọn nhiều câu trả lời.)
+A. Font Size
+B. Font Color
+C. Underlining
+D. Hard drive
+15. Mục đích cuả Format Painter ?
+A. Để tô màu các hình ảnh trong slide
+B. Để nhấn mạnh các văn bản quan trọng.
+C. Sao chép định dạng từ một đối tượng hoặc
+một khối văn bản và sau đó áp đặt lên các
+đối tượng khác.
+D. Để thay đổi màu nền cuả slide.
+16. Các hiệu ứng tô màu nào (Fill Effects) dùng
+cho nền slide?
+(Có thể chọn nhiều câu trả lời.)
+A. Gradient
+B. Brightness
+C. Picture
+D. Texture
+17. Mặc dù bạn có thể định dạng văn bản với
+bất kỳ màu sắc nào, nhưng sử dụng sơ đồ
+màu (color scheme) với 8 màu chuẩn sẽ tạo
+cho các slide một hình thức chuyên nghiệp
+hơn. (Đúng/Sai?)
+18. Làm cách nào để thêm văn bản hoặc hình
+ảnh xuất hiện trên tất cả các slide?
+A. Mở Slide Master bằng cách chọn View →
+Master → Slide Master và thêm văn bản
+A. hoặc hình ảnh.
+B. Không có cách nào . Bạn phải tự thêm văn
+bản hoặc hình ảnh trên mỗi slide.
+
+202
+
+Microsoft PowerPoint 2002
+C. Bấm nút Add to All Slides trên thanh công
+cụ chuẩn để thêm văn bản hoặc hình
+ảnh.
+D. Dùng chức năng Format All Slides
+Wizard để thêm văn bản vào hình ảnh.
+19. Một khi bạn đã thay đổi hình thức trình
+bày với Slide Master, bạn không thể thay
+đổi định dạng của từng slide riêng lẻ.
+(Đúng/Sai?)
+20. Câu nào sau đây là không đúng?
+A. Giữ phím <Shift> khi vẽ các đối tượng
+elip và rectangle sẽ tạo ra hình tròn, hình
+vuông.
+B. Thanh công cụ Drawing chứa các công
+cụ vẽ shapes, lines, arrows và nhiều thứ
+khác.
+C. Văn bản trong một textbox không thể định
+dạng được.
+D. Bạn có thể thay đổi kích thước của
+textbox bằng cách chọn và kéo các nốt
+điều chỉnh kích thước (sizing handles).
+21. Cách nào sau đây cho phép chọn nhiều
+đối tượng? (Có thể chọn nhiều câu trả
+lời.)
+A. Bấm nút Object trên thanh công cụ
+chuẩn, bấm đối tượng bạn muốn chọn, và
+nhấn <Enter> khi kết thúc.
+B. Giữ phím <Shift> khi chọn mỗi đối tượng.
+C. Bạn chỉ có thể chọn một đối tượng một
+lần trong PowerPoint.
+D. Bấm nút Arrow trên thanh công cụ
+Drawing và kéo một hình chữ nhật xung
+quanh các đối tượng bạn muốn chọn.
+22. Bạn có thể định dạng các đối tượng vẽ
+bằng cách: (Có thể chọn nhiều câu trả lời.)
+A. Chọn đối tượng và định dạng nó với
+thanh công cụ Drawing.
+B. Chọn đối tượng và chọn Format →
+AutoShape từ menu và chỉ định các tuỳ
+chọn định dạng từ hộp thoại Format
+AutoShape
+C. Bấm chuột phải tại đối tượng và chọn
+Format AutoShape từ menu tắt và chỉ
+định các tuỳ chọn định dạng từ hộp thoại
+Format AutoShape .
+D. Chọn đối tượng, nhấn phím <Ctrl> + <F>
+và chỉ định các tuỳ chọn định dạng từ
+hộp thoại Format AutoShape.
+23. 4. Bạn có thể thay đổi độ sáng, độ tương
+phản, và cắt xén (crop) hình ảnh bằng
+cách dùng các nút trên thanh công cụ
+Drawing. (Đúng/Sai?)
+24. Block Arrows, Stars and Banners, và
+Callouts là các ví dụ của:
+A. Các kiểu trò chơi xây dựng của trẻ em.
+B. Các chủ đề Clip art trong bộ sưu tập
+Microsoft Clip Gallery.
+C. Các chủ đề AutoShape .
+D. Một thuật ngữ kỹ thuật chưa xác định.
+
+25. Giả sử ta cần đưa vào trong tài liệu nhiều
+hình ảnh minh họa. Khi tiếp tục hiệu chỉnh
+và dàn trang, các hình đó khó giữ được các
+vị trí tương đối ban đầu. Giải pháp nào sau
+đây giúp ta xử lý tình huống trên?
+A. Xóa hình và chèn hình lại khi định dạng
+trang bị thay đổi.
+B. Chọn tất cả các hình, bấm nút phải và chọn
+lệnh Group.
+C. Chọn Edit -> Select pictures từ menu mỗi
+khi di chuyển và làm việc với nhiều hình.
+D. Không phải các cách trên.
+26. Một số AutoShapes có hình thoi màu vàng.
+Hình thoi đó là gì và có tác dụng ra sao?
+A. Đó là nút kích cỡ, dùng để thay đổi kích
+thước của đối tượng AutoShapes.
+B. Đó là nút di chuyển, dùng để kéo đối tượng
+AutoShape tới một vị trí khác.
+C. Đó là nút điều chỉnh, dùng để thay đổi hình
+dạng của đối tượng AutoShapes.
+D. Không phải ba tác dụng trên.
+27. Phím nào dùng thuận tiện nhất để nhập liệu
+và di chuyển trong một table?
+A. <Tab> để di chuyển to ô kế tiếp, <Shift> +
+<Tab> để di chuyển ngược lại.
+B. <Enter> để di chuyển to ô kế tiếp, <Shift> +
+<Enter> để di chuyển ngược lại.
+C. <→> để di chuyển to ô kế tiếp, <Shift> +
+
+28.
+
+29.
+
+30.
+31.
+
+<←> để di chuyển ngược lại.
+D. Không phải các cách trên.
+Câu nào sau đây là không đúng?
+A. Bạn có thể tạo một slide với table bằng
+cách bấm nút Insert Slide trên Standard
+A. thanh công cụ và chọn Table layout.
+B. Thanh công cụ Tables và Borders dùng để
+làm việc với tables.
+C. Font chữ trong table là cố định và không thể
+định dạng.
+D. PowerPoint 2002 không còn cần Microsoft
+Word để tạo và làm việc với table.
+Câu nào sau đây là không đúng?
+A. Bấm đúp đối tượng table để hiệu chỉnh nó.
+B. Để chọn một hàng: đặt điểm nháy trong
+hàng, bấm nút Table trên thanh công cụ
+Tables và Borders và chọn Row từ menu.
+C. Để chọn một cột: đặt điểm nháy trong hàng,
+bấm nút Table trên thanh công cụ Tables
+và Borders và chọn Column từ menu.
+D. Bấm đúp 3 lần để chọn toàn bộ table.
+Bạn có thể điều chỉnh bề rộng của cột trong
+Table bằng cách kéo biên phải của cột với
+chuột. (Đúng/Sai?)
+Cách nào sau đây lkhông phải dùng để xoá
+cột ?
+A. Chọn cột và nhấn <Delete> .
+B. Chọn cột và bấm nút Delete Column trên
+thanh công cụ định dạng.
+C. Đặt điểm nháy tại bất cứ đâu trong cột, bấm
+nút Table trên thanh công cụ
+203
+
+Microsoft PowerPoint 2002
+A. Tables và Borders và chọn Delete
+Column từ menu.
+D. Chọn cột và chọn Table → Delete Column
+từ menu.
+32. Câu nào sau đây là không đúng?
+A. WordArt là 1 chương trình độc lập và có
+thể dùng với bất kỳ chương trình
+Microsoft Office nào, như Word hoặc
+Excel.
+B. WordArt có thanh công cụ riêng gồm
+những nút để thay đổi shape, angle, và
+color của đối tượng WordArt .
+C. Bạn có thể thay đổi color hoặc texture
+của đối tượng WordArt bằng cách bấm
+Format
+E. WordArt trên thanh công cụ WordArt ,
+bấm thẻ Colors và Lines , và chọn màu từ
+danh sách Fill Color .
+D. Bạn có thể cho chuyển động đối tượng
+WordArt
+33. Bạn có thể hiệu chỉnh hoặc định dạng một
+biểu đồ dùng các cách sau, ngoại trừ…
+A. Bấm đúp đối tượng.
+B. Bấm chuột phải tại đối tượng và chọn
+Format từ menu tắt.
+C. Chọn đối tượng từ Chart Object list trên
+thanh công cụ Chart và bấm nút Format
+Object .
+D. Chọn Chart → Format từ menu, chọn đối
+tượng từ Object list và bấm Format.
+34. Bảng dữ liệu khi tạo một biểu đồ mới
+chứa các dữ liệu mẫu, khi thay đổi số liệu
+đó bạn sẽ có biểu đồ thực của mình.
+(Đúng/Sai?)
+35. Trong chế độ view nào thì ta làm việc tốt
+nhất với các chuyển cảnh (slide
+transitions)?
+A. Normal View
+B. Slide Show view
+C. Slide Sorter view
+D. Notes view
+36. Câu nào sau đây mô tả chính xác nhất
+chức năng hoạt cảnh trong PowerPoint
+presentations?
+A. Bạn có thể tạo chuyển động và chương
+trình Office Assistant sẽ hỗ trợ thực hiện.
+B. Bạn có thể thêm các nhân vật hoạt hình
+vào slide để giúp vui mọi người.
+C. Bạn có thể tạo chuyển động cho văn bản
+và các đối tượng sao cho chúng xuất hiện
+trên slide bằng nhiều cách định sẵn
+(special effects).
+D. Bạn có thể tạo chuyển động cho slide
+show và để nó tự chạy .
+37. Điều gì sau đây là không đúng về việc ghi
+lại thời gian trình diễn (rehearsing slide
+timing)?
+
+A. Rehearsing slide timings giúp ta hình dung
+thời gian cần thiết để trình bày mỗi slide.
+B. Bạn có thể ghi lại slide timings trong chế độ
+Slide Show view. Đơn giản là chỉ cần qua
+trang sau sau khi đã trình bày xong trang
+trước.
+C. Bạn có thể tự thay đổi slide timings bằng
+cách chọn Slide Show → Timings từ
+A. menu và hiệu chỉnh timings trong hộp thoại
+Slide Timings.
+D. Sau khi ghi lại slide timings, bạn có thể lưu
+và sử dụng chức năng đó để tự động hoá
+việc trình chiếu.
+38. Làm cách nào để chèn một đoạn phim vào
+slide của PowerPoint ?
+A. Cần một video camera và một đường cáp
+USB.
+B. Cần phần mềm Microsoft Movie Maker.
+C. Bấm nút Insert Movie trên thanh công cụ
+chuẩn.
+D. Chọn Insert → Movies và Sounds → Movie
+from Gallery từ menu.
+39. Các tập tin nào sau đây là thuộc dạng âm
+thanh? (Có thể chọn nhiều câu trả lời)
+A. Các tập tin có phần mở rộng là: AVI .
+B. Các tập tin có phần mở rộng là: WAV .
+C. Các tập tin có phần mở rộng là: MIDI .
+D. Các tập tin có phần mở rộng là: LOG .
+40. Máy tính của bạn cần có microphone để sử
+dụng các lệnh sau :
+A. Insert → Movies và Sounds → Record
+Sound.
+B. Insert → Recording.
+C. Insert → Movies và Sounds → Narration.
+D. Slide Show → Record Narration.
+41. Câu nào sau đây là không đúng?
+A. Để lưu bản trình diễn PowerPoint thành
+trang Web, chọn File → Save as Web Page
+A. từ menu và trả lời một số câu hỏi liên quan.
+B. Chèn một siêu liên kết vào bản trình diễn
+giống như chèn một tệp liên kết (linked file).
+C. PowerPoint lưu các trang Web thành một
+tệp duy nhất trong đó chứa tất cả các slide
+và hình ảnh.
+D. Các nút hành động (Actions buttons) thực
+hiện các lệnh được gán sẵn khi bấm chuột.
+42. Các hành động nào sau đây có thể gán cho
+một nút hành động? (Có thể chọn nhiều câu
+trả lời.)
+A. Đi tới một liên kết.
+B. Chạy một macro.
+C. Chạy một chương trình.
+D. Phát một âm thanh.
+
+204
+
+
