@@ -15,6 +15,9 @@
     }
   ],
   "autoload": {
+    "psr-4": {
+      "Nguyenhiep\\CompleteWords\\": "src"
+    },
     "files": [
       "helper.php"
     ]

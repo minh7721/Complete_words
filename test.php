@@ -6,7 +6,9 @@
  * Time: 14:17
  */
 
-require_once "Complete_words.php";
+require_once "vendor/autoload.php";
+
+use Nguyenhiep\CompleteWords\Complete_words;
 
 $files = array_diff(scandir(__DIR__ . "/test"), ['.', '..']);
 foreach ($files as $file) {

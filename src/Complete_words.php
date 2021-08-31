@@ -6,7 +6,7 @@
  * Time: 17:07
  */
 
-require_once __DIR__ . "/vendor/autoload.php";
+namespace Nguyenhiep\CompleteWords;
 
 use Illuminate\Support\Arr;
 
