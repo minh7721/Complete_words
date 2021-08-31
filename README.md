@@ -19,7 +19,7 @@ HỒ SƠ CHỨNG MINH NGƯỜI PHỤ THUỘC
 Thuế suất đối với các khoản thu nhập khác
 Hoàn thuế
 ```
-
+You can add your text file as dictionary or using `dictionary.txt`
 # Run:
 
 Clone project and run :
