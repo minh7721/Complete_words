@@ -19,15 +19,20 @@ HỒ SƠ CHỨNG MINH NGƯỜI PHỤ THUỘC
 Thuế suất đối với các khoản thu nhập khác
 Hoàn thuế
 ```
+
 You can add your text file as dictionary or using `dictionary.txt`
-# Run:
+
+# Installation:
 
 Clone project and run :
 
 ```shell
-composer install
+composer install nguyenhiep/complete_vietnames_words:dev-master
 ```
 
-```shell
-php test.php
+# Usage:
+
+```phpt
+$helper           = new Complete_words($dictionary);
+echo($helper->completeWords($case));
 ```

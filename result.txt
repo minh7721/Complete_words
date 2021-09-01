@@ -2,17 +2,17 @@ testing en.001:
 36. Application Method.— O n ce t h e s u rfa ce su b str ate h as b ee n p ro p er ly p r ep a r ed a n d (40-43) (Length 1504)
 =====>36. Application Method.— Once the surface substrate has been properly prep ared and (40-43) (Length 1504)
 37. Application Technique.— R e cla m a t io n d oes n ot sp ecify the p roced u re or tech niqu e to (43-45) (Length 765)
-=====>37. Application Technique.— Reclamation does not sp ecify th ep roced ure or technique to (43-45) (Length 765)
+=====>37. Application Technique.— Reclam ation does not sp ecify th ep roced ure or technique to (43-45) (Length 765)
 45. Risk Evaluation.— Risk ev a lu a tio n is p rim ar ily a p ro ject office resp on sibility Th e (50-52) (Length 951)
 =====>45. Risk Evaluation.— Risk evalu ation isp rim ar ily ap ro ject office resp on sibility The (50-52) (Length 951)
 57. Surface Preparation.— T h e m e t h o d o f s u r fa ce p r e p a r a t io n o f g a lv a n i z ed m e t alw o r k (58-60) (Length 1398)
-=====>57. Surface Preparation.— The method of surface preparation of galvanized me talwork (58-60) (Length 1398)
+=====>57. Surface Preparation.— The method of surface prep aration of galvan ized me talwork (58-60) (Length 1398)
 60. Formulation.— Fo r m u l a tio n fa ilu r e s a r e failu r es th a t a r e in h er en t w ith in th e co a tin g (62-64) (Length 777)
-=====>60. Formulation.— Formulation failures are failures that are inh er ent within the coating (62-64) (Length 777)
+=====>60. Formulation.— Formu lation failures are failures that are inh er ent within the coating (62-64) (Length 777)
 64. Design.— N u m er ou s co a tin g failu r es occur , not b ecau se of m isform u lated m ater ials, (66-70) (Length 1645)
 =====>64. Design.— N um erou sco ating failures occu r, not because of m isform u lated m aterials, (66-70) (Length 1645)
 65. Exterior Forces.— Th e en v ir on m e n t th e c o a tin g i s su b je ct t o ca n b e a p r i m a r y c a u s e o f (70-74) (Length 895)
-=====>65. Exterior Forces.— The environment the coating issu bject to can bea prim ary cause of (70-74) (Length 895)
+=====>65. Exterior Forces.— The environm ent the coating issu bject to can bea prim ary cause of (70-74) (Length 895)
 
 testing en.002:
 N A R ROW A N D W I DE A NGL E C OU R S E DE S IGN S (38-44) (Length 1623)
@@ -38,7 +38,7 @@ testing id.001:
 Ask r in d o Alok a sik a n 9 0 Pe r se n Ja m in a n Kr e d it n y a Un t u k UM KM (34-40) (Length 1334)
 =====>Askrindo Alokasikan 90 Persen Jaminan Kreditnya Untuk UMKM (34-40) (Length 1334)
 Pu sa t p r om osi p r od u k UKM a k a n j a d i h u b r e g ion a l (54-56) (Length 522)
-=====>promosi produk UKM akan jadi hub regional (54-56) (Length 522) t
+=====>Pusat promosi produk UKM akan jadi hub regional (54-56) (Length 522)
 Ta h u n I n i Ba n k M ik r o Te r w u j u d by : Sisca Maria Eviline (56-58) (Length 527)
 =====>Tahun Ini Bank Mikro Terwujud by : Sisca Maria Eviline (56-58) (Length 527)
 UKM M e n g a r a h k e p a d a I n d u st r i Ja sa ANDREAS MARYOTO (60-62) (Length 721)
@@ -50,7 +50,7 @@ M e n a n t i Pe m b e n a h a n Pa sa r Tr a d ision a l by : Sapariah (72-76) 
 
 testing id.002:
 St a bilisa si Pa n ga n Pe r lu Rp 1 3 ,7 T Pe n ga r u h n y a Ak a n Te r a sa 2 3 M in ggu k e D e pa n (32-38) (Length 1711)
-=====>Stabilisasi Pangan Perlu Rp13 ,7 T Pengaruhnya Akan Terasa 23 Minggu ke Depan (32-38) (Length 1711)
+=====>Stabilisasi Pangan Perlu Rp13 ,7 T Pengaruh nya Akan Terasa 23 Minggu ke Depan (32-38) (Length 1711)
 Ribu a n Pe t a n i U n j u k Ra sa Rabu, 6 Februari 2008 | 11:59 WIB (39-42) (Length 750)
 =====>Ribuan Petani Unjuk Rasa Rabu, 6 Februari 2008 | 11:59 WIB (39-42) (Length 750)
 Ke t a h a n a n pa n ga n &amp; m isi k om e r sia l Bu log (44-47) (Length 800)
@@ -90,16 +90,15 @@ testing id.003:
 Pr od u k UKM y a n g D ip a t e n k a n M a sih Se d ik it Jum'at, 08 Agustus 2008 , 00:16: (31-33) (Length 679)
 =====>Produk UKM yang D ipa nk an Masih Sedikit Jum'at, 08 Agustus 2008, 00:16: (31-33) (Length 679) e
 Ta n a h Ab a n g , p a sa r t r a d ison a l b e r n u a n sa m od e r n Blok A Tanah Abang merupakan ikon pusat perbelanjaan tradisional dengan konsep modern (34-38) (Length 1229)
-=====>Tanah Abang, pasar tradisonal be r nua nsa modern Blok A Tanah Abang merupakan ikon pusat perbelanjaan tradisional dengan konsep modern (34-38) (Length 1229)
+=====>Tanah Aba ng, pasar tradisonal be r nua nsa modern Blok A Tanah Abang merupakan ikon pusat perbelanjaan tradisional dengan konsep modern (34-38) (Length 1229)
 Be n a h i Pa sa r Tr a d ision a l SP/Alex Suban (43-48) (Length 1666)
 =====>Benahi Pasar Tradisional SP/Alex Suban (43-48) (Length 1666)
 Kom isi V I se t u j u i t a m b a h a n d a n a KUR (58-62) (Length 1155)
-
-=====>Komisi VI setujui bahan dana KUR (58-62) (Length 1155) m
+=====>Komisi VI setujui bahan da na KUR (58-62) (Length 1155) m
 M e n e g k op n ila i M LM b e r d a y a k a n p e n g u sa h a k e cil JAKARTA: Menteri Negara Koperasi dan UKM Suryadharma Ali mengatakan sistem mult (66-70) (Length 751)
-=====>Menegkop nilai MLM be r daya kan pe ngusa ha ke cil JAKARTA: Menteri Negara Koperasi dan UKM Suryadharma Ali mengatakan sistem mult (66-70) (Length 751)
+=====>Menegkop nilai MLM be r da ya kan pe ngusa ha ke cil JAKARTA: Menteri Negara Koperasi dan UKM Suryadharma Ali mengatakan sistem mult (66-70) (Length 751)
 PKL M u sim a n M u la i Pa d a t i Ta n a h Ab a n g Tr ot oa r d a n Ja la n M u la i D iok u p a s (74-77) (Length 567)
-=====>PKL Musiman Mulai Padati Tanah Abang Trotoar Jalan Mulai D iok upa s (74-77) (Length 567) n
+=====>PKL Musiman Mulai Padati Tanah Aba ng Trotoar dan Jalan Mulai D iok upa s (74-77) (Length 567)
 
 testing pt.001:
 A N E X O I – C O N T E Ú D O P R O G R A M Á T I C O FUNÇÃO DE NÍVEL MÉDIO (30-38) (Length 3005)
@@ -135,11 +134,11 @@ VI. MỘT SỐ SƠ ĐỒ BẢO VỆ TIÊU BIỂU CHO MBA Các ký hi ệ u trên
 
 testing vi.004:
 i3. Các hình th ứ c t ồ n t ạ i c ủ a ch ủ th ể th ẩ m m ỹ (26-28) (Length 1756)
-=====>i3. Các hình tồn tại của chủ thể thẩm mỹ (26-28) (Length 1756) c
+=====>i3. Các hình thức tồn tại của chủ thể thẩm mỹ (26-28) (Length 1756)
 2. Đặ c tr ư ng th ẩ m m ỹ c ủ a ngh ệ thu ậ t (31-33) (Length 1511)
 =====>2. Đặc trưng thẩm mỹ của nghệ thuật (31-33) (Length 1511)
 3. Các lo ạ i hình ngh ệ thu ậ t và cách th ưở ng th ứ c ngh ệ thu ậ t (33-37) (Length 3002)
-=====>3. Các loại hình nghệ thuật và cách thưởng nghệ thuật (33-37) (Length 3002) c
+=====>3. Các loại hình nghệ thuật và cách thưởng thức nghệ thuật (33-37) (Length 3002)
 VI. GIÁO D Ụ C TH Ẩ M M Ỹ (40-43) (Length 1303)
 =====>VI. GIÁO DỤC THẨM MỸ (40-43) (Length 1303)
 

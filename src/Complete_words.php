@@ -8,8 +8,6 @@
 
 namespace Nguyenhiep\CompleteWords;
 
-use Illuminate\Support\Arr;
-
 class Complete_words
 {
     protected string $dictionary;
@@ -32,13 +30,13 @@ class Complete_words
         $acceptable = [];
         $max        = count($found_in);
         for ($i = 0; $i < $max; $i++) {
-            $tmp_word = Arr::get($found_in, $i);
+            $tmp_word = \Arr::get($found_in, $i);
             if ($this->checkValidWord($tmp_word)) {
                 $acceptable[] = $tmp_word;
                 $this->completeWord($tmp_word, $i, $acceptable, $found_in, false, 1, false);
             } else if ($this->completeWord($tmp_word, $i, $acceptable, $found_in, true, 1)
                 && $this->completeWord($tmp_word, $i, $acceptable, $found_in)) {
-                $acceptable[] = Arr::get($found_in, $i, "");
+                $acceptable[] = \Arr::get($found_in, $i, "");
             }
         }
         return $this->optimizeAcceptable($acceptable);
@@ -56,14 +54,14 @@ class Complete_words
     {
         foreach ($acceptable as $key => $item) {
             if ($key && mb_strlen($item) === 1) {
-                if (mb_strlen(Arr::get($acceptable, $key + 1, "")) === 1) {
-                    $acceptable[$key + 1] = $item . Arr::get($acceptable, $key + 1, "");
+                if (mb_strlen(\Arr::get($acceptable, $key + 1, "")) === 1) {
+                    $acceptable[$key + 1] = $item . $acceptable[$key + 1];
                     unset($acceptable[$key]);
                     continue;
                 }
-                if ($this->checkValidWord($new_item = Arr::get($acceptable, $key - 1, "") . $item)
-                    || ($this->checkValidWord($new_item = substr(Arr::get($acceptable, $key - 1, ""), 0, -1))
-                        && $this->checkValidWord($new_item1 = substr(Arr::get($acceptable, $key - 1, ""), -1) . $item))) {
+                if ($this->checkValidWord($new_item = \Arr::get($acceptable, $key - 1, "") . $item)
+                    || ($this->checkValidWord($new_item = substr(\Arr::get($acceptable, $key - 1, ""), 0, -1))
+                        && $this->checkValidWord($new_item1 = substr(\Arr::get($acceptable, $key - 1, ""), -1) . $item))) {
                     $acceptable[$key - 1] = $new_item;
                     if (isset($new_item1)) {
                         $acceptable[$key] = $new_item1;
@@ -73,8 +71,8 @@ class Complete_words
                     continue;
                 }
             }
-            if ($this->checkValidWord($new_item = $item . Arr::get($acceptable, $key + 1, "")) &&
-                !$this->checkValidWord(Arr::get($acceptable, $key + 1, ""))) {
+            if ($this->checkValidWord($new_item = $item . \Arr::get($acceptable, $key + 1, "")) &&
+                !$this->checkValidWord(\Arr::get($acceptable, $key + 1, ""))) {
                 $acceptable[$key + 1] = $new_item;
                 unset($acceptable[$key]);
             }
@@ -100,12 +98,12 @@ class Complete_words
         $next      = $current_position + $step;
         $tries     = 0;
         $max       = count($found_in);
-        $_tmp_word = $use_current ? $current_string : Arr::get($acceptable, $last_accept = array_key_last($acceptable), "");
+        $_tmp_word = $use_current ? $current_string : \Arr::get($acceptable, $last_accept = array_key_last($acceptable), "");
         if (is_array($_tmp_word)) {
             $_tmp_word = "";
         }
         do {
-            $_tmp_word .= Arr::get($found_in, $next, "");
+            $_tmp_word .= \Arr::get($found_in, $next, "");
             if ($valid = $this->checkValidWord($_tmp_word)) {
                 if (isset($last_accept)) {
                     $acceptable[$last_accept] = $_tmp_word;
