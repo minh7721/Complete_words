@@ -24,8 +24,6 @@ You can add your text file as dictionary or using `dictionary.txt`
 
 # Installation:
 
-Clone project and run :
-
 ```shell
 composer install nguyenhiep/complete_vietnames_words:dev-master
 ```
@@ -35,4 +33,16 @@ composer install nguyenhiep/complete_vietnames_words:dev-master
 ```phpt
 $helper           = new Complete_words($dictionary);
 echo($helper->completeWords($case));
+```
+
+# Testing:
+
+Clone project and run :
+
+```shell
+composer install
+```
+
+```shell
+php test.php
 ```

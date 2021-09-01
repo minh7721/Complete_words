@@ -4,7 +4,9 @@
   "type": "library",
   "require": {
     "php": "^7.4",
-    "ext-mbstring": "*"
+    "ext-mbstring": "*",
+    "illuminate/collections": ">=7",
+    "symfony/var-dumper": "^5.3"
   },
   "license": "MIT",
   "authors": [
@@ -16,6 +18,9 @@
   "autoload": {
     "psr-4": {
       "Nguyenhiep\\CompleteWords\\": "src"
-    }
+    },
+    "files": [
+      "helper.php"
+    ]
   }
 }
