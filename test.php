@@ -15,7 +15,11 @@ if (file_exists("result.txt")) {
     unlink("result.txt");
 }
 foreach ($files as $file) {
+    if (str_contains($file,"_text")){
+        continue;
+    }
     $info = pathinfo($file);
+    $results = [];
     if (file_exists($dictionary = __DIR__ . "/test/{$info['filename']}_text.txt")
         && file_exists($cases_file = __DIR__ . "/test/{$info['filename']}.txt")
         && $cases = array_filter(explode("\n", file_get_contents($cases_file)))) {
