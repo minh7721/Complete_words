@@ -4,8 +4,7 @@
   "type": "library",
   "require": {
     "php": "^7.4",
-    "illuminate/collections": "^8.57",
-    "symfony/var-dumper": "^5.3"
+    "ext-mbstring": "*"
   },
   "license": "MIT",
   "authors": [

@@ -73,7 +73,8 @@ class Complete_words
                     continue;
                 }
             }
-            if ($this->checkValidWord($new_item = $item . Arr::get($acceptable, $key + 1, ""))) {
+            if ($this->checkValidWord($new_item = $item . Arr::get($acceptable, $key + 1, "")) &&
+                !$this->checkValidWord(Arr::get($acceptable, $key + 1, ""))) {
                 $acceptable[$key + 1] = $new_item;
                 unset($acceptable[$key]);
             }
