@@ -1,0 +1,192 @@
+testing en.001:
+36. Application Method.— O n ce t h e s u rfa ce su b str ate h as b ee n p ro p er ly p r ep a r ed a n d (40-43) (Length 1504)
+=====>36. Application Method.— Once the surface substrate has been properly prep ared and (40-43) (Length 1504)
+37. Application Technique.— R e cla m a t io n d oes n ot sp ecify the p roced u re or tech niqu e to (43-45) (Length 765)
+=====>37. Application Technique.— Reclamation does not sp ecify th ep roced ure or technique to (43-45) (Length 765)
+45. Risk Evaluation.— Risk ev a lu a tio n is p rim ar ily a p ro ject office resp on sibility Th e (50-52) (Length 951)
+=====>45. Risk Evaluation.— Risk evalu ation isp rim ar ily ap ro ject office resp on sibility The (50-52) (Length 951)
+57. Surface Preparation.— T h e m e t h o d o f s u r fa ce p r e p a r a t io n o f g a lv a n i z ed m e t alw o r k (58-60) (Length 1398)
+=====>57. Surface Preparation.— The method of surface preparation of galvanized me talwork (58-60) (Length 1398)
+60. Formulation.— Fo r m u l a tio n fa ilu r e s a r e failu r es th a t a r e in h er en t w ith in th e co a tin g (62-64) (Length 777)
+=====>60. Formulation.— Formulation failures are failures that are inh er ent within the coating (62-64) (Length 777)
+64. Design.— N u m er ou s co a tin g failu r es occur , not b ecau se of m isform u lated m ater ials, (66-70) (Length 1645)
+=====>64. Design.— N um erou sco ating failures occu r, not because of m isform u lated m aterials, (66-70) (Length 1645)
+65. Exterior Forces.— Th e en v ir on m e n t th e c o a tin g i s su b je ct t o ca n b e a p r i m a r y c a u s e o f (70-74) (Length 895)
+=====>65. Exterior Forces.— The environment the coating issu bject to can bea prim ary cause of (70-74) (Length 895)
+
+testing en.002:
+N A R ROW A N D W I DE A NGL E C OU R S E DE S IGN S (38-44) (Length 1623)
+=====>NARROW AND WIDE ANGLE COURSE DESIGNS (38-44) (Length 1623)
+GR A M M AT IC A L S T RUC T U R E S A N D C OR E VOC A BU L A RY (48-51) (Length 627)
+=====>GR AM M AT IC AL STRUCTURE SA ND CORE VOCABULARY (48-51) (Length 627)
+PAT T E R N S OF T E X T ORG A N I Z AT ION (51-57) (Length 1986)
+=====>PATTERNS OF TEXT ORGANIZATION (51-57) (Length 1986)
+I N HOU S E T E AC H I NG M AT E R I A L F OR E NGI N E E R I NG S T U DE N T S (86-91) (Length 829)
+=====>IN HOUSE TEACHING MATERIAL FOR ENGINE ER I NGS RI D EN TS (86-91) (Length 829) U
+R E S E A RC H S T U DY I N T O WOR K PL AC E L A NGUAGE (91-98) (Length 778)
+=====>RESEARCH STUDY INTO WORKPLACE LANGUAGE (91-98) (Length 778)
+I N F OR M AT ION PROC E S SI NG Concepts (110-146) (Length 3004)
+=====>INFORMATION PROCESSING Concepts (110-146) (Length 3004)
+T O T E AC H U N DE R LY I NG K NOW L E DGE (150-162) (Length 3009)
+=====>TO TEACH UNDERLYING KNOWLEDGE (150-162) (Length 3009)
+R E I N T RODUC I NG T H E F R A M E WOR K (162-192) (Length 3008)
+=====>RE INTRODUCING THE FRAMEWORK (162-192) (Length 3008)
+183Subject Inde (196-199) (Length 646)
+=====>183Subject Inde (196-199) (Length 646)
+
+testing id.001:
+Ask r in d o Alok a sik a n 9 0 Pe r se n Ja m in a n Kr e d it n y a Un t u k UM KM (34-40) (Length 1334)
+=====>Askrindo Alokasikan 90 Persen Jaminan Kreditnya Untuk UMKM (34-40) (Length 1334)
+Pu sa t p r om osi p r od u k UKM a k a n j a d i h u b r e g ion a l (54-56) (Length 522)
+=====>promosi produk UKM akan jadi hub regional (54-56) (Length 522) t
+Ta h u n I n i Ba n k M ik r o Te r w u j u d by : Sisca Maria Eviline (56-58) (Length 527)
+=====>Tahun Ini Bank Mikro Terwujud by : Sisca Maria Eviline (56-58) (Length 527)
+UKM M e n g a r a h k e p a d a I n d u st r i Ja sa ANDREAS MARYOTO (60-62) (Length 721)
+=====>UKM Men ga kepada Industri Jasa ANDREAS MARYOTO (60-62) (Length 721) h
+Pe r t u m b u h a n om z e t M LM I n d on e sia t e r t e k a n JAKARTA: World Federation of Direct Selling Associations (WDFSA) mengungkapkan (67-70) (Length 687)
+=====>Per tumbuh an omzet MLM Indonesia kan JAKARTA: World Federation of Direct Selling Associations (WDFSA) mengungkapkan (67-70) (Length 687) e
+M e n a n t i Pe m b e n a h a n Pa sa r Tr a d ision a l by : Sapariah (72-76) (Length 1102)
+=====>Menanti Pe m be na h an Pasar Tradisional by : Sapariah (72-76) (Length 1102)
+
+testing id.002:
+St a bilisa si Pa n ga n Pe r lu Rp 1 3 ,7 T Pe n ga r u h n y a Ak a n Te r a sa 2 3 M in ggu k e D e pa n (32-38) (Length 1711)
+=====>Stabilisasi Pangan Perlu Rp13 ,7 T Pengaruhnya Akan Terasa 23 Minggu ke Depan (32-38) (Length 1711)
+Ribu a n Pe t a n i U n j u k Ra sa Rabu, 6 Februari 2008 | 11:59 WIB (39-42) (Length 750)
+=====>Ribuan Petani Unjuk Rasa Rabu, 6 Februari 2008 | 11:59 WIB (39-42) (Length 750)
+Ke t a h a n a n pa n ga n &amp; m isi k om e r sia l Bu log (44-47) (Length 800)
+=====>Ke tahan an pangan &amp; misi komersial Bulog (44-47) (Length 800)
+Pe t a n i M a sih Su lit (47-50) (Length 817)
+=====>Petani Masih Sulit (47-50) (Length 817)
+Ribu a n H e k t a r e Sa w a h di Pa n t u r a Te r ge n a n g Air (54-57) (Length 597)
+=====>Ribuan Hektare Sawah di Pantura Tergenang Air (54-57) (Length 597)
+Ev a lu a si Ke bij a k a n Se k t or Pe r t a n ia n Selasa, 12/02/ (60-63) (Length 798)
+=====>Evaluasi Kebijakan Sektor Pertanian Selasa, 12/02/ (60-63) (Length 798)
+Pe t a n i Be n gk u lu Ta k Be r m in a t Ta n a m Ke de la i [BENGKULU] Sebagian besar petani di Kota Bengkulu, Provinsi Bengkulu, tidak berminat (63-66) (Length 684)
+=====>Petani Bengkulu Tak Berminat Tanam Kedelai [BENGKULU] Sebagian besar petani di Kota Bengkulu, Provinsi Bengkulu, tidak berminat (63-66) (Length 684)
+BPRS M e m bidik Pe m bia y a a n Se k t or Pe r t a n ia n (70-72) (Length 545)
+=====>BPRS Membidik Pembiayaan Sektor Pertanian (70-72) (Length 545)
+Te r a n ca m Kr isis Pa n ga n Kamis, 14 Februari 2008 | 02:09 WIB (79-82) (Length 759)
+=====>Terancam Krisis Pangan Kamis, 14 Februari 2008 | 02:09 WIB (79-82) (Length 759)
+Pe t a n i Tu n t u t Ke n a ik a n H PP Ga ba h da n Be r a s Semarang-RoL Perhimpunan Petani dan Nelayan Sejahteran Indonesia (PPNSI) Jawa (82-84) (Length 748)
+=====>Petani Tuntut Kenaikan HPP Gabah dan Beras Semarang-RoL Perhimpunan Petani dan Nelayan Sejahteran Indonesia (PPNSI) Jawa (82-84) (Length 748)
+I n v olu si Pe t a n i Jumat, 15 Februari 2008 | 02:52 WIB (88-91) (Length 904)
+=====>Involusi Petani Jumat, 15 Februari 2008 | 02:52 WIB (88-91) (Length 904)
+Bu log Ak a n M e la k u k a n Be r ba ga i St r a t e gi Pe m be lia n Sabtu, 16 Februari 2008 | 03:38 WIB (92-96) (Length 736)
+=====>Bulog Akan la kan Berbagai Strategi Pembelian Sabtu, 16 Februari 2008 | 03:38 WIB (92-96) (Length 736) e u
+Pe t a n i Cit e pu s H ilir Ke lu h k a n Te r ba t a sn y a Air SUKABUMI, (PR) (103-106) (Length 749)
+=====>Petani Citepus Hilir Keluhkan Te r ba er sn ya Air SUKABUMI, (PR) (103-106) (Length 749) a
+Tiga Pe k a n Pe t a n i M e n j e r it 4 Ribu Ton Pu pu k D ibon gk a r (106-109) (Length 835)
+=====>Tiga Pekan Petani Menjerit 4 Ribu Ton Pupuk Dibongkar (106-109) (Length 835)
+Pe t a n i D a la m An ca m a n Fisik da n M e n t a l Oleh Dedi Sufyad (114-118) (Length 1076)
+=====>Petani Dalam Ancaman Fisik dan Mental Oleh Dedi Sufyad (114-118) (Length 1076)
+Be n ca n a e k ologis da n k r isis pa n ga n (118-121) (Length 689)
+=====>Bencana ekologis dan krisis pangan (118-121) (Length 689)
+Pa n e n An j lok , Pe t a n i Ke su lit a n M oda l Ta n a m Senin, 25 Februari 2008 | 01:05 WIB (121-123) (Length 762)
+=====>PanenAn j lok , Petani Kesulitan Modal Tanam Senin, 25 Februari 2008 | 01:05 WIB (121-123) (Length 762)
+Re v it a lisa si pe r k e bu n a n k opi su da h u r ge n (123-126) (Length 787)
+=====>Revitalisasi per kebun an kopi sudah urgen (123-126) (Length 787)
+
+testing id.003:
+Pr od u k UKM y a n g D ip a t e n k a n M a sih Se d ik it Jum'at, 08 Agustus 2008 , 00:16: (31-33) (Length 679)
+=====>Produk UKM yang D ipa nk an Masih Sedikit Jum'at, 08 Agustus 2008, 00:16: (31-33) (Length 679) e
+Ta n a h Ab a n g , p a sa r t r a d ison a l b e r n u a n sa m od e r n Blok A Tanah Abang merupakan ikon pusat perbelanjaan tradisional dengan konsep modern (34-38) (Length 1229)
+=====>Tanah Abang, pasar tradisonal be r nua nsa modern Blok A Tanah Abang merupakan ikon pusat perbelanjaan tradisional dengan konsep modern (34-38) (Length 1229)
+Be n a h i Pa sa r Tr a d ision a l SP/Alex Suban (43-48) (Length 1666)
+=====>Benahi Pasar Tradisional SP/Alex Suban (43-48) (Length 1666)
+Kom isi V I se t u j u i t a m b a h a n d a n a KUR (58-62) (Length 1155)
+
+=====>Komisi VI setujui bahan dana KUR (58-62) (Length 1155) m
+M e n e g k op n ila i M LM b e r d a y a k a n p e n g u sa h a k e cil JAKARTA: Menteri Negara Koperasi dan UKM Suryadharma Ali mengatakan sistem mult (66-70) (Length 751)
+=====>Menegkop nilai MLM be r daya kan pe ngusa ha ke cil JAKARTA: Menteri Negara Koperasi dan UKM Suryadharma Ali mengatakan sistem mult (66-70) (Length 751)
+PKL M u sim a n M u la i Pa d a t i Ta n a h Ab a n g Tr ot oa r d a n Ja la n M u la i D iok u p a s (74-77) (Length 567)
+=====>PKL Musiman Mulai Padati Tanah Abang Trotoar Jalan Mulai D iok upa s (74-77) (Length 567) n
+
+testing pt.001:
+A N E X O I – C O N T E Ú D O P R O G R A M Á T I C O FUNÇÃO DE NÍVEL MÉDIO (30-38) (Length 3005)
+=====>ANEXO ON EÚ DO Ú GRAM Ú FUNÇÃO DE NÍVEL MÉDIO (30-38) (Length 3005) C O O
+A N E X O I I – A T R I B U I Ç Õ E S D A S F U N Ç Õ E S FUNÇÃO DE NÍVEL MÉDIO (39-44) (Length 2608)
+=====>ANEXO II DAS FUNÇÕES FUNÇÃO DE NÍVEL MÉDIO (39-44) (Length 2608) S
+FUNÇÃO DE NÍVEL SUPERIOR Analista de Sistemas (Desenvolvimento de Sistema de Informação) (44-47) (Length 617)
+=====>FUNÇÃO DE NÍVEL SUPERIOR Analista de Sistemas (Desenvolvimento de Sistema de Informação) (44-47) (Length 617)
+
+testing vi.001:
+C. CHA M Ẹ CHA M Ẹ RU Ộ T CHA M Ẹ V Ợ CH Ồ NG CHA M Ẹ K Ế
+=====>C. CHA MẸ CHA MẸ RUỘT CHA MẸ VỢ CHỒNG CHA MẸ KẾ
+H Ồ S Ơ CH Ứ NG MINH NG ƯỜ I PH Ụ THU Ộ C
+=====>HỒ SƠ CHỨNG MINH NGƯỜI PHỤ THUỘC
+Thu ế su ấ t đố i v ớ i các kho ả n thu nh ậ p khác
+=====>Thuế suất đối với các khoản thu nhập khác
+Hoàn thu ế
+=====>Hoàn thuế
+
+testing vi.002:
+Ki ế n trúc Vi ệ t Nam t ừ n ă m 1975 đế n (26-40) (Length 416)
+=====>Kiến trúc Việt Nam từ năm 1975 đến (26-40) (Length 416)
+M ụ c tiêu (40-42) (Length 918)
+=====>Mục tiêu (40-42) (Length 918)
+
+testing vi.003:
+IV.4. Máy bi ế n dòng ph ụ cho b ả o v ệ so l ệ ch
+=====>IV.4. Máy biến dòng phụ cho bảo vệ so lệch
+V. B Ả O V Ệ SO L Ệ CH KHI CÓ DÒNG T Ừ HOÁ NH Ả Y V Ọ T HI Ệ N T ƯỢ NG QUÁ KÍCH T Ừ MBA
+=====>V. BẢO VỆ SO LỆCH KHI CÓ DÒNG TỪ HOÁ NHẢY VỌT HIỆN TƯỢNG QUÁ KÍCH TỪ MBA
+VI. MỘT SỐ SƠ ĐỒ BẢO VỆ TIÊU BIỂU CHO MBA Các ký hi ệ u trên s ơ đồ
+=====>VI. MỘT SỐ SƠ ĐỒ BẢO VỆ TIÊU BIỂU CHO MBA Các ký hiệu trên sơ đồ
+
+testing vi.004:
+i3. Các hình th ứ c t ồ n t ạ i c ủ a ch ủ th ể th ẩ m m ỹ (26-28) (Length 1756)
+=====>i3. Các hình tồn tại của chủ thể thẩm mỹ (26-28) (Length 1756) c
+2. Đặ c tr ư ng th ẩ m m ỹ c ủ a ngh ệ thu ậ t (31-33) (Length 1511)
+=====>2. Đặc trưng thẩm mỹ của nghệ thuật (31-33) (Length 1511)
+3. Các lo ạ i hình ngh ệ thu ậ t và cách th ưở ng th ứ c ngh ệ thu ậ t (33-37) (Length 3002)
+=====>3. Các loại hình nghệ thuật và cách thưởng nghệ thuật (33-37) (Length 3002) c
+VI. GIÁO D Ụ C TH Ẩ M M Ỹ (40-43) (Length 1303)
+=====>VI. GIÁO DỤC THẨM MỸ (40-43) (Length 1303)
+
+testing vi.005:
+Capture m ộ t t ệ p audio dùng Capture Wizard 1 Vào menu Tools ch ọ n Capture (27-29) (Length 484)
+=====>Capture một tệp audio dùng Capture Wizard 1 Vào menu Tools chọn Capture (27-29) (Length 484)
+L ư u và xu ấ t b ả n b ả n trình di ễ n 1 Vào menu File ch ọ n Pack and Go (29-31) (Length 1561)
+=====>Lưu và xuất bản bản trình diễn 1 Vào menu File chọn Pack and Go (29-31) (Length 1561)
+đố i T ượ ng Có th ể ch ọ n nhi ề u câu tr ả l ờ i (31-32) (Length 2080)
+=====>đối Tượng Có thể chọn nhiều câu trả lời (31-32) (Length 2080)
+
+testing vi.006:
+Đ I Ề U Đ Ó TÙY THU Ộ C VÀO B Ạ N (27-29) (Length 1427)
+=====>ĐIỀU ĐÓ TÙY THUỘC VÀO BẠN (27-29) (Length 1427)
+BI Ế N N ƯỚ C THÀNH R ƯỢ U (29-34) (Length 2594)
+=====>BIẾN NƯỚC THÀNH RƯỢU (29-34) (Length 2594)
+B Ạ N PH Ả I LÀ CHÍNH MÌNH (34-36) (Length 1676)
+=====>BẠN PHẢI LÀ CHÍNH MÌNH (34-36) (Length 1676)
+ĐẶ T CHÂN LÊN N ƯỚ C M Ỹ (36-39) (Length 2308)
+=====>ĐẶT CHÂN LÊN NƯỚC MỸ (36-39) (Length 2308)
+S Ự LÊN NGÔI C Ủ A DOANH NHÂN (39-43) (Length 3002)
+=====>SỰ LÊN NGÔI CỦA DOANH NHÂN (39-43) (Length 3002)
+H Ọ C KINH DOANH (43-45) (Length 1433)
+=====>HỌC KINH DOANH (43-45) (Length 1433)
+BI Ế N ĐỔ I TH Ế GI Ớ I R ƯỢ U (45-46) (Length 1320)
+=====>BIẾN ĐỔI THẾ GIỚI RƯỢU (45-46) (Length 1320)
+
+testing vi.007:
+1. Chu k ỳ s ố ng c ủ a s ả n ph ẩ m (28-31) (Length 2297)
+=====>1. Chu kỳ sống của sản phẩm (28-31) (Length 2297)
+3. Các chi ế n l ượ c marketing theo chu k ỳ s ố ng c ủ a s ả n ph ẩ m (31-35) (Length 3023)
+=====>3. Các chiến lược marketing theo chu kỳ sống của sản phẩm (31-35) (Length 3023)
+M Ụ C TIÊU MARKETING (35-42) (Length 3023)
+=====>MỤC TIÊU MARKETING (35-42) (Length 3023)
+
+testing vi.008:
+TR Ậ N Đ ÔNG B Ộ ĐẦ U 28 2911258 (26-31) (Length 3011)
+=====>TRẬN ĐÔNG BỘ ĐẦU 28 2911258 (26-31) (Length 3011)
+TR Ậ N NH Ư NGUY Ệ T V Ạ N KI Ế P V Ĩ NH BÌNH 671285 (31-32) (Length 774)
+=====>TRẬN NHƯ NGUYỆT VẠN KIẾP VĨNH BÌNH 671285 (31-32) (Length 774)
+TR Ậ N VÂN ĐỒ N 11288 (32-35) (Length 1633)
+=====>TRẬN VÂN ĐỒN 11288 (32-35) (Length 1633)
+TR Ậ N B Ạ CH ĐẰ NG N Ă M (35-37) (Length 1623)
+=====>TRẬN BẠCH ĐẰNG NĂM (35-37) (Length 1623)
+TR Ậ N THÀNH Đ A BANG 11407 (37-40) (Length 2905)
+=====>TRẬN THÀNH ĐA BANG 11407 (37-40) (Length 2905)
+TR Ậ N THÀNH Đ A BANG (40-43) (Length 1860)
+=====>TRẬN THÀNH ĐA BANG (40-43) (Length 1860)
+TR Ậ N T Ố T ĐỘ NG CHÚC ĐỘ NG 7111426 (43-46) (Length 2349)
+=====>TRẬN TỐT ĐỘNG CHÚC ĐỘNG 7111426 (43-46) (Length 2349)
