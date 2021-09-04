@@ -10,7 +10,7 @@ namespace Nguyenhiep\CompleteWords;
 
 use Illuminate\Support\Arr;
 
-class Complete_words
+class CompleteWords
 {
     protected string $dictionary;
 
