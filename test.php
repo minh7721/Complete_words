@@ -8,7 +8,7 @@
 
 require_once "vendor/autoload.php";
 
-use Nguyenhiep\CompleteWords\Complete_words;
+use Nguyenhiep\CompleteWords\CompleteWords;
 
 $files = array_diff(scandir(__DIR__ . "/test"), ['.', '..']);
 if (file_exists("result.txt")) {
@@ -24,7 +24,7 @@ foreach ($files as $file) {
         && file_exists($cases_file = __DIR__ . "/test/{$info['filename']}.txt")
         && $cases = array_filter(explode("\n", file_get_contents($cases_file)))) {
         dump($results[] = "testing {$info['filename']}:");
-        $helper = new Complete_words($dictionary);
+        $helper = new CompleteWords($dictionary);
         foreach ($cases as $case) {
             dump($results[] = $case, $results[] = "=====>" . $helper->completeWords($case));
         }
