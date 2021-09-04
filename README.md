@@ -31,7 +31,7 @@ composer install nguyenhiep/complete_vietnames_words:dev-master
 # Usage:
 
 ```phpt
-$helper           = new Nguyenhiep\CompleteWords\Complete_words($dictionary);
+$helper           = new Nguyenhiep\CompleteWords\CompleteWords($dictionary);
 echo($helper->completeWords($case));
 ```
 
