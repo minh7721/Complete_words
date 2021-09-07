@@ -25,7 +25,7 @@ You can add your text file as dictionary or using `dictionary.txt`
 # Installation:
 
 ```shell
-composer install nguyenhiep/complete_vietnames_words:dev-master
+composer require nguyenhiep/complete_vietnames_words:dev-master
 ```
 
 # Usage:
