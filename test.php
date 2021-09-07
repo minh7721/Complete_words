@@ -7,6 +7,7 @@
  */
 
 require_once "vendor/autoload.php";
+require_once "helper.php";
 
 use Nguyenhiep\CompleteWords\CompleteWords;
 
