@@ -136,7 +136,10 @@ class CompleteWords
      */
     protected function checkValidWord($word): bool
     {
-        $word_lower      = mb_strtolower($word, 'UTF-8');
-        return strpos($this->dictionary,$word) !== false || strpos($this->dictionary,$word_lower) !== false;
+        if (!$word) {
+            return false;
+        }
+        $word_lower = mb_strtolower($word, 'UTF-8');
+        return strpos($this->dictionary, $word) !== false || strpos($this->dictionary, $word_lower) !== false;
     }
 }
