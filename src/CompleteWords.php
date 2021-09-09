@@ -16,7 +16,7 @@ class CompleteWords
 
     public function __construct(string $dictionary)
     {
-        $this->dictionary = $dictionary;
+        $this->dictionary = file_get_contents($dictionary);
     }
 
     /**
@@ -137,8 +137,6 @@ class CompleteWords
     protected function checkValidWord($word): bool
     {
         $word_lower      = mb_strtolower($word, 'UTF-8');
-        $dictionary_file = $this->dictionary;
-        return shell_exec("cat $dictionary_file | grep -w '$word'") ||
-            shell_exec("cat $dictionary_file | grep -w '$word_lower'");
+        return strpos($this->dictionary,$word) !== false || strpos($this->dictionary,$word_lower) !== false;
     }
 }
